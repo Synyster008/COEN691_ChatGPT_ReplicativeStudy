@@ -1,0 +1,10 @@
+{"text": "Link ok", "label": "Link ok", "type": 1}
+{"text": "risBoot (command 1903) Error: Timed out while waiting for SRM prompt: <ABORT code completed>", "label": "risBoot (command {command}) Error: Timed out while waiting for SRM prompt: <ABORT code completed>", "type": 1}
+{"text": "Fan speeds ( 3552 3534 3391 **** 3515 3479 )", "label": "Fan speeds ( {int} {int} {int} **** {int} {int} )", "type": 1}
+{"text": "boot  (command 3169)", "label": "boot (command {command})", "type": 1}
+{"text": "wait  (command 1975)", "label": "wait (command {int})", "type": 1}
+{"text": "NIFF: node node-148 has detected an available network connection on network 5.5.226.0 via interface alt0", "label": "NIFF: node node-{int} has detected an available network connection on network {address} via interface alt0", "type": 1}
+{"text": "ServerFileSystem: ServerFileSystem domain root14_local is full", "label": "ServerFileSystem: ServerFileSystem domain {name} is full", "type": 1}
+{"text": "ambient=30", "label": "ambient={int}", "type": 1}
+{"text": "ClusterFileSystem: ServerFileSystem domain cluster_root_backup is no longer served by node node-96", "label": "ClusterFileSystem: ServerFileSystem domain {name} is no longer served by node node-{int}", "type": 1}
+{"text": "critical", "label": "critical", "type": 1}

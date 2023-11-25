@@ -1,0 +1,63 @@
+,EventTemplate,Occurrences
+0,"{ip_address} ""GET {endpoint}"" status: {status} len: {len} time: {time}",784
+1,[instance: {instance}] VM Started (Lifecycle Event),22
+2,[instance: {instance}] VM Paused (Lifecycle Event),22
+3,[instance: {instance}] During sync_power_state the instance has a pending task ({task}). Skip.,41
+4,image {instance} at ({path}): checking,82
+5,"image {instance} at ({path}): in use: on this node {count} local, {count} on other nodes sharing this instance storage",82
+6,Active base files: {path},82
+7,Creating event network-vif-plugged:{event_id} for instance {instance_id},19
+8,"{ip_address} ""POST {endpoint}"" status: {status} len: {len} time: {time}",64
+9,[instance: {instance}] VM Resumed (Lifecycle Event),44
+10,[instance: {instance}] Instance spawned successfully.,21
+11,[instance: {instance}] Took {time} seconds to spawn the instance on the hypervisor.,22
+12,[instance: {instance}] Took {time} seconds to build instance.,22
+13,Auditing locally available compute resources for node {node},15
+14,"Total usable vcpus: {total_usable_vcpus}, total allocated vcpus: {total_allocated_vcpus}",14
+15,Final resource view: name={name} phys_ram={phys_ram}MB used_ram={used_ram}MB phys_disk={phys_disk}GB used_disk={used_disk}GB total_vcpus={total_vcpus} used_vcpus={used_vcpus} pci_stats={pci_stats},9
+16,Compute_service record updated for {hostname},15
+17,"{ip_address} ""{method} {endpoint} {protocol}"" status: {status} len: {len} time: {time}",21
+18,"{ip_address} ""{method} {endpoint} HTTP/1.1"" status: {status} len: {len} time: {time}",117
+19,"{ip_address} ""DELETE {endpoint}"" status: {status} len: {len} time: {time}",19
+20,[instance: {instance}] Terminating instance,22
+21,[instance: {instance}] Instance destroyed successfully.,22
+22,[instance: {instance}] Deleting instance files {path},21
+23,[instance: {instance}] Deletion of {path} complete,21
+24,[instance: {instance}] Took {time} seconds to destroy the instance on the hypervisor.,21
+25,[instance: {instance}] Took {time} seconds to deallocate network for instance.,21
+26,Unknown base file: {path},30
+27,Removable base files: {path},30
+28,Removing base or swap file: {path},21
+29,HTTP exception thrown: No instances found for any event,21
+30,"[instance: {instance}] Attempting claim: memory {memory} MB, disk {disk} GB, vcpus {cpu} CPU",21
+31,"[instance: {instance}] Total memory: {total_memory} MB, used: {used_memory} MB",21
+32,"[instance: {instance}] memory limit: {limit} MB, free: {free} MB",21
+33,"[instance: {instance}] Total disk: {total} GB, used: {used} GB",21
+34,"[instance: <*>] disk limit not specified, defaulting to unlimited",17
+35,"[instance: {instance}] Total vcpu: {total_vcpu} VCPU, used: {used_vcpu} VCPU",20
+36,"[instance: {instance}] vcpu limit not specified, defaulting to unlimited",21
+37,[instance: {instance}] Claim successful,21
+38,[instance: {instance}] Creating image,21
+39,"{ip_address} ""GET {endpoint}"" status: {status} len: {len} time: {time}""",2
+40,[instance: {instance}] VM Stopped (Lifecycle Event),21
+41,Successfully synced instances from host '{host}'.,2
+42,Running instance usage audit for host {host} from {start_time} to {end_time}. {count} instances.,1
+43,"[instance: {instance}] disk limit not specified, defaulting to unlimited",4
+44,[instance: <*>] During sync_power_state the instance has a pending task (<*>) Skip.,2
+45,Creating event {event} for instance {instance},2
+46,[instance: <*>] Instance spawned successfully.,1
+47,"""{ip_address} ""DELETE {endpoint}"" status: {status} len: {len} time: {time}""",1
+48,Base or swap file too young to remove: {path},9
+49,"{ip1},{ip2} ""GET {endpoint}"" status: {status} len: {len} time: {time}",2
+50,"{ip1},{ip2} ""GET {endpoint} HTTP/1.1"" status: {status} len: {len} time: {time}",2
+51,Final resource view: name={name} phys_ram={phys_ram} used_ram={used_ram} phys_disk={phys_disk} used_disk={used_disk} total_vcpus={total_vcpus} used_vcpus={used_vcpus} pci_stats={pci_stats},5
+52,The instance sync for host '{host}' did not match. Re-created its InstanceList.,5
+53,"""{ip_address} \""DELETE {endpoint}\"" status: {status} len: {len} time: {time}""",1
+54,Creating event network-vif-plugged:{event_id} for instance {instance},1
+55,Final resource view: name={name} phys_ram={ram}MB used_ram={used_ram}MB phys_disk={disk}GB used_disk={used_disk}GB total_vcpus={vcpus} used_vcpus={used_vcpus} pci_stats={stats},1
+56,"{ip_address} ""DELETE {endpoint}"" status: {status} len: {len} time: {time}""",1
+57,"Total usable vcpus: {usable_vcpus}, total allocated vcpus: {allocated_vcpus}",1
+58,"While synchronizing instance power states, found {num_db} instances in the database and {num_hypervisor} instances on the hypervisor.",1
+59,"""{ip1},{ip2} """"{method} {endpoint}"""" status: {status} len: {len} time: {time}""",2
+60,"""{ip} """"GET {address}"""" status: {status} len: {len} time: {time}""",1
+61,"[instance: {instance}] Total vcpu: {total} VCPU, used: {used} VCPU",1

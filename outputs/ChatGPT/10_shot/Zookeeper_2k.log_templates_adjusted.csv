@@ -1,0 +1,56 @@
+,EventTemplate,Occurrences
+0,Interrupted while waiting for message on queue,314
+1,Received connection request <*>,299
+2,"Connection broken for id <*>, my id = <*>, error =",291
+3,Interrupting SendWorker,266
+4,Send worker leaving thread,262
+5,Cannot open channel to <*> at election address <*>,86
+6,Established session <*> with negotiated timeout <*> for client <*>,50
+7,Accepted socket connection from <*>,48
+8,Processed session termination for sessionid: <*>,47
+9,Closed socket connection for client <*> which had sessionid <*>,44
+10,Client attempting to establish new session at <*>,41
+11,"Expiring session <*>, timeout of <*> exceeded",40
+12,Connection request from old client <*>; will be dropped if server is in r-o mode,38
+13,Notification time out: <*>,37
+14,caught end of stream exception,37
+15,******* GOODBYE <*> ********,19
+16,"Notification: <*> (n.leader), <*> (n.zxid), <*> (n.round), <*> (n.state), <*> (n.sid), <*> (n.peerEPoch), <*> (my state)",12
+17,Unexpected exception causing shutdown while sock still open,12
+18,LOOKING,4
+19,Closed socket connection for client <*> (no session established for client),4
+20,Client attempting to renew session <*> at <*>,3
+21,Exception causing close of session <*> due to <*>,3
+22,autopurge.purgeInterval set to <*>,3
+23,FOLLOWING,2
+24,FOLLOWING - LEADER ELECTION TOOK - <*>,2
+25,Server environment:java.vendor=Oracle Corporation,2
+26,Server environment:user.name=zookeeper,2
+27,Server environment:os.name=<*>,2
+28,Snapshotting: <*> to <*>,2
+29,Getting a snapshot from leader,2
+30,minSessionTimeout set to <*>,2
+31,Unexpected Exception:,1
+32,Server environment:user.dir=/,1
+33,My election bind port: <*>.0/0.<*>,1
+34,"Have smaller server identifier, so dropping the connection: <*>",1
+35,"New election. My id = <*>, proposed zxid=<*>",1
+36,Server environment:host.name=mesos-master-<*>,1
+37,autopurge.snapRetainCount set to <*>,1
+38,Revalidating client: 0x14f05578bd80018,1
+39,"Server environment:zookeeper.version=<*>, built on <*> GMT",1
+40,Revalidating client: 0x14f05578bd80013,1
+41,tickTime set to <*>,1
+42,Got user-level KeeperException when processing sessionid:<*> type:<*> cxid:<*> zxid:<*> txntype:<*> reqpath:<*> Error Path:<*> Error:KeeperErrorCode = <*> for <*>,1
+43,Starting quorum peer,1
+44,Connection request from old client <*>; will be dropped if server is in r-o mode},1
+45,Follower sid: <*> : <*> : <*>,1
+46,Revalidating client: 0x24f0557806a001c,1
+47,maxSessionTimeout set to <*>,1
+48,Server environment:java.class.path=<*>,1
+49,Have quorum of supporters; starting up and setting last processed zxid: 0xb00000000,1
+50,shutdown of request processor complete,1
+51,First is 0x0,1
+52,Reading snapshot <*>,1
+53,Sending DIFF,1
+54,Server environment:java.home=<*>,1

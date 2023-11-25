@@ -1,0 +1,11 @@
+{"text": "store operation.............................1", "label": "store operation.............................{code}", "type": 1}
+{"text": "Node card status: no ALERTs are active. Clock Mode is Low. Clock Select is Midplane. Phy JTAG Reset is asserted. ASIC JTAG Reset is asserted. Temperature Mask is not active. No temperature error. Temperature Limit Error Latch is clear. PGOOD IS NOT ASSERTED. PGOOD ERROR LATCH IS ACTIVE. MPGOOD IS NOT OK. MPGOOD ERROR LATCH IS ACTIVE. The 2.5 volt rail is OK. The 1.5 volt rail is OK.", "label": "Node card status: no ALERTs are active. Clock Mode is Low. Clock Select is Midplane. Phy JTAG Reset is asserted. ASIC JTAG Reset is asserted. Temperature Mask is not active. No temperature error. Temperature Limit Error Latch is clear. PGOOD IS NOT ASSERTED. PGOOD ERROR LATCH IS ACTIVE. MPGOOD IS NOT OK. MPGOOD ERROR LATCH IS ACTIVE. The {volt} volt rail is OK. The {volt} volt rail is OK.", "type": 1}
+{"text": "CE sym 9, at 0x11f82720, mask 0x02", "label": "CE sym {sym}, at {address}, mask {mask}", "type": 1}
+{"text": "2 ddr error(s) detected and corrected on rank 0, symbol 28 over 3365 seconds", "label": "{count} ddr error(s) detected and corrected on rank {rank}, symbol {symbol} over {second} seconds", "type": 1}
+{"text": "program interrupt: illegal instruction......1", "label": "program interrupt: illegal instruction......{value}", "type": 1}
+{"text": "8 floating point alignment exceptions", "label": "{exception_count} floating point alignment exceptions", "type": 1}
+{"text": "machine state register: 0x00002000", "label": "machine state register: {register}", "type": 1}
+{"text": "ciod: Error loading /bgl/apps/followup/RAPTOR/new.raptor.trace: invalid or missing program image, Exec format error", "label": "ciod: Error loading {path}: invalid or missing program image, Exec format error", "type": 1}
+{"text": "iar 003a90fc dear 00b360e8", "label": "iar {iar_value} dear {dear_value}", "type": 1}
+{"text": "2201500 double-hummer alignment exceptions", "label": "{exception_count} double-hummer alignment exceptions", "type": 1}
+

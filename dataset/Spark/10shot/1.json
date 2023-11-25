@@ -1,0 +1,10 @@
+{"text": "Slf4jLogger started", "label": "Slf4jLogger started", "type": 1}
+{"text": "SecurityManager: authentication disabled; ui acls disabled; users with view permissions: Set(yarn, curi); users with modify permissions: Set(yarn, curi)", "label": "SecurityManager: authentication disabled; ui acls disabled; users with view permissions: Set(yarn, curi); users with modify permissions: Set(yarn, curi)", "type": 1}
+{"text": "Found block rdd_42_39 locally", "label": "Found block {block} locally", "type": 1}
+{"text": "Times: total = 39, boot = 18, init = 20, finish = 1", "label": "Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}", "type": 1}
+{"text": "Finished task 3.0 in stage 0.0 (TID 3). 2703 bytes result sent to driver", "label": "Finished task {count} in stage {stage} (TID {TID}). {bytes} bytes result sent to driver", "type": 1}
+{"text": "Got assigned task 87", "label": "Got assigned task {task}", "type": 1}
+{"text": "Running task 0.0 in stage 2.0 (TID 87)", "label": "Running task {count} in stage {stage} (TID {TID})", "type": 1}
+{"text": "Partition rdd_2_1 not found, computing it", "label": "Partition {block} not found, computing it", "type": 1}
+{"text": "Started reading broadcast variable 8", "label": "Started reading broadcast variable {variable}", "type": 1}
+{"text": "Reading broadcast variable 8 took 19 ms", "label": "Reading broadcast variable {variable} took {time} ms", "type": 1}

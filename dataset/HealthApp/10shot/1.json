@@ -1,0 +1,10 @@
+{"text": "initEnviroument", "label": "initEnviroument", "type": 1}
+{"text": " getTodayTotalDetailSteps = 1514038440000##7031##548365##8661##14546##27187968", "label": "getTodayTotalDetailSteps = {timestamp}##{int}##{int}##{int}##{int}##{int}", "type": 1}
+{"text": "startSync hiSyncOption = HiSyncOption{syncAction=2, syncMethod=2, syncScope=0, syncDataType=20000, syncModel=2, pushAction=0},app = 1 who = 1", "label": "startSync hiSyncOption = HiSyncOption{syncAction={action}, syncMethod={method}, syncScope={scope}, syncDataType={data_type}, syncModel={model}, pushAction={action}},app = {app} who = {id}", "type": 1}
+{"text": "flush sensor data", "label": "flush sensor data", "type": 1}
+{"text": "calculateCaloriesWithCache totalCalories=130116", "label": "calculateCaloriesWithCache totalCalories={calories}", "type": 1}
+{"text": "onExtend:1514038799000 2 0 4", "label": "onExtend:<timestamp> <value1> <value2> <value3>", "type": 1}
+{"text": "onStandStepChanged 3737", "label": "onStandStepChanged {steps}", "type": 1}
+{"text": "REPORT : 7163 5114 153431 240", "label": "REPORT : {value1} {value2} {value3} {value4}", "type": 1}
+{"text": "initUserPrivacy the userPrivacy is true", "label": "initUserPrivacy the userPrivacy is {boolean}", "type": 1}
+{"text": "new date =20171223, type=40002,7163.0,old=6983.0", "label": "new date ={timestamp}, type={type},{count},old={count}", "type": 1}

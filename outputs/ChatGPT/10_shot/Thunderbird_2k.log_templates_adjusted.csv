@@ -1,0 +1,152 @@
+,EventTemplate,Occurrences
+0,data_thread() got not answer from any [<*>] datasource,819
+1,"synchronized to <*>, stratum <*>",568
+2,[ib_sm_sweep.c:<*>]: ********************** NEW SWEEP ********************,62
+3,[ib_sm_sweep.c:<*>]: No topology change,62
+4,[ib_sm_sweep.c:<*>]: No configuration change required,62
+5,Warning: we failed to resolve data source name <*>,34
+6,session closed for user <*>,24
+7,session opened for user <*> by (uid=<*>),19
+8,Reading included configuration file: <*> [file=<*>] [line=<*>],17
+9,removing <*>,16
+10,DHCPDISCOVER from <*> via eth1: network <*>: no free leases,15
+11,(<*>) CMD (run-parts <*>),14
+12,<*>,13
+13,RRD_update (<*>): illegal attempt to update using time <*> when last update time is <*> (minimum one second step),11
+14,"PCI interrupt <*>[<*>] -> GSI <*> (<*>, <*>) -> IRQ <*>",11
+15,unable to qualify my own domain name (<*>) -- using short name,10
+16,"<*>: from=<*>, size=<*>, class=<*>, nrcpts=<*>, msgid=<*>, relay=<*>@localhost",10
+17,DHCPREQUEST for <*> (<*>) from <*> via <*>: <*>,9
+18,"<*>: to=<*>, ctladdr=<*> (<*>), delay=<*>, xdelay=<*>, mailer=<*>, pri=<*>, relay=[<*>] [<*>], dsn=<*>, stat=<*>",8
+19,PCI Interrupt Routing Table [<*>],8
+20,Wait for ready failed before probe !,6
+21,DHCPDISCOVER from <*> via <*>,5
+22,DHCPOFFER on <*> to <*> via <*>,5
+23,My unqualified host name (<*>) unknown; sleeping for retry,5
+24,L2 cache: <*>,5
+25,Physical Processor ID: <*>,5
+26,"Trace cache: <*> uops, L1 D cache: <*>",5
+27,Registered protocol family <*>,5
+28,<*> startup succeeded,5
+29,(<*>) CMD (<*> <*>),4
+30,LAPIC (acpi_id[<*>] lapic_id[<*>] enabled),4
+31,LAPIC_NMI (acpi_id[<*>] high edge lint[<*>]),4
+32,Processor [<*>] (supports <*>),4
+33,(<*>) <*>-<*> <*>,4
+34,Local disconnected: <*>.,3
+35,DHCPACK on <*> to <*> via <*>,3
+36,DHCPREQUEST for <*> (<*>) from <*> via <*>,3
+37,IOAPIC (id[<*>] address[<*>] gsi_base[<*>]),3
+38,"PCI Interrupt Link [<*>] (IRQs <*>) <*>, <*>.",3
+39,mounted filesystem with ordered data mode.,3
+40,registered new driver <*>,3
+41,connection lost: '<*>'.,2
+42,"apic_id <*>, version <*>, address <*>, GSI <*>-<*>",2
+43,allocating <*> for <*>,2
+44,not allocating divert_blk for non-ethernet device <*>,2
+45,... autorun DONE.,2
+46,Autodetecting RAID arrays.,2
+47,autorun ...,2
+48,"connection from ""<*>""",2
+49,"User <*>, coming from <*>, authenticated.",2
+50,Now running on <*>'s privileges.,2
+51,"<*>: to=<*>, ctladdr=<*> (<*>/<*>), delay=<*>, xdelay=<*>, mailer=<*>, pri=<*>, relay=[<*>] [<*>], dsn=<*>, stat=<*>",2
+52,START: tftp pid=<*> from=<*>,1
+53,kernel time sync disabled <*>,1
+54,time reset <*> s,1
+55,Received SNMP packet(s) from <*>,1
+56,kernel time sync enabled <*>,1
+57,(<*>) CMD (<*>),1
+58,<*>-<*> (Kernel Module <*> key),1
+59,(<*>),1
+60,DSDT (v001 <*> <*> <*> <*> <*>) @ <*>,1
+61,FADT (v001 <*> <*> <*> <*> <*>) @ <*>,1
+62,HPET (v001 <*> <*> <*> <*> <*>) @ <*>,1
+63,HPET id: <*> base: <*>,1
+64,INT_SRC_OVR (bus <*> bus_irq <*> global_irq <*> dfl <*> dfl <*>),1
+65,INT_SRC_OVR (bus <*> bus_irq <*> global_irq <*> <*>),1
+66,Local APIC address <*>,1
+67,MADT (v001 <*> <*> <*> <*> <*>) @ <*>,1
+68,MCFG (v001 <*> <*> <*> <*> <*>) @ <*>,1
+69,PCI Interrupt Link [LNKA] (IRQs <*>) <*>,1
+70,PCI Interrupt Link [<*>] (IRQs <*>),1
+71,PCI Interrupt Link [LNKC] (IRQs <*>) <*>,1
+72,"PCI Interrupt Link [LNKE] (IRQs <*>) <*>, disabled.",1
+73,"PCI Interrupt Link [LNKG] (IRQs <*>) <*>, <*>.",1
+74,PCI <*> Bridge [<*>] (<*>),1
+75,Power Button (<*>) [<*>],1
+76,RSDP (v000 <*> ) @ <*>,1
+77,RSDT (v001 <*> <*> <*> <*> <*>) @ <*>,1
+78,SPCR (v001 <*> <*> <*> <*> <*> <*>) @ <*>,1
+79,Subsystem revision <*>,1
+80,Using IOAPIC for interrupt routing,1
+81,<*> stepping <*>,1
+82,colour <*>,1
+83,"<*>,v <*> <*> <*> <*> <*> <*>",1
+84,"apic_id <*>, version <*>, address <*>, GSI <*>",1
+85,"routing cache hash table of <*> buckets, <*>",1
+86,PCI Hot Plug PCI Core version: <*>,1
+87,"<*>=<*> initrd=<*> console=<*> console=<*>,<*> fastboot BOOT_IMAGE=<*>",1
+88,Using software bounce buffering for IO (SWIOTLB),1
+89,Probing PCI hardware (bus <*>),1
+90,Transparent bridge - <*>,1
+91,Using ACPI for IRQ routing,1
+92,Using MMCONFIG at <*>,1
+93,Using configuration type <*>,1
+94,Compressed image found at block <*>,1
+95,Initializing.,1
+96,Registering netfilter hooks,1
+97,Starting in <*> mode,1
+98,Unregistering netfilter hooks,1
+99,Direct-Access ANSI SCSI revision: <*>,1
+100,Processor ANSI SCSI revision: <*>,1
+101,Disk quotas <*>,1
+102,Mounted <*> (<*> filesystem).,1
+103,MegaRAID Model: <*> <*> <*> Rev: <*>,1
+104,<*> Model: <*> SCSI BP Rev: <*>,1
+105,initialized,1
+106,initializing netlink socket (<*>),1
+107,<*> (<*>-<*>-<*>) initialised: <*>@#<*>,1
+108,<*>:USB HID core driver,1
+109,eth0: <*>: <*>,1
+110,eth0: e1000_watchdog: NIC Link is Up <*> Mbps <*>,1
+111,eth1: <*>: <*>,1
+112,no <*> controllers found,1
+113,Assuming <*> system bus speed for PIO modes; override with idebus=<*>,1
+114,Unknown cmd fd(<*>) cmd(<*>)<*> arg(<*>) on <*>,1
+115,Installing public key data,1
+116,"md driver <*> MAX_MD_DEVS=<*>, MD_SB_DISKS=<*>",1
+117,<*>-<*> (Release Date: <*>),1
+118,<*> (Release Date: <*>),1
+119,fw version:[<*>] bios version:[<*>],1
+120,probe new device <*>: bus <*>:slot <*>:func <*>,1
+121,<*> device common for all <*>,1
+122,v2.<*> (<*>),1
+123,Starting <*>: <*>,1
+124,Version <*> Starting,1
+125,scanning scsi channel <*> [Phy <*>] for non-raid devices,1
+126,scanning scsi channel <*> [<*>] for logical drives,1
+127,asking for cache data failed,1
+128,assuming drive cache: <*>,1
+129,<*> <*> <*> <*>,1
+130,Registering secondary module capability,1
+131,<*> port at <*> irq <*>,1
+132,i8042 KBD port at <*> irq <*>,1
+133,<*> version <*> starting,1
+134,Detected <*> MHz processor.,1
+135,Using <*> MHz HPET timer.,1
+136,Using HPET based timekeeping.,1
+137,Creating Topspin <*> entries:,1
+138,registered new driver usbfs,1
+139,probe of <*> failed with error <*>,1
+140,Mounting NFS filesystems: <*>,1
+141,Mounting other filesystems: <*>,1
+142,Warning: we failed to resolve trusted host name <*>,1
+143,Server listening on :: port <*>.,1
+144,error: Bind to port <*> on <*> failed: <*>.,1
+145,Cannot open file <*> for writing (<*>),1
+146,Changing permissions on special file <*>,1
+147,Started working: <*> available service,1
+148,<*> Version <*> started with <*> options compiled in.,1
+149,connection lost: '<*>',1
+150,"Device: <*>, Temperature changed <*> Celsius to <*> Celsius since last report",1

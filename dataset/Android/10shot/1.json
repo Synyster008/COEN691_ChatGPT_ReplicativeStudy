@@ -1,0 +1,10 @@
+{"text": "getMode...", "label": "getMode...", "type": 1}
+{"text": "setSystemUiVisibility vis=0 mask=1 oldVal=40000500 newVal=40000500 diff=0 fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - 0, 0), dockedStackBounds=Rect(0, 0 - 0, 0)", "label": "setSystemUiVisibility vis={vis} mask={mask} oldVal={oldVal} newVal={newVal} diff={diff} fullscreenStackVis={fullscreenStackVis} dockedStackVis={dockedStackVis}, fullscreenStackBounds=Rect({fullscreenStackBounds}), dockedStackBounds=Rect({dockedStackBounds})", "type": 1}
+{"text": "instantCollapse", "label": "instantCollapse", "type": 1}
+{"text": "interceptKeyBeforeQueueing: key 4 , result : 1", "label": "interceptKeyBeforeQueueing: key {key} , result : {result}", "type": 1}
+{"text": "shouldBlockLocation running ...", "label": "shouldBlockLocation running ...", "type": 1}
+{"text": "Animating brightness: target=38, rate=200", "label": "Animating brightness: target= {target}, rate={rate}", "type": 1}
+{"text": "cancelNotification,index:0", "label": "cancelNotification,index:{index}", "type": 1}
+{"text": "cancelNotificationWithTag pid 28601,uid = 10111,tag = null,pkg =com.tencent.mobileqq,id =121", "label": "cancelNotificationWithTag pid {pid},uid = {uid},tag = {tag},pkg ={pkg},id ={id}", "type": 1}
+{"text": "getRunningAppProcesses: caller 10113 does not hold REAL_GET_TASKS; limiting output", "label": "getRunningAppProcesses: caller {caller} does not hold REAL_GET_TASKS; limiting output", "type": 1}
+{"text": "HBM brightnessIn =38", "label": "HBM brightnessIn ={value}", "type": 1}

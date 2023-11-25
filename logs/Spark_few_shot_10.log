@@ -1,0 +1,4000 @@
+Template: `Registered signal handlers for [{signals}]`
+ =================== 
+Template: `Changing view acls to: {acls}`
+ =================== 
+Template: `Changing modify acls to: {acls}`
+ =================== 
+Template: `SecurityManager: authentication disabled; ui acls disabled; users with view permissions: Set(yarn, curi); users with modify permissions: Set(yarn, curi)`
+ =================== 
+Template: `Changing view acls to: {acls}`
+ =================== 
+Template: `Changing modify acls to: {acls}`
+ =================== 
+Template: `SecurityManager: authentication disabled; ui acls disabled; users with view permissions: Set(yarn, curi); users with modify permissions: Set(yarn, curi)`
+ =================== 
+Template: `Slf4jLogger started`
+ =================== 
+Template: `Starting remoting`
+ =================== 
+Template: `Remoting started; listening on addresses :[akka.tcp://sparkExecutorActorSystem@{address}:{port}]`
+ =================== 
+Template: `Successfully started service '{service}' on port {port}.`
+ =================== 
+Template: `Created local directory at {directory}`.
+ =================== 
+Template: `MemoryStore started with capacity {capacity}`
+ =================== 
+Template: `Connecting to driver: spark://{scheduler}@{ip}:{port}`.
+ =================== 
+Template: `Successfully registered with driver`
+ =================== 
+Template: `Starting executor ID {ID} on host {host}`.
+ =================== 
+Template: `Successfully started service '{service}' on port {port}.`
+ =================== 
+Template: `Server created on {port}`
+ =================== 
+Template: `Trying to register BlockManager`
+ =================== 
+Template: `Registered BlockManager`
+ =================== 
+Template: `Got assigned task {task}`
+ =================== 
+Template: `Got assigned task {task}`
+ =================== 
+Template: `Got assigned task {task}`
+ =================== 
+Template: `Got assigned task {task}`
+ =================== 
+Template: `Running task {count} in stage {stage} (TID {TID})`
+ =================== 
+Template: `Running task {count} in stage {stage} (TID {TID})`
+ =================== 
+Template: `Running task {count} in stage {stage} (TID {TID})`
+ =================== 
+Template: `Running task {count} in stage {stage} (TID {TID})`
+ =================== 
+Template: `Got assigned task {task}`
+ =================== 
+Template: `Running task {count} in stage {stage} (TID {TID})`
+ =================== 
+Template: `Started reading broadcast variable {variable}`
+ =================== 
+Template: `Block {block} stored as bytes in memory (estimated size {size}, free {free})`
+ =================== 
+Template: `Reading broadcast variable {variable} took {time} ms`
+ =================== 
+Template: `Block {block} stored as values in memory (estimated size {size}, free {free})`
+ =================== 
+Template: `Partition {block} not found, computing it`
+ =================== 
+Template: `Partition {block} not found, computing it`
+ =================== 
+Template: `Partition {block} not found, computing it`
+ =================== 
+Template: `Partition {block} not found, computing it`
+ =================== 
+Template: `Partition {block} not found, computing it`
+ =================== 
+Template: `Input split: {path}:{start}+{length}`.
+ =================== 
+Template: `Input split: {path}:{start}+{length}`
+ =================== 
+Template: `Input split: {path}:{start}+{length}`
+ =================== 
+Template: `Input split: {path}:{start}+{end}`.
+ =================== 
+Template: `Input split: {path}:{start}+{length}`
+ =================== 
+Template: `Started reading broadcast variable {variable}`
+ =================== 
+Template: `Block {block} stored as bytes in memory (estimated size {size}, free {free})`
+ =================== 
+Template: `Reading broadcast variable {variable} took {time} ms`
+ =================== 
+Template: `Block {block} stored as values in memory (estimated size {size}, free {free})`
+ =================== 
+Template: `mapred.tip.id is deprecated. Instead, use mapreduce.task.id`
+ =================== 
+Template: `mapred.task.id is deprecated. Instead, use mapreduce.task.attempt.id`
+ =================== 
+The template of `mapred.task.is.map is deprecated. Instead, use mapreduce.task.ismap` is `mapred.task.is.map is deprecated. Instead, use mapreduce.task.ismap`.
+ =================== 
+Template: `mapred.job.id is deprecated. Instead, use mapreduce.job.id`
+ =================== 
+The template of `mapred.task.partition is deprecated. Instead, use mapreduce.task.partition` is `mapred.task.partition is deprecated. Instead, use mapreduce.task.partition`.
+ =================== 
+Template: `Started reading broadcast variable {variable}`
+ =================== 
+Template: `Block {block} stored as bytes in memory (estimated size {size} B, free {free} KB)`
+ =================== 
+Template: `Reading broadcast variable {variable} took {time} ms`
+ =================== 
+Template: `Block {block} stored as values in memory (estimated size {size}, free {free})`
+ =================== 
+Template: `Started reading broadcast variable {variable}`
+ =================== 
+Template: `Block {block} stored as bytes in memory (estimated size {size} B, free {free} KB)`
+ =================== 
+Template: `Reading broadcast variable {variable} took {time} ms`
+ =================== 
+Template: `Block {block} stored as values in memory (estimated size {size}, free {free})`
+ =================== 
+Template: `Started reading broadcast variable {variable}`
+ =================== 
+Template: `Block {block} stored as bytes in memory (estimated size {size}, free {free})`
+ =================== 
+Template: `Reading broadcast variable {variable} took {time} ms`
+ =================== 
+Template: `Block {block} stored as values in memory (estimated size {size}, free {free})`
+ =================== 
+Template: `Started reading broadcast variable {variable}`
+ =================== 
+Template: `Block {block} stored as bytes in memory (estimated size {size}, free {free})`
+ =================== 
+Template: `Reading broadcast variable {variable} took {time} ms`
+ =================== 
+Template: `Block {block} stored as values in memory (estimated size {size}, free {free})`
+ =================== 
+Template: `Started reading broadcast variable {variable}`
+ =================== 
+Template: `Block {block} stored as bytes in memory (estimated size {size} B, free {free} KB)`
+ =================== 
+Template: `Reading broadcast variable {variable} took {time} ms`
+ =================== 
+Template: `Block {block} stored as values in memory (estimated size {size}, free {free})`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Block {block} stored as bytes in memory (estimated size {size}, free {free})`
+ =================== 
+Template: `Block {block} stored as bytes in memory (estimated size {size} B, free {free} KB)`
+ =================== 
+Template: `Block {block} stored as bytes in memory (estimated size {size} B, free {free} KB)`
+ =================== 
+Template: `Block {block} stored as bytes in memory (estimated size {size} B, free {free} KB)`
+ =================== 
+Template: `Block {block} stored as bytes in memory (estimated size {size} B, free {free} KB)`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Finished task {count} in stage {stage} (TID {TID}). {bytes} bytes result sent to driver`
+ =================== 
+Template: `Finished task {count} in stage {stage} (TID {TID}). {bytes} bytes result sent to driver`
+ =================== 
+Template: `Finished task {count} in stage {stage} (TID {TID}). {bytes} bytes result sent to driver`
+ =================== 
+Template: `Finished task {count} in stage {stage} (TID {TID}). {bytes} bytes result sent to driver`
+ =================== 
+Template: `Finished task {count} in stage {stage} (TID {TID}). {bytes} bytes result sent to driver`
+ =================== 
+Template: `Got assigned task {task}`
+ =================== 
+Template: `Running task {count} in stage {stage} (TID {TID})`
+ =================== 
+Template: `Got assigned task {task}`
+ =================== 
+Template: `Running task {count} in stage {stage} (TID {TID})`
+ =================== 
+Template: `Got assigned task {task}`
+ =================== 
+Template: `Started reading broadcast variable {variable}`
+ =================== 
+Template: `Running task {count} in stage {stage} (TID {TID})`
+ =================== 
+Template: `Got assigned task {task}`
+ =================== 
+Template: `Running task {count} in stage {stage} (TID {TID})`
+ =================== 
+Template: `Got assigned task {task}`
+ =================== 
+Template: `Running task {count} in stage {stage} (TID {TID})`
+ =================== 
+Template: `Block {block} stored as bytes in memory (estimated size {size}, free {free})`
+ =================== 
+Template: `Reading broadcast variable {variable} took {time} ms`
+ =================== 
+Template: `Block {block} stored as values in memory (estimated size {size}, free {free})`
+ =================== 
+Template: `Found block {block} locally`
+ =================== 
+Template: `Found block {block} locally`
+ =================== 
+Template: `Found block {block} locally`
+ =================== 
+Template: `Found block {block} locally`
+ =================== 
+Template: `Found block {block} locally`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Finished task {count} in stage {stage} (TID {TID}). {bytes} bytes result sent to driver`
+ =================== 
+Template: `Finished task {count} in stage {stage} (TID {TID}). {bytes} bytes result sent to driver`
+ =================== 
+Template: `Finished task {count} in stage {stage} (TID {TID}). {bytes} bytes result sent to driver`
+ =================== 
+Template: `Finished task {count} in stage {stage} (TID {TID}). {bytes} bytes result sent to driver`
+ =================== 
+Template: `Finished task {count} in stage {stage} (TID {TID}). {bytes} bytes result sent to driver`
+ =================== 
+Template: `Got assigned task {task}`
+ =================== 
+Template: `Running task {count} in stage {stage} (TID {TID})`
+ =================== 
+Template: `Got assigned task {task}`
+ =================== 
+Template: `Running task {count} in stage {stage} (TID {TID})`
+ =================== 
+Template: `Got assigned task {task}`
+ =================== 
+Template: `Running task {count} in stage {stage} (TID {TID})`
+ =================== 
+Template: `Got assigned task {task}`
+ =================== 
+Template: `Running task {count} in stage {stage} (TID {TID})`
+ =================== 
+Template: `Started reading broadcast variable {variable}`
+ =================== 
+Template: `Got assigned task {task}`
+ =================== 
+Template: `Running task {count} in stage {stage} (TID {TID})`
+ =================== 
+Template: `Block {block} stored as bytes in memory (estimated size {size}, free {free})`
+ =================== 
+Template: `Reading broadcast variable {variable} took {time} ms`
+ =================== 
+Template: `Block {block} stored as values in memory (estimated size {size}, free {free})`
+ =================== 
+Template: `Found block {block} locally`
+ =================== 
+Template: `Found block {block} locally`
+ =================== 
+Template: `Found block {block} locally`
+ =================== 
+Template: `Found block {block} locally`
+ =================== 
+Template: `Found block {block} locally`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Finished task {count} in stage {stage} (TID {TID}). {bytes} bytes result sent to driver`
+ =================== 
+Template: `Finished task {count} in stage {stage} (TID {TID}). {bytes} bytes result sent to driver`
+ =================== 
+Template: `Finished task {count} in stage {stage} (TID {TID}). {bytes} bytes result sent to driver`
+ =================== 
+Template: `Finished task {count} in stage {stage} (TID {TID}). {bytes} bytes result sent to driver`
+ =================== 
+Template: `Finished task {count} in stage {stage} (TID {TID}). {bytes} bytes result sent to driver`
+ =================== 
+Template: `Got assigned task {task}`
+ =================== 
+Template: `Running task {count} in stage {stage} (TID {TID})`
+ =================== 
+Template: `Got assigned task {task}`
+ =================== 
+Template: `Running task {count} in stage {stage} (TID {TID})`
+ =================== 
+Template: `Got assigned task {task}`
+ =================== 
+Template: `Running task {count} in stage {stage} (TID {TID})`
+ =================== 
+Template: `Got assigned task {task}`
+ =================== 
+Template: `Running task {count} in stage {stage} (TID {TID})`
+ =================== 
+Template: `Started reading broadcast variable {variable}`
+ =================== 
+Template: `Got assigned task {task}`
+ =================== 
+Template: `Running task {count} in stage {stage} (TID {TID})`
+ =================== 
+Template: `Block {block} stored as bytes in memory (estimated size {size}, free {free})`
+ =================== 
+Template: `Reading broadcast variable {variable} took {time} ms`
+ =================== 
+Template: `Block {block} stored as values in memory (estimated size {size}, free {free})`
+ =================== 
+Template: `Partition {block} not found, computing it`
+ =================== 
+Template: `Partition {block} not found, computing it`
+ =================== 
+Template: `Partition {block} not found, computing it`
+ =================== 
+Template: `Partition {block} not found, computing it`
+ =================== 
+Template: `Partition {block} not found, computing it`
+ =================== 
+Template: `Found block {block} locally`
+ =================== 
+Template: `Found block {block} locally`
+ =================== 
+Template: `Found block {block} locally`
+ =================== 
+Template: `Found block {block} locally`
+ =================== 
+Template: `Found block {block} locally`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Block {block} stored as bytes in memory (estimated size {size} B, free {free} KB)`
+ =================== 
+Template: `Block {block} stored as bytes in memory (estimated size {size}, free {free})`
+ =================== 
+Template: `Block {block} stored as bytes in memory (estimated size {size} B, free {free} KB)`
+ =================== 
+Template: `Block {block} stored as bytes in memory (estimated size {size} B, free {free} KB)`
+ =================== 
+Template: `Block {block} stored as bytes in memory (estimated size {size} B, free {free} KB)`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Finished task {count} in stage {stage} (TID {TID}). {bytes} bytes result sent to driver`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Finished task {count} in stage {stage} (TID {TID}). {bytes} bytes result sent to driver`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Finished task {count} in stage {stage} (TID {TID}). {bytes} bytes result sent to driver`
+ =================== 
+Template: `Finished task {count} in stage {stage} (TID {TID}). {bytes} bytes result sent to driver`
+ =================== 
+Template: `Finished task {count} in stage {stage} (TID {TID}). {bytes} bytes result sent to driver`
+ =================== 
+Template: `Got assigned task {task}`
+ =================== 
+Template: `Running task {count} in stage {stage} (TID {TID})`
+ =================== 
+Template: `Got assigned task {task}`
+ =================== 
+Template: `Running task {count} in stage {stage} (TID {TID})`
+ =================== 
+Template: `Started reading broadcast variable {variable}`
+ =================== 
+Template: `Got assigned task {task}`
+ =================== 
+Template: `Running task {count} in stage {stage} (TID {TID})`
+ =================== 
+Template: `Got assigned task {task}`
+ =================== 
+Template: `Running task {count} in stage {stage} (TID {TID})`
+ =================== 
+Template: `Got assigned task {task}`
+ =================== 
+Template: `Running task {count} in stage {stage} (TID {TID})`
+ =================== 
+Template: `Block {block} stored as bytes in memory (estimated size {size}, free {free})`
+ =================== 
+Template: `Reading broadcast variable {variable} took {time} ms`
+ =================== 
+Template: `Block {block} stored as values in memory (estimated size {size}, free {free})`
+ =================== 
+Template: `Found block {block} locally`
+ =================== 
+Template: `Found block {block} locally`
+ =================== 
+Template: `Found block {block} locally`
+ =================== 
+Template: `Found block {block} locally`
+ =================== 
+Template: `Found block {block} locally`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Finished task {count} in stage {stage} (TID {TID}). {bytes} bytes result sent to driver`
+ =================== 
+Template: `Finished task {count} in stage {stage} (TID {TID}). {bytes} bytes result sent to driver`
+ =================== 
+Template: `Finished task {count} in stage {stage} (TID {TID}). {bytes} bytes result sent to driver`
+ =================== 
+Template: `Finished task {count} in stage {stage} (TID {TID}). {bytes} bytes result sent to driver`
+ =================== 
+Template: `Finished task {count} in stage {stage} (TID {TID}). {bytes} bytes result sent to driver`
+ =================== 
+Template: `Got assigned task {task}`
+ =================== 
+Template: `Running task {count} in stage {stage} (TID {TID})`
+ =================== 
+Template: `Got assigned task {task}`
+ =================== 
+Template: `Running task {count} in stage {stage} (TID {TID})`
+ =================== 
+Template: `Got assigned task {task}`
+ =================== 
+Template: `Running task {count} in stage {stage} (TID {TID})`
+ =================== 
+Template: `Started reading broadcast variable {variable}`
+ =================== 
+Template: `Got assigned task {task}`
+ =================== 
+Template: `Running task {count} in stage {stage} (TID {TID})`
+ =================== 
+Template: `Got assigned task {task}`
+ =================== 
+Template: `Running task {count} in stage {stage} (TID {TID})`
+ =================== 
+Template: `Block {block} stored as bytes in memory (estimated size {size}, free {free})`
+ =================== 
+Template: `Reading broadcast variable {variable} took {time} ms`
+ =================== 
+Template: `Block {block} stored as values in memory (estimated size {size}, free {free})`
+ =================== 
+Template: `Found block {block} locally`
+ =================== 
+Template: `Found block {block} locally`
+ =================== 
+Template: `Found block {block} locally`
+ =================== 
+Template: `Found block {block} locally`
+ =================== 
+Template: `Found block {block} locally`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Finished task {count} in stage {stage} (TID {TID}). {bytes} bytes result sent to driver`
+ =================== 
+Template: `Finished task {count} in stage {stage} (TID {TID}). {bytes} bytes result sent to driver`
+ =================== 
+Template: `Finished task {count} in stage {stage} (TID {TID}). {bytes} bytes result sent to driver`
+ =================== 
+Template: `Finished task {count} in stage {stage} (TID {TID}). {bytes} bytes result sent to driver`
+ =================== 
+Template: `Finished task {count} in stage {stage} (TID {TID}). {bytes} bytes result sent to driver`
+ =================== 
+Template: `Got assigned task {task}`
+ =================== 
+Template: `Running task {count} in stage {stage} (TID {TID})`
+ =================== 
+Template: `Got assigned task {task}`
+ =================== 
+Template: `Running task {count} in stage {stage} (TID {TID})`
+ =================== 
+Template: `Got assigned task {task}`
+ =================== 
+Template: `Running task {count} in stage {stage} (TID {TID})`
+ =================== 
+Template: `Started reading broadcast variable {variable}`
+ =================== 
+Template: `Got assigned task {task}`
+ =================== 
+Template: `Running task {count} in stage {stage} (TID {TID})`
+ =================== 
+Template: `Got assigned task {task}`
+ =================== 
+Template: `Running task {count} in stage {stage} (TID {TID})`
+ =================== 
+Template: `Block {block}_piece{piece} stored as bytes in memory (estimated size {size}, free {free})`
+ =================== 
+Template: `Reading broadcast variable {variable} took {time} ms`
+ =================== 
+Template: `Block {block} stored as values in memory (estimated size {size}, free {free})`
+ =================== 
+Template: `Found block {block} locally`
+ =================== 
+Template: `Found block {block} locally`
+ =================== 
+Template: `Found block {block} locally`
+ =================== 
+Template: `Found block {block} locally`
+ =================== 
+Template: `Found block {block} locally`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Finished task {count} in stage {stage} (TID {TID}). {bytes} bytes result sent to driver`
+ =================== 
+Template: `Finished task {count} in stage {stage} (TID {TID}). {bytes} bytes result sent to driver`
+ =================== 
+Template: `Finished task {count} in stage {stage} (TID {TID}). {bytes} bytes result sent to driver`
+ =================== 
+Template: `Finished task {count} in stage {stage} (TID {TID}). {bytes} bytes result sent to driver`
+ =================== 
+Template: `Finished task {count} in stage {stage} (TID {TID}). {bytes} bytes result sent to driver`
+ =================== 
+Template: `Got assigned task {task}`
+ =================== 
+Template: `Running task {count} in stage {stage} (TID {TID})`
+ =================== 
+Template: `Got assigned task {task}`
+ =================== 
+Template: `Running task {count} in stage {stage} (TID {TID})`
+ =================== 
+Template: `Got assigned task {task}`
+ =================== 
+Template: `Running task {count} in stage {stage} (TID {TID})`
+ =================== 
+Template: `Got assigned task {task}`
+ =================== 
+Template: `Running task {count} in stage {stage} (TID {TID})`
+ =================== 
+Template: `Started reading broadcast variable {variable}`
+ =================== 
+Template: `Got assigned task {task}`
+ =================== 
+Template: `Running task {count} in stage {stage} (TID {TID})`
+ =================== 
+Template: `Block {block} stored as bytes in memory (estimated size {size}, free {free})`
+ =================== 
+Template: `Reading broadcast variable {variable} took {time} ms`
+ =================== 
+Template: `Block {block} stored as values in memory (estimated size {size}, free {free})`
+ =================== 
+Template: `Partition {block} not found, computing it`
+ =================== 
+Template: `Partition {block} not found, computing it`
+ =================== 
+Template: `Partition {block} not found, computing it`
+ =================== 
+Template: `Partition {block} not found, computing it`
+ =================== 
+Template: `Partition {block} not found, computing it`
+ =================== 
+Template: `Found block {block} locally`
+ =================== 
+Template: `Found block {block} locally`
+ =================== 
+Template: `Found block {block} locally`
+ =================== 
+Template: `Found block {block} locally`
+ =================== 
+Template: `Found block {block} locally`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Block {block} stored as bytes in memory (estimated size {size}, free {free})`
+ =================== 
+Template: `Block {block} stored as bytes in memory (estimated size {size} B, free {free} KB)`
+ =================== 
+Template: `Block {block} stored as bytes in memory (estimated size {size} B, free {free} KB)`
+ =================== 
+Template: `Block {block} stored as bytes in memory (estimated size {size}, free {free})`
+ =================== 
+Template: `Block {block} stored as bytes in memory (estimated size {size}, free {free})`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Finished task {count} in stage {stage} (TID {TID}). {bytes} bytes result sent to driver`
+ =================== 
+Template: `Finished task {count} in stage {stage} (TID {TID}). {bytes} bytes result sent to driver`
+ =================== 
+Template: `Finished task {count} in stage {stage} (TID {TID}). {bytes} bytes result sent to driver`
+ =================== 
+Template: `Finished task {count} in stage {stage} (TID {TID}). {bytes} bytes result sent to driver`
+ =================== 
+Template: `Finished task {count} in stage {stage} (TID {TID}). {bytes} bytes result sent to driver`
+ =================== 
+Template: `Got assigned task {task}`
+ =================== 
+Template: `Running task {count} in stage {stage} (TID {TID})`
+ =================== 
+Template: `Got assigned task {task}`
+ =================== 
+Template: `Running task {count} in stage {stage} (TID {TID})`
+ =================== 
+Template: `Got assigned task {task}`
+ =================== 
+Template: `Running task {count} in stage {stage} (TID {TID})`
+ =================== 
+Template: `Started reading broadcast variable {variable}`
+ =================== 
+Template: `Got assigned task {task}`
+ =================== 
+Template: `Running task {count} in stage {stage} (TID {TID})`
+ =================== 
+Template: `Got assigned task {task}`
+ =================== 
+Template: `Running task {count} in stage {stage} (TID {TID})`
+ =================== 
+Template: `Block {block} stored as bytes in memory (estimated size {size}, free {free})`
+ =================== 
+Template: `Reading broadcast variable {variable} took {time} ms`
+ =================== 
+Template: `Block {block} stored as values in memory (estimated size {size}, free {free})`
+ =================== 
+Template: `Found block {block} locally`
+ =================== 
+Template: `Found block {block} locally`
+ =================== 
+Template: `Found block {block} locally`
+ =================== 
+Template: `Found block {block} locally`
+ =================== 
+Template: `Found block {block} locally`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Finished task {count} in stage {stage} (TID {TID}). {bytes} bytes result sent to driver`
+ =================== 
+Template: `Finished task {count} in stage {stage} (TID {TID}). {bytes} bytes result sent to driver`
+ =================== 
+Template: `Finished task {count} in stage {stage} (TID {TID}). {bytes} bytes result sent to driver`
+ =================== 
+Template: `Finished task {count} in stage {stage} (TID {TID}). {bytes} bytes result sent to driver`
+ =================== 
+Template: `Finished task {count} in stage {stage} (TID {TID}). {bytes} bytes result sent to driver`
+ =================== 
+Template: `Got assigned task {task}`
+ =================== 
+Template: `Running task {count} in stage {stage} (TID {TID})`
+ =================== 
+Template: `Got assigned task {task}`
+ =================== 
+Template: `Running task {count} in stage {stage} (TID {TID})`
+ =================== 
+Template: `Got assigned task {task}`
+ =================== 
+Template: `Running task {count} in stage {stage} (TID {TID})`
+ =================== 
+Template: `Got assigned task {task}`
+ =================== 
+Template: `Started reading broadcast variable {variable}`
+ =================== 
+Template: `Running task {count} in stage {stage} (TID {TID})`
+ =================== 
+Template: `Got assigned task {task}`
+ =================== 
+Template: `Running task {count} in stage {stage} (TID {TID})`
+ =================== 
+Template: `Block {block} stored as bytes in memory (estimated size {size}, free {free})`
+ =================== 
+Template: `Reading broadcast variable {variable} took {time} ms`
+ =================== 
+Template: `Block {block} stored as values in memory (estimated size {size}, free {free})`
+ =================== 
+Template: `Found block {block} locally`
+ =================== 
+Template: `Found block {block} locally`
+ =================== 
+Template: `Found block {block} locally`
+ =================== 
+Template: `Found block {block} locally`
+ =================== 
+Template: `Found block {block} locally`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Finished task {count} in stage {stage} (TID {TID}). {bytes} bytes result sent to driver`
+ =================== 
+Template: `Finished task {count} in stage {stage} (TID {TID}). {bytes} bytes result sent to driver`
+ =================== 
+Template: `Finished task {count} in stage {stage} (TID {TID}). {bytes} bytes result sent to driver`
+ =================== 
+Template: `Finished task {count} in stage {stage} (TID {TID}). {bytes} bytes result sent to driver`
+ =================== 
+Template: `Finished task {count} in stage {stage} (TID {TID}). {bytes} bytes result sent to driver`
+ =================== 
+Template: `Got assigned task {task}`
+ =================== 
+Template: `Running task {count} in stage {stage} (TID {TID})`
+ =================== 
+Template: `Got assigned task {task}`
+ =================== 
+Template: `Running task {count} in stage {stage} (TID {TID})`
+ =================== 
+Template: `Got assigned task {task}`
+ =================== 
+Template: `Running task {count} in stage {stage} (TID {TID})`
+ =================== 
+Template: `Got assigned task {task}`
+ =================== 
+Template: `Running task {count} in stage {stage} (TID {TID})`
+ =================== 
+Template: `Started reading broadcast variable {variable}`
+ =================== 
+Template: `Got assigned task {task}`
+ =================== 
+Template: `Running task {count} in stage {stage} (TID {TID})`
+ =================== 
+Template: `Block {block} stored as bytes in memory (estimated size {size}, free {free})`
+ =================== 
+Template: `Reading broadcast variable {variable} took {time} ms`
+ =================== 
+Template: `Block {block} stored as values in memory (estimated size {size}, free {free})`
+ =================== 
+Template: `Found block {block} locally`
+ =================== 
+Template: `Found block {block} locally`
+ =================== 
+Template: `Found block {block} locally`
+ =================== 
+Template: `Found block {block} locally`
+ =================== 
+Template: `Found block {block} locally`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Finished task {count} in stage {stage} (TID {TID}). {bytes} bytes result sent to driver`
+ =================== 
+Template: `Finished task {count} in stage {stage} (TID {TID}). {bytes} bytes result sent to driver`
+ =================== 
+Template: `Finished task {count} in stage {stage} (TID {TID}). {bytes} bytes result sent to driver`
+ =================== 
+Template: `Finished task {count} in stage {stage} (TID {TID}). {bytes} bytes result sent to driver`
+ =================== 
+Template: `Finished task {count} in stage {stage} (TID {TID}). {bytes} bytes result sent to driver`
+ =================== 
+Template: `Got assigned task {task}`
+ =================== 
+Template: `Running task {count} in stage {stage} (TID {TID})`
+ =================== 
+Template: `Got assigned task {task}`
+ =================== 
+Template: `Running task {count} in stage {stage} (TID {TID})`
+ =================== 
+Template: `Got assigned task {task}`
+ =================== 
+Template: `Running task {count} in stage {stage} (TID {TID})`
+ =================== 
+Template: `Got assigned task {task}`
+ =================== 
+Template: `Started reading broadcast variable {variable}`
+ =================== 
+Template: `Running task {count} in stage {stage} (TID {TID})`
+ =================== 
+Template: `Got assigned task {task}`
+ =================== 
+Template: `Running task {count} in stage {stage} (TID {TID})`
+ =================== 
+Template: `Block {block} stored as bytes in memory (estimated size {size}, free {free})`
+ =================== 
+Template: `Reading broadcast variable {variable} took {time} ms`
+ =================== 
+Template: `Block {block} stored as values in memory (estimated size {size}, free {free})`
+ =================== 
+Template: `Partition {block} not found, computing it`
+ =================== 
+Template: `Partition {block} not found, computing it`
+ =================== 
+Template: `Partition {block} not found, computing it`
+ =================== 
+Template: `Partition {block} not found, computing it`
+ =================== 
+Template: `Partition {block} not found, computing it`
+ =================== 
+Template: `Found block {block} locally`
+ =================== 
+Template: `Found block {block} locally`
+ =================== 
+Template: `Found block {block} locally`
+ =================== 
+Template: `Found block {block} locally`
+ =================== 
+Template: `Found block {block} locally`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Block {block} stored as bytes in memory (estimated size {size} B, free {free} KB)`
+ =================== 
+Template: `Block {block} stored as bytes in memory (estimated size {size} B, free {free} KB)`
+ =================== 
+Template: `Block {block} stored as bytes in memory (estimated size {size} B, free {free} KB)`
+ =================== 
+Template: `Block {block} stored as bytes in memory (estimated size {size} B, free {free} KB)`
+ =================== 
+Template: `Block {block} stored as bytes in memory (estimated size {size} B, free {free} KB)`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Finished task {count} in stage {stage} (TID {TID}). {bytes} bytes result sent to driver`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Finished task {count} in stage {stage} (TID {TID}). {bytes} bytes result sent to driver`
+ =================== 
+Template: `Finished task {count} in stage {stage} (TID {TID}). {bytes} bytes result sent to driver`
+ =================== 
+Template: `Finished task {count} in stage {stage} (TID {TID}). {bytes} bytes result sent to driver`
+ =================== 
+Template: `Finished task {count} in stage {stage} (TID {TID}). {bytes} bytes result sent to driver`
+ =================== 
+Template: `Got assigned task {task}`
+ =================== 
+Template: `Running task {count} in stage {stage} (TID {TID})`
+ =================== 
+Template: `Got assigned task {task}`
+ =================== 
+Template: `Running task {count} in stage {stage} (TID {TID})`
+ =================== 
+Template: `Got assigned task {task}`
+ =================== 
+Template: `Started reading broadcast variable {variable}`
+ =================== 
+Template: `Running task {count} in stage {stage} (TID {TID})`
+ =================== 
+Template: `Got assigned task {task}`
+ =================== 
+Template: `Running task {count} in stage {stage} (TID {TID})`
+ =================== 
+Template: `Got assigned task {task}`
+ =================== 
+Template: `Running task {count} in stage {stage} (TID {TID})`
+ =================== 
+Template: `Block {block} stored as bytes in memory (estimated size {size}, free {free})`
+ =================== 
+Template: `Reading broadcast variable {variable} took {time} ms`
+ =================== 
+Template: `Block {block} stored as values in memory (estimated size {size}, free {free})`
+ =================== 
+Template: `Found block {block} locally`
+ =================== 
+Template: `Found block {block} locally`
+ =================== 
+Template: `Found block {block} locally`
+ =================== 
+Template: `Found block {block} locally`
+ =================== 
+Template: `Found block {block} locally`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Finished task {count} in stage {stage} (TID {TID}). {bytes} bytes result sent to driver`
+ =================== 
+Template: `Finished task {count} in stage {stage} (TID {TID}). {bytes} bytes result sent to driver`
+ =================== 
+Template: `Finished task {count} in stage {stage} (TID {TID}). {bytes} bytes result sent to driver`
+ =================== 
+Template: `Finished task {count} in stage {stage} (TID {TID}). {bytes} bytes result sent to driver`
+ =================== 
+Template: `Finished task {count} in stage {stage} (TID {TID}). {bytes} bytes result sent to driver`
+ =================== 
+Template: `Got assigned task {task}`
+ =================== 
+Template: `Running task {count} in stage {stage} (TID {TID})`
+ =================== 
+Template: `Got assigned task {task}`
+ =================== 
+Template: `Running task {count} in stage {stage} (TID {TID})`
+ =================== 
+Template: `Got assigned task {task}`
+ =================== 
+Template: `Running task {count} in stage {stage} (TID {TID})`
+ =================== 
+Template: `Started reading broadcast variable {variable}`
+ =================== 
+Template: `Got assigned task {task}`
+ =================== 
+Template: `Running task {count} in stage {stage} (TID {TID})`
+ =================== 
+Template: `Got assigned task {task}`
+ =================== 
+Template: `Running task {count} in stage {stage} (TID {TID})`
+ =================== 
+Template: `Block {block} stored as bytes in memory (estimated size {size}, free {free})`
+ =================== 
+Template: `Reading broadcast variable {variable} took {time} ms`
+ =================== 
+Template: `Block {block} stored as values in memory (estimated size {size}, free {free})`
+ =================== 
+Template: `Found block {block} locally`
+ =================== 
+Template: `Found block {block} locally`
+ =================== 
+Template: `Found block {block} locally`
+ =================== 
+Template: `Found block {block} locally`
+ =================== 
+Template: `Found block {block} locally`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Finished task {count} in stage {stage} (TID {TID}). {bytes} bytes result sent to driver`
+ =================== 
+Template: `Finished task {count} in stage {stage} (TID {TID}). {bytes} bytes result sent to driver`
+ =================== 
+Template: `Finished task {count} in stage {stage} (TID {TID}). {bytes} bytes result sent to driver`
+ =================== 
+Template: `Finished task {count} in stage {stage} (TID {TID}). {bytes} bytes result sent to driver`
+ =================== 
+Template: `Finished task {count} in stage {stage} (TID {TID}). {bytes} bytes result sent to driver`
+ =================== 
+Template: `Got assigned task {task}`
+ =================== 
+Template: `Running task {count} in stage {stage} (TID {TID})`
+ =================== 
+Template: `Got assigned task {task}`
+ =================== 
+Template: `Running task {count} in stage {stage} (TID {TID})`
+ =================== 
+Template: `Got assigned task {task}`
+ =================== 
+Template: `Running task {count} in stage {stage} (TID {TID})`
+ =================== 
+Template: `Started reading broadcast variable {variable}`
+ =================== 
+Template: `Got assigned task {task}`
+ =================== 
+Template: `Running task {count} in stage {stage} (TID {TID})`
+ =================== 
+Template: `Got assigned task {task}`
+ =================== 
+Template: `Running task {count} in stage {stage} (TID {TID})`
+ =================== 
+Template: `Block {block} stored as bytes in memory (estimated size {size}, free {free})`
+ =================== 
+Template: `Reading broadcast variable {variable} took {time} ms`
+ =================== 
+Template: `Block {block} stored as values in memory (estimated size {size}, free {free})`
+ =================== 
+Template: `Found block {block} locally`
+ =================== 
+Template: `Found block {block} locally`
+ =================== 
+Template: `Found block {block} locally`
+ =================== 
+Template: `Found block {block} locally`
+ =================== 
+Template: `Found block {block} locally`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Finished task {count} in stage {stage} (TID {TID}). {bytes} bytes result sent to driver`
+ =================== 
+Template: `Finished task {count} in stage {stage} (TID {TID}). {bytes} bytes result sent to driver`
+ =================== 
+Template: `Finished task {count} in stage {stage} (TID {TID}). {bytes} bytes result sent to driver`
+ =================== 
+Template: `Finished task {count} in stage {stage} (TID {TID}). {bytes} bytes result sent to driver`
+ =================== 
+Template: `Finished task {count} in stage {stage} (TID {TID}). {bytes} bytes result sent to driver`
+ =================== 
+Template: `Got assigned task {task}`
+ =================== 
+Template: `Running task {count} in stage {stage} (TID {TID})`
+ =================== 
+Template: `Got assigned task {task}`
+ =================== 
+Template: `Running task {count} in stage {stage} (TID {TID})`
+ =================== 
+Template: `Got assigned task {task}`
+ =================== 
+Template: `Running task {count} in stage {stage} (TID {TID})`
+ =================== 
+Template: `Got assigned task {task}`
+ =================== 
+Template: `Running task {count} in stage {stage} (TID {TID})`
+ =================== 
+Template: `Got assigned task {task}`
+ =================== 
+Template: `Running task {count} in stage {stage} (TID {TID})`
+ =================== 
+Template: `Started reading broadcast variable {variable}`
+ =================== 
+Template: `Block {block} stored as bytes in memory (estimated size {size}, free {free})`
+ =================== 
+Template: `Reading broadcast variable {variable} took {time} ms`
+ =================== 
+Template: `Block {block} stored as values in memory (estimated size {size}, free {free})`
+ =================== 
+Template: `Partition {block} not found, computing it`
+ =================== 
+Template: `Partition {block} not found, computing it`
+ =================== 
+Template: `Partition {block} not found, computing it`
+ =================== 
+Template: `Partition {block} not found, computing it`
+ =================== 
+Template: `Partition {block} not found, computing it`
+ =================== 
+Template: `Found block {block} locally`
+ =================== 
+Template: `Found block {block} locally`
+ =================== 
+Template: `Found block {block} locally`
+ =================== 
+Template: `Found block {block} locally`
+ =================== 
+Template: `Found block {block} locally`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Block {block} stored as bytes in memory (estimated size {size} B, free {free} KB)`
+ =================== 
+Template: `Block {block} stored as bytes in memory (estimated size {size}, free {free})`
+ =================== 
+Template: `Block {block} stored as bytes in memory (estimated size {size} B, free {free} KB)`
+ =================== 
+Template: `Block {block} stored as bytes in memory (estimated size {size} B, free {free} KB)`
+ =================== 
+Template: `Block {block} stored as bytes in memory (estimated size {size} B, free {free} KB)`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Finished task {count} in stage {stage} (TID {TID}). {bytes} bytes result sent to driver`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Finished task {count} in stage {stage} (TID {TID}). {bytes} bytes result sent to driver`
+ =================== 
+Template: `Finished task {count} in stage {stage} (TID {TID}). {bytes} bytes result sent to driver`
+ =================== 
+Template: `Finished task {count} in stage {stage} (TID {TID}). {bytes} bytes result sent to driver`
+ =================== 
+Template: `Finished task {count} in stage {stage} (TID {TID}). {bytes} bytes result sent to driver`
+ =================== 
+Template: `Got assigned task {task}`
+ =================== 
+Template: `Running task {count} in stage {stage} (TID {TID})`
+ =================== 
+Template: `Got assigned task {task}`
+ =================== 
+Template: `Running task {count} in stage {stage} (TID {TID})`
+ =================== 
+Template: `Got assigned task {task}`
+ =================== 
+Template: `Running task {count} in stage {stage} (TID {TID})`
+ =================== 
+Template: `Got assigned task {task}`
+ =================== 
+Template: `Started reading broadcast variable {variable}`
+ =================== 
+Template: `Running task {count} in stage {stage} (TID {TID})`
+ =================== 
+Template: `Got assigned task {task}`
+ =================== 
+Template: `Running task {count} in stage {stage} (TID {TID})`
+ =================== 
+Template: `Block {block} stored as bytes in memory (estimated size {size}, free {free})`
+ =================== 
+Template: `Reading broadcast variable {variable} took {time} ms`
+ =================== 
+Template: `Block {block} stored as values in memory (estimated size {size}, free {free})`
+ =================== 
+Template: `Found block {block} locally`
+ =================== 
+Template: `Found block {block} locally`
+ =================== 
+Template: `Found block {block} locally`
+ =================== 
+Template: `Found block {block} locally`
+ =================== 
+Template: `Found block {block} locally`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Finished task {count} in stage {stage} (TID {TID}). {bytes} bytes result sent to driver`
+ =================== 
+Template: `Finished task {count} in stage {stage} (TID {TID}). {bytes} bytes result sent to driver`
+ =================== 
+Template: `Finished task {count} in stage {stage} (TID {TID}). {bytes} bytes result sent to driver`
+ =================== 
+Template: `Finished task {count} in stage {stage} (TID {TID}). {bytes} bytes result sent to driver`
+ =================== 
+Template: `Finished task {count} in stage {stage} (TID {TID}). {bytes} bytes result sent to driver`
+ =================== 
+Template: `Got assigned task {task}`
+ =================== 
+Template: `Running task {count} in stage {stage} (TID {TID})`
+ =================== 
+Template: `Got assigned task {task}`
+ =================== 
+Template: `Running task {count} in stage {stage} (TID {TID})`
+ =================== 
+Template: `Got assigned task {task}`
+ =================== 
+Template: `Running task {count} in stage {stage} (TID {TID})`
+ =================== 
+Template: `Got assigned task {task}`
+ =================== 
+Template: `Started reading broadcast variable {variable}`
+ =================== 
+Template: `Running task {count} in stage {stage} (TID {TID})`
+ =================== 
+Template: `Got assigned task {task}`
+ =================== 
+Template: `Running task {count} in stage {stage} (TID {TID})`
+ =================== 
+Template: `Block {block} stored as bytes in memory (estimated size {size}, free {free})`
+ =================== 
+Template: `Reading broadcast variable {variable} took {time} ms`
+ =================== 
+Template: `Block {block} stored as values in memory (estimated size {size}, free {free})`
+ =================== 
+Template: `Found block {block} locally`
+ =================== 
+Template: `Found block {block} locally`
+ =================== 
+Template: `Found block {block} locally`
+ =================== 
+Template: `Found block {block} locally`
+ =================== 
+Template: `Found block {block} locally`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Finished task {count} in stage {stage} (TID {TID}). {bytes} bytes result sent to driver`
+ =================== 
+Template: `Finished task {count} in stage {stage} (TID {TID}). {bytes} bytes result sent to driver`
+ =================== 
+Template: `Finished task {count} in stage {stage} (TID {TID}). {bytes} bytes result sent to driver`
+ =================== 
+Template: `Finished task {count} in stage {stage} (TID {TID}). {bytes} bytes result sent to driver`
+ =================== 
+Template: `Finished task {count} in stage {stage} (TID {TID}). {bytes} bytes result sent to driver`
+ =================== 
+Template: `Got assigned task {task}`
+ =================== 
+Template: `Running task {count} in stage {stage} (TID {TID})`
+ =================== 
+Template: `Got assigned task {task}`
+ =================== 
+Template: `Running task {count} in stage {stage} (TID {TID})`
+ =================== 
+Template: `Got assigned task {task}`
+ =================== 
+Template: `Running task {count} in stage {stage} (TID {TID})`
+ =================== 
+Template: `Got assigned task {task}`
+ =================== 
+Template: `Running task {count} in stage {stage} (TID {TID})`
+ =================== 
+Template: `Started reading broadcast variable {variable}`
+ =================== 
+Template: `Got assigned task {task}`
+ =================== 
+Template: `Running task {count} in stage {stage} (TID {TID})`
+ =================== 
+Template: `Block {block} stored as bytes in memory (estimated size {size}, free {free})`
+ =================== 
+Template: `Reading broadcast variable {variable} took {time} ms`
+ =================== 
+Template: `Block {block} stored as values in memory (estimated size {size}, free {free})`
+ =================== 
+Template: `Found block {block} locally`
+ =================== 
+Template: `Found block {block} locally`
+ =================== 
+Template: `Found block {block} locally`
+ =================== 
+Template: `Found block {block} locally`
+ =================== 
+Template: `Found block {block} locally`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Finished task {count} in stage {stage} (TID {TID}). {bytes} bytes result sent to driver`
+ =================== 
+Template: `Finished task {count} in stage {stage} (TID {TID}). {bytes} bytes result sent to driver`
+ =================== 
+Template: `Finished task {count} in stage {stage} (TID {TID}). {bytes} bytes result sent to driver`
+ =================== 
+Template: `Finished task {count} in stage {stage} (TID {TID}). {bytes} bytes result sent to driver`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Finished task {count} in stage {stage} (TID {TID}). {bytes} bytes result sent to driver`
+ =================== 
+Template: `Got assigned task {task}`
+ =================== 
+Template: `Running task {count} in stage {stage} (TID {TID})`
+ =================== 
+Template: `Got assigned task {task}`
+ =================== 
+Template: `Running task {count} in stage {stage} (TID {TID})`
+ =================== 
+Template: `Got assigned task {task}`
+ =================== 
+Template: `Running task {count} in stage {stage} (TID {TID})`
+ =================== 
+Template: `Got assigned task {task}`
+ =================== 
+Template: `Running task {count} in stage {stage} (TID {TID})`
+ =================== 
+Template: `Started reading broadcast variable {variable}`
+ =================== 
+Template: `Got assigned task {task}`
+ =================== 
+Template: `Running task {count} in stage {stage} (TID {TID})`
+ =================== 
+Template: `Block {block} stored as bytes in memory (estimated size {size}, free {free})`
+ =================== 
+Template: `Reading broadcast variable {variable} took {time} ms`
+ =================== 
+Template: `Block {block} stored as values in memory (estimated size {size}, free {free})`
+ =================== 
+Template: `Partition {block} not found, computing it`
+ =================== 
+Template: `Partition {block} not found, computing it`
+ =================== 
+Template: `Partition {block} not found, computing it`
+ =================== 
+Template: `Partition {block} not found, computing it`
+ =================== 
+Template: `Partition {block} not found, computing it`
+ =================== 
+Template: `Found block {block} locally`
+ =================== 
+Template: `Found block {block} locally`
+ =================== 
+Template: `Found block {block} locally`
+ =================== 
+Template: `Found block {block} locally`
+ =================== 
+Template: `Found block {block} locally`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Block {block} stored as bytes in memory (estimated size {size}, free {free})`
+ =================== 
+Template: `Block {block} stored as bytes in memory (estimated size {size}, free {free})`
+ =================== 
+Template: `Block {block} stored as bytes in memory (estimated size {size}, free {free})`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Block {block} stored as bytes in memory (estimated size {size}, free {free})`
+ =================== 
+Template: `Block {block} stored as bytes in memory (estimated size {size}, free {free})`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Finished task {count} in stage {stage} (TID {TID}). {bytes} bytes result sent to driver`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Finished task {count} in stage {stage} (TID {TID}). {bytes} bytes result sent to driver`
+ =================== 
+Template: `Finished task {count} in stage {stage} (TID {TID}). {bytes} bytes result sent to driver`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Finished task {count} in stage {stage} (TID {TID}). {bytes} bytes result sent to driver`
+ =================== 
+Template: `Finished task {count} in stage {stage} (TID {TID}). {bytes} bytes result sent to driver`
+ =================== 
+Template: `Got assigned task {task}`
+ =================== 
+Template: `Running task {count} in stage {stage} (TID {TID})`
+ =================== 
+Template: `Got assigned task {task}`
+ =================== 
+Template: `Running task {count} in stage {stage} (TID {TID})`
+ =================== 
+Template: `Got assigned task {task}`
+ =================== 
+Template: `Running task {count} in stage {stage} (TID {TID})`
+ =================== 
+Template: `Got assigned task {task}`
+ =================== 
+Template: `Started reading broadcast variable {variable}`
+ =================== 
+Template: `Running task {count} in stage {stage} (TID {TID})`
+ =================== 
+Template: `Got assigned task {task}`
+ =================== 
+Template: `Running task {count} in stage {stage} (TID {TID})`
+ =================== 
+Template: `Block {block} stored as bytes in memory (estimated size {size}, free {free})`
+ =================== 
+Template: `Reading broadcast variable {variable} took {time} ms`
+ =================== 
+Template: `Block {block} stored as values in memory (estimated size {size}, free {free})`
+ =================== 
+Template: `Found block {block} locally`
+ =================== 
+Template: `Found block {block} locally`
+ =================== 
+Template: `Found block {block} locally`
+ =================== 
+Template: `Found block {block} locally`
+ =================== 
+Template: `Found block {block} locally`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Finished task {count} in stage {stage} (TID {TID}). {bytes} bytes result sent to driver`
+ =================== 
+Template: `Finished task {count} in stage {stage} (TID {TID}). {bytes} bytes result sent to driver`
+ =================== 
+Template: `Finished task {count} in stage {stage} (TID {TID}). {bytes} bytes result sent to driver`
+ =================== 
+Template: `Finished task {count} in stage {stage} (TID {TID}). {bytes} bytes result sent to driver`
+ =================== 
+Template: `Finished task {count} in stage {stage} (TID {TID}). {bytes} bytes result sent to driver`
+ =================== 
+Template: `Got assigned task {task}`
+ =================== 
+Template: `Running task {count} in stage {stage} (TID {TID})`
+ =================== 
+Template: `Got assigned task {task}`
+ =================== 
+Template: `Running task {count} in stage {stage} (TID {TID})`
+ =================== 
+Template: `Got assigned task {task}`
+ =================== 
+Template: `Running task {count} in stage {stage} (TID {TID})`
+ =================== 
+Template: `Got assigned task {task}`
+ =================== 
+Template: `Running task {count} in stage {stage} (TID {TID})`
+ =================== 
+Template: `Started reading broadcast variable {variable}`
+ =================== 
+Template: `Got assigned task {task}`
+ =================== 
+Template: `Running task {count} in stage {stage} (TID {TID})`
+ =================== 
+Template: `Block {block} stored as bytes in memory (estimated size {size}, free {free})`
+ =================== 
+Template: `Reading broadcast variable {variable} took {time} ms`
+ =================== 
+Template: `Block {block} stored as values in memory (estimated size {size}, free {free})`
+ =================== 
+Template: `Found block {block} locally`
+ =================== 
+Template: `Found block {block} locally`
+ =================== 
+Template: `Found block {block} locally`
+ =================== 
+Template: `Found block {block} locally`
+ =================== 
+Template: `Found block {block} locally`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Finished task {count} in stage {stage} (TID {TID}). {bytes} bytes result sent to driver`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Finished task {count} in stage {stage} (TID {TID}). {bytes} bytes result sent to driver`
+ =================== 
+Template: `Finished task {count} in stage {stage} (TID {TID}). {bytes} bytes result sent to driver`
+ =================== 
+Template: `Finished task {count} in stage {stage} (TID {TID}). {bytes} bytes result sent to driver`
+ =================== 
+Template: `Finished task {count} in stage {stage} (TID {TID}). {bytes} bytes result sent to driver`
+ =================== 
+Template: `Got assigned task {task}`
+ =================== 
+Template: `Running task {count} in stage {stage} (TID {TID})`
+ =================== 
+Template: `Got assigned task {task}`
+ =================== 
+Template: `Running task {count} in stage {stage} (TID {TID})`
+ =================== 
+Template: `Got assigned task {task}`
+ =================== 
+Template: `Running task {count} in stage {stage} (TID {TID})`
+ =================== 
+Template: `Got assigned task {task}`
+ =================== 
+Template: `Running task {count} in stage {stage} (TID {TID})`
+ =================== 
+Template: `Got assigned task {task}`
+ =================== 
+Template: `Running task {count} in stage {stage} (TID {TID})`
+ =================== 
+Template: `Started reading broadcast variable {variable}`
+ =================== 
+Template: `Block {block} stored as bytes in memory (estimated size {size}, free {free})`
+ =================== 
+Template: `Reading broadcast variable {variable} took {time} ms`
+ =================== 
+Template: `Block {block} stored as values in memory (estimated size {size}, free {free})`
+ =================== 
+Template: `Partition {block} not found, computing it`
+ =================== 
+Template: `Partition {block} not found, computing it`
+ =================== 
+Template: `Partition {block} not found, computing it`
+ =================== 
+Template: `Partition {block} not found, computing it`
+ =================== 
+Template: `Partition {block} not found, computing it`
+ =================== 
+Template: `Found block {block} locally`
+ =================== 
+Template: `Found block {block} locally`
+ =================== 
+Template: `Found block {block} locally`
+ =================== 
+Template: `Found block {block} locally`
+ =================== 
+Template: `Found block {block} locally`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Block {block} stored as bytes in memory (estimated size {size} B, free {free} KB)`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Block {block} stored as bytes in memory (estimated size {size} B, free {free} KB)`
+ =================== 
+Template: `Block {block} stored as bytes in memory (estimated size {size}, free {free})`
+ =================== 
+Template: `Block {block} stored as bytes in memory (estimated size {size} B, free {free} KB)`
+ =================== 
+Template: `Block {block} stored as bytes in memory (estimated size {size} B, free {free} KB)`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Finished task {count} in stage {stage} (TID {TID}). {bytes} bytes result sent to driver`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Finished task {count} in stage {stage} (TID {TID}). {bytes} bytes result sent to driver`
+ =================== 
+Template: `Finished task {count} in stage {stage} (TID {TID}). {bytes} bytes result sent to driver`
+ =================== 
+Template: `Finished task {count} in stage {stage} (TID {TID}). {bytes} bytes result sent to driver`
+ =================== 
+Template: `Finished task {count} in stage {stage} (TID {TID}). {bytes} bytes result sent to driver`
+ =================== 
+Template: `Got assigned task {task}`
+ =================== 
+Template: `Running task {count} in stage {stage} (TID {TID})`
+ =================== 
+Template: `Got assigned task {task}`
+ =================== 
+Template: `Running task {count} in stage {stage} (TID {TID})`
+ =================== 
+Template: `Started reading broadcast variable {variable}`
+ =================== 
+Template: `Got assigned task {task}`
+ =================== 
+Template: `Running task {count} in stage {stage} (TID {TID})`
+ =================== 
+Template: `Got assigned task {task}`
+ =================== 
+Template: `Running task {count} in stage {stage} (TID {TID})`
+ =================== 
+Template: `Got assigned task {task}`
+ =================== 
+Template: `Running task {count} in stage {stage} (TID {TID})`
+ =================== 
+Template: `Block {block} stored as bytes in memory (estimated size {size}, free {free})`
+ =================== 
+Template: `Reading broadcast variable {variable} took {time} ms`
+ =================== 
+Template: `Block {block} stored as values in memory (estimated size {size}, free {free})`
+ =================== 
+Template: `Found block {block} locally`
+ =================== 
+Template: `Found block {block} locally`
+ =================== 
+Template: `Found block {block} locally`
+ =================== 
+Template: `Found block {block} locally`
+ =================== 
+Template: `Found block {block} locally`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Finished task {count} in stage {stage} (TID {TID}). {bytes} bytes result sent to driver`
+ =================== 
+Template: `Finished task {count} in stage {stage} (TID {TID}). {bytes} bytes result sent to driver`
+ =================== 
+Template: `Finished task {count} in stage {stage} (TID {TID}). {bytes} bytes result sent to driver`
+ =================== 
+Template: `Finished task {count} in stage {stage} (TID {TID}). {bytes} bytes result sent to driver`
+ =================== 
+Template: `Finished task {count} in stage {stage} (TID {TID}). {bytes} bytes result sent to driver`
+ =================== 
+Template: `Got assigned task {task}`
+ =================== 
+Template: `Running task {count} in stage {stage} (TID {TID})`
+ =================== 
+Template: `Got assigned task {task}`
+ =================== 
+Template: `Running task {count} in stage {stage} (TID {TID})`
+ =================== 
+Template: `Got assigned task {task}`
+ =================== 
+Template: `Running task {count} in stage {stage} (TID {TID})`
+ =================== 
+Template: `Got assigned task {task}`
+ =================== 
+Template: `Running task {count} in stage {stage} (TID {TID})`
+ =================== 
+Template: `Got assigned task {task}`
+ =================== 
+Template: `Running task {count} in stage {stage} (TID {TID})`
+ =================== 
+Template: `Started reading broadcast variable {variable}`
+ =================== 
+Template: `Block {block} stored as bytes in memory (estimated size {size}, free {free})`
+ =================== 
+Template: `Reading broadcast variable {variable} took {time} ms`
+ =================== 
+Template: `Block {block} stored as values in memory (estimated size {size}, free {free})`
+ =================== 
+Template: `Found block {block} locally`
+ =================== 
+Template: `Found block {block} locally`
+ =================== 
+Template: `Found block {block} locally`
+ =================== 
+Template: `Found block {block} locally`
+ =================== 
+Template: `Found block {block} locally`
+ =================== 
+Template: `File Output Committer Algorithm version is 1`
+ =================== 
+Template: `File Output Committer Algorithm version is 1`
+ =================== 
+Template: `File Output Committer Algorithm version is 1`
+ =================== 
+Template: `File Output Committer Algorithm version is 1`
+ =================== 
+Template: `File Output Committer Algorithm version is 1`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+The template is: `Saved output of task 'attempt_{attempt}_m_{m_id}_{task_id}' to {location}`.
+ =================== 
+The template is: `Saved output of task 'attempt_{attempt}_m_{m_id}_{task_id}' to {location}`.
+ =================== 
+The template is: `Saved output of task 'attempt_{attempt}_m_{m_id}_{task_id}' to {location}`.
+ =================== 
+The template is: `Saved output of task 'attempt_{attempt}_m_{task}_000000_970' to {location}`.
+ =================== 
+The template is: `Saved output of task 'attempt_{attempt}_m_{m_id}_{task_id}' to {location}`.
+ =================== 
+Template: `attempt_{job_id}_{task_type}_{task_id}_{attempt_id}: {status}`
+ =================== 
+Template: `attempt_{job_id}_{task_type}_{task_id}_{attempt_id}: {status}`
+ =================== 
+Template: `attempt_{job_id}_{task_type}_{task_id}_{attempt_id}: {status}`
+ =================== 
+Template: `attempt_{job_id}_{task_type}_{task_id}_{attempt_id}: {status}`
+ =================== 
+Template: `attempt_{job_id}_{task_type}_{task_id}_{attempt_id}: {status}`
+ =================== 
+The template is `Finished task {count} in stage {stage} (TID {TID}). {bytes} bytes result sent to driver`.
+ =================== 
+Template: `Finished task {count} in stage {stage} (TID {TID}). {bytes} bytes result sent to driver`
+ =================== 
+Template: `Finished task {count} in stage {stage} (TID {TID}). {bytes} bytes result sent to driver`
+ =================== 
+Template: `Finished task {count} in stage {stage} (TID {TID}). {bytes} bytes result sent to driver`
+ =================== 
+Template: `Finished task {count} in stage {stage} (TID {TID}). {bytes} bytes result sent to driver`
+ =================== 
+Template: `Got assigned task {task}`
+ =================== 
+Template: `Running task {count} in stage {stage} (TID {TID})`
+ =================== 
+Template: `Got assigned task {task}`
+ =================== 
+Template: `Running task {count} in stage {stage} (TID {TID})`
+ =================== 
+Template: `Got assigned task {task}`
+ =================== 
+Template: `Running task {count} in stage {stage} (TID {TID})`
+ =================== 
+Template: `Got assigned task {task}`
+ =================== 
+Template: `Running task {count} in stage {stage} (TID {TID})`
+ =================== 
+Template: `Got assigned task {task}`
+ =================== 
+Template: `Running task {count} in stage {stage} (TID {TID})`
+ =================== 
+Template: `Found block {block} locally`
+ =================== 
+Template: `Found block {block} locally`
+ =================== 
+Template: `Found block {block} locally`
+ =================== 
+Template: `Found block {block} locally`
+ =================== 
+Template: `Found block {block} locally`
+ =================== 
+Template: `File Output Committer Algorithm version is 1`
+ =================== 
+Template: `File Output Committer Algorithm version is 1`
+ =================== 
+Template: `File Output Committer Algorithm version is 1`
+ =================== 
+Template: `File Output Committer Algorithm version is 1`
+ =================== 
+Template: `File Output Committer Algorithm version is 1`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+The template is: `Saved output of task 'attempt_{attempt}_m_{m_id}_{task_id}' to {location}`.
+ =================== 
+Template: `attempt_{job_id}_{task_type}_{task_id}_{attempt_id}: {status}`
+ =================== 
+Template: `Saved output of task 'attempt_{attempt}_m_{m_id}_{task_id}' to {location}`.
+ =================== 
+The template is: `Saved output of task 'attempt_{attempt}_m_{m_id}_{task_id}' to {location}`.
+ =================== 
+Template: `attempt_{job_id}_{task_type}_{task_id}_{attempt_id}: {status}`
+ =================== 
+Template: `attempt_{job_id}_{task_type}_{task_id}_{attempt_id}: {status}`
+ =================== 
+The template is: `Saved output of task 'attempt_{attempt}_m_{m_id}_{task_id}' to {location}`.
+ =================== 
+Template: `attempt_{job_id}_{task_type}_{task_id}_{attempt_id}: {status}`
+ =================== 
+The template is: `Saved output of task 'attempt_{attempt}_m_{m_id}_{task_id}' to {hdfs_path}`.
+ =================== 
+Template: `attempt_{job_id}_{task_type}_{task_id}_{attempt_id}: {status}`
+ =================== 
+Template: `Finished task {count} in stage {stage} (TID {TID}). {bytes} bytes result sent to driver`
+ =================== 
+Template: `Finished task {count} in stage {stage} (TID {TID}). {bytes} bytes result sent to driver`
+ =================== 
+Template: `Finished task {count} in stage {stage} (TID {TID}). {bytes} bytes result sent to driver`
+ =================== 
+Template: `Finished task {count} in stage {stage} (TID {TID}). {bytes} bytes result sent to driver`
+ =================== 
+Template: `Finished task {count} in stage {stage} (TID {TID}). {bytes} bytes result sent to driver`
+ =================== 
+Template: `Got assigned task {task}`
+ =================== 
+Template: `Running task {count} in stage {stage} (TID {TID})`
+ =================== 
+Template: `Got assigned task {task}`
+ =================== 
+Template: `Running task {count} in stage {stage} (TID {TID})`
+ =================== 
+Template: `Got assigned task {task}`
+ =================== 
+Template: `Running task {count} in stage {stage} (TID {TID})`
+ =================== 
+Template: `Got assigned task {task}`
+ =================== 
+Template: `Running task {count} in stage {stage} (TID {TID})`
+ =================== 
+Template: `Got assigned task {task}`
+ =================== 
+Template: `Running task {count} in stage {stage} (TID {TID})`
+ =================== 
+Template: `Found block {block} locally`
+ =================== 
+Template: `Found block {block} locally`
+ =================== 
+Template: `Found block {block} locally`
+ =================== 
+Template: `Found block {block} locally`
+ =================== 
+Template: `Found block {block} locally`
+ =================== 
+Template: `File Output Committer Algorithm version is 1`
+ =================== 
+Template: `File Output Committer Algorithm version is 1`
+ =================== 
+Template: `File Output Committer Algorithm version is 1`
+ =================== 
+Template: `File Output Committer Algorithm version is 1`
+ =================== 
+Template: `File Output Committer Algorithm version is 1`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+The template is: `Saved output of task 'attempt_{attempt}_m_{m_id}_{task_id}' to {location}`.
+ =================== 
+Template: `attempt_{job_id}_{task_type}_{task_id}_{attempt_id}: {status}`
+ =================== 
+The template is: `Saved output of task 'attempt_{attempt}_m_{m_id}_{task_id}' to {location}`.
+ =================== 
+The template is: `Saved output of task 'attempt_{attempt}_m_{m_id}_{task_id}' to {location}`.
+ =================== 
+Template: `attempt_{job_id}_{task_type}_{task_id}_{attempt_id}: {status}`
+ =================== 
+Template: `attempt_{job_id}_{task_type}_{task_id}_{attempt_id}: {status}`
+ =================== 
+The template of `Saved output of task 'attempt_201706092018_0024_m_000082_1137' to hdfs://10.10.34.11:9000/pjhe/test/1/_temporary/0/task_201706092018_0024_m_000082` is `Saved output of task '{task}' to {path}`.
+ =================== 
+Template: `attempt_{job_id}_{task_type}_{task_id}_{attempt_id}: {status}`
+ =================== 
+The template is: `Saved output of task 'attempt_{attempt}_m_{m_id}_{task_id}' to {location}`.
+ =================== 
+Template: `attempt_{job_id}_{task_type}_{task_id}_{attempt_id}: {status}`
+ =================== 
+Template: `Finished task {count} in stage {stage} (TID {TID}). {bytes} bytes result sent to driver`
+ =================== 
+Template: `Finished task {count} in stage {stage} (TID {TID}). {bytes} bytes result sent to driver`
+ =================== 
+Template: `Finished task {count} in stage {stage} (TID {TID}). {bytes} bytes result sent to driver`
+ =================== 
+Template: `Finished task {count} in stage {stage} (TID {TID}). {bytes} bytes result sent to driver`
+ =================== 
+Template: `Finished task {count} in stage {stage} (TID {TID}). {bytes} bytes result sent to driver`
+ =================== 
+Template: `Got assigned task {task}`
+ =================== 
+Template: `Running task {count} in stage {stage} (TID {TID})`
+ =================== 
+Template: `Got assigned task {task}`
+ =================== 
+Template: `Running task {count} in stage {stage} (TID {TID})`
+ =================== 
+Template: `Got assigned task {task}`
+ =================== 
+Template: `Running task {count} in stage {stage} (TID {TID})`
+ =================== 
+Template: `Got assigned task {task}`
+ =================== 
+Template: `Running task {count} in stage {stage} (TID {TID})`
+ =================== 
+Template: `Got assigned task {task}`
+ =================== 
+Template: `Running task {count} in stage {stage} (TID {TID})`
+ =================== 
+Template: `Found block {block} locally`
+ =================== 
+Template: `Found block {block} locally`
+ =================== 
+Template: `Found block {block} locally`
+ =================== 
+Template: `Found block {block} locally`
+ =================== 
+Template: `Found block {block} locally`
+ =================== 
+Template: `File Output Committer Algorithm version is 1`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+The template of `Saved output of task 'attempt_201706092018_0024_m_000124_1151' to hdfs://10.10.34.11:9000/pjhe/test/1/_temporary/0/task_201706092018_0024_m_000124` is `Saved output of task '{task}' to {location}`.
+ =================== 
+Template: `attempt_{job_id}_{task_type}_{task_id}_{attempt_id}: {status}`
+ =================== 
+Template: `Finished task {count} in stage {stage} (TID {TID}). {bytes} bytes result sent to driver`
+ =================== 
+Template: `File Output Committer Algorithm version is 1`
+ =================== 
+Template: `File Output Committer Algorithm version is 1`
+ =================== 
+Template: `File Output Committer Algorithm version is 1`
+ =================== 
+Template: `File Output Committer Algorithm version is 1`
+ =================== 
+Template: `Got assigned task {task}`
+ =================== 
+Template: `Running task {count} in stage {stage} (TID {TID})`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+The template is: `Saved output of task 'attempt_{attempt}_m_{m_id}_{task_id}' to {location}`.
+ =================== 
+Template: `attempt_{job_id}_{task_type}_{task_id}_{attempt_id}: {status}`
+ =================== 
+The template is: `Saved output of task 'attempt_{attempt}_m_{m_id}_{task_id}' to {location}`.
+ =================== 
+The template is: `Saved output of task 'attempt_{attempt}_m_{m_id}_{task_id}' to {location}`.
+ =================== 
+Template: `attempt_{job_id}_{task_type}_{task_id}_{attempt_id}: {status}`
+ =================== 
+The template is: `Saved output of task 'attempt_{attempt}_m_{m_id}_{task_id}' to {location}`.
+ =================== 
+Template: `attempt_{job_id}_{task_type}_{task_id}_{attempt_id}: {status}`
+ =================== 
+Template: `attempt_{job_id}_{task_type}_{task_id}_{attempt_id}: {status}`
+ =================== 
+Template: `Finished task {count} in stage {stage} (TID {TID}). {bytes} bytes result sent to driver`
+ =================== 
+Template: `Finished task {count} in stage {stage} (TID {TID}). {bytes} bytes result sent to driver`
+ =================== 
+Template: `Finished task {count} in stage {stage} (TID {TID}). {bytes} bytes result sent to driver`
+ =================== 
+Template: `Finished task {count} in stage {stage} (TID {TID}). {bytes} bytes result sent to driver`
+ =================== 
+Template: `Got assigned task {task}`
+ =================== 
+Template: `Running task {count} in stage {stage} (TID {TID})`
+ =================== 
+Template: `Got assigned task {task}`
+ =================== 
+Template: `Got assigned task {task}`
+ =================== 
+Template: `Running task {count} in stage {stage} (TID {TID})`
+ =================== 
+Template: `Running task {count} in stage {stage} (TID {TID})`
+ =================== 
+Template: `Got assigned task {task}`
+ =================== 
+Template: `Running task {count} in stage {stage} (TID {TID})`
+ =================== 
+Template: `Found block {block} locally`
+ =================== 
+Template: `Found block {block} locally`
+ =================== 
+Template: `Found block {block} locally`
+ =================== 
+Template: `Found block {block} locally`
+ =================== 
+Template: `Found block {block} locally`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `File Output Committer Algorithm version is 1`
+ =================== 
+The template is: `Saved output of task 'attempt_{attempt}_m_{m_id}_{task_id}' to {location}`.
+ =================== 
+Template: `attempt_{job_id}_{task_type}_{task_id}_{attempt_id}: {status}`
+ =================== 
+Template: `Finished task {count} in stage {stage} (TID {TID}). {bytes} bytes result sent to driver`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `File Output Committer Algorithm version is 1`
+ =================== 
+Template: `File Output Committer Algorithm version is 1`
+ =================== 
+The template is: `Saved output of task 'attempt_{attempt}_m_{m_id}_{task_id}' to {location}`.
+ =================== 
+Template: `attempt_{job_id}_{task_type}_{task_id}_{attempt_id}: {status}`
+ =================== 
+The template is: `Saved output of task 'attempt_{attempt}_m_{m_id}_{task_id}' to {location}`.
+ =================== 
+Template: `attempt_{job_id}_{task_type}_{task_id}_{attempt_id}: {status}`
+ =================== 
+Template: `Finished task {count} in stage {stage} (TID {TID}). {bytes} bytes result sent to driver`
+ =================== 
+Template: `Finished task {count} in stage {stage} (TID {TID}). {bytes} bytes result sent to driver`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `File Output Committer Algorithm version is 1`
+ =================== 
+Template: `File Output Committer Algorithm version is 1`
+ =================== 
+The template is: `Saved output of task 'attempt_{attempt}_m_{m_id}_{task_id}' to {location}`.
+ =================== 
+Template: `attempt_{job_id}_{task_type}_{task_id}_{attempt_id}: {status}`
+ =================== 
+The template is: `Saved output of task 'attempt_{attempt}_m_{m_id}_{task_id}' to {location}`.
+ =================== 
+Template: `attempt_{job_id}_{task_type}_{task_id}_{attempt_id}: {status}`
+ =================== 
+Template: `Finished task {count} in stage {stage} (TID {TID}). {bytes} bytes result sent to driver`
+ =================== 
+Template: `Finished task {count} in stage {stage} (TID {TID}). {bytes} bytes result sent to driver`
+ =================== 
+Template: `Got assigned task {task}`
+ =================== 
+Template: `Got assigned task {task}`
+ =================== 
+Template: `Running task {count} in stage {stage} (TID {TID})`
+ =================== 
+Template: `Running task {count} in stage {stage} (TID {TID})`
+ =================== 
+Template: `Got assigned task {task}`
+ =================== 
+Template: `Running task {count} in stage {stage} (TID {TID})`
+ =================== 
+Template: `Got assigned task {task}`
+ =================== 
+Template: `Running task {count} in stage {stage} (TID {TID})`
+ =================== 
+Template: `Got assigned task {task}`
+ =================== 
+Template: `Running task {count} in stage {stage} (TID {TID})`
+ =================== 
+Template: `Started reading broadcast variable {variable}`
+ =================== 
+Template: `Block {block} stored as bytes in memory (estimated size {size}, free {free})`
+ =================== 
+Template: `Reading broadcast variable {variable} took {time} ms`
+ =================== 
+Template: `Block {block} stored as values in memory (estimated size {size}, free {free})`
+ =================== 
+Template: `Found block {block} locally`
+ =================== 
+Template: `Found block {block} locally`
+ =================== 
+Template: `Found block {block} locally`
+ =================== 
+Template: `Found block {block} locally`
+ =================== 
+Template: `Found block {block} locally`
+ =================== 
+Template: `File Output Committer Algorithm version is 1`
+ =================== 
+Template: `File Output Committer Algorithm version is 1`
+ =================== 
+Template: `File Output Committer Algorithm version is 1`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `File Output Committer Algorithm version is 1`
+ =================== 
+Template: `File Output Committer Algorithm version is 1`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+The template is: `Saved output of task 'attempt_{attempt}_m_{m_id}_{task_id}' to {location}`.
+ =================== 
+Template: `attempt_{job_id}_{task_type}_{task_id}_{attempt_id}: {status}`
+ =================== 
+Template: `Finished task {count} in stage {stage} (TID {TID}). {bytes} bytes result sent to driver`
+ =================== 
+The template is: `Saved output of task 'attempt_{attempt}_m_{m_id}_{task_id}' to {location}`.
+ =================== 
+Template: `attempt_{job_id}_{task_type}_{task_id}_{attempt_id}: {status}`
+ =================== 
+The template is: `Saved output of task 'attempt_{attempt}_m_{m_id}_{task_id}' to {location}`.
+ =================== 
+Template: `attempt_{job_id}_{task_type}_{task_id}_{attempt_id}: {status}`
+ =================== 
+The template of the log message is `Saved output of task 'attempt_{attempt}_m_{m_id}_{task_id}' to {path}`.
+ =================== 
+The template is: `Saved output of task 'attempt_{attempt}_m_{m_id}_{task_id}' to {location}`.
+ =================== 
+Template: `attempt_{job_id}_{task_type}_{task_id}_{attempt_id}: {status}`
+ =================== 
+Template: `attempt_{job_id}_{task_type}_{task_id}_{attempt_id}: {status}`
+ =================== 
+Template: `Finished task {count} in stage {stage} (TID {TID}). {bytes} bytes result sent to driver`
+ =================== 
+Template: `Finished task {count} in stage {stage} (TID {TID}). {bytes} bytes result sent to driver`
+ =================== 
+Template: `Finished task {count} in stage {stage} (TID {TID}). {bytes} bytes result sent to driver`
+ =================== 
+Template: `Finished task {count} in stage {stage} (TID {TID}). {bytes} bytes result sent to driver`
+ =================== 
+Template: `Got assigned task {task}`
+ =================== 
+Template: `Got assigned task {task}`
+ =================== 
+Template: `Running task {count} in stage {stage} (TID {TID})`
+ =================== 
+Template: `Running task {count} in stage {stage} (TID {TID})`
+ =================== 
+Template: `Got assigned task {task}`
+ =================== 
+Template: `Running task {count} in stage {stage} (TID {TID})`
+ =================== 
+Template: `Got assigned task {task}`
+ =================== 
+Template: `Running task {count} in stage {stage} (TID {TID})`
+ =================== 
+Template: `Got assigned task {task}`
+ =================== 
+Template: `Running task {count} in stage {stage} (TID {TID})`
+ =================== 
+Template: `Started reading broadcast variable {variable}`
+ =================== 
+Template: `Block {block} stored as bytes in memory (estimated size {size}, free {free})`
+ =================== 
+Template: `Reading broadcast variable {variable} took {time} ms`
+ =================== 
+Template: `Block {block} stored as values in memory (estimated size {size}, free {free})`
+ =================== 
+Template: `Partition {block} not found, computing it`
+ =================== 
+Template: `Input split: {path}:{start}+{length}`
+ =================== 
+Template: `Started reading broadcast variable {variable}`
+ =================== 
+Template: `Partition {block} not found, computing it`
+ =================== 
+Template: `Input split: {path}:{start}+{length}`
+ =================== 
+Template: `Partition {block} not found, computing it`
+ =================== 
+Template: `Input split: {path}:{start}+{length}`.
+ =================== 
+Template: `Partition {block} not found, computing it`
+ =================== 
+Template: `Input split: {path}:{start}+{length}`
+ =================== 
+Template: `Partition {block} not found, computing it`
+ =================== 
+Template: `Input split: {path}:{start}+{end}`.
+ =================== 
+Template: `Block {block} stored as bytes in memory (estimated size {size}, free {free})`
+ =================== 
+Template: `Reading broadcast variable {variable} took {time} ms`
+ =================== 
+Template: `Block {block} stored as values in memory (estimated size {size}, free {free})`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Block {block} stored as bytes in memory (estimated size {size} B, free {free} KB)`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Block {block} stored as bytes in memory (estimated size {size} B, free {free} KB)`
+ =================== 
+Template: `Block {block} stored as bytes in memory (estimated size {size}, free {free})`
+ =================== 
+Template: `Block {block} stored as bytes in memory (estimated size {size} B, free {free} KB)`
+ =================== 
+Template: `Block {block} stored as bytes in memory (estimated size {size} B, free {free} KB)`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Finished task {count} in stage {stage} (TID {TID}). {bytes} bytes result sent to driver`
+ =================== 
+Template: `Got assigned task {task}`
+ =================== 
+Template: `Running task {count} in stage {stage} (TID {TID})`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Partition {block} not found, computing it`
+ =================== 
+Template: `Input split: {path}:{start}+{length}`.
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Finished task {count} in stage {stage} (TID {TID}). {bytes} bytes result sent to driver`
+ =================== 
+Template: `Finished task {count} in stage {stage} (TID {TID}). {bytes} bytes result sent to driver`
+ =================== 
+Template: `Finished task {count} in stage {stage} (TID {TID}). {bytes} bytes result sent to driver`
+ =================== 
+Template: `Finished task {count} in stage {stage} (TID {TID}). {bytes} bytes result sent to driver`
+ =================== 
+Template: `Got assigned task {task}`
+ =================== 
+Template: `Running task {count} in stage {stage} (TID {TID})`
+ =================== 
+Template: `Got assigned task {task}`
+ =================== 
+Template: `Running task {count} in stage {stage} (TID {TID})`
+ =================== 
+Template: `Got assigned task {task}`
+ =================== 
+Template: `Running task {count} in stage {stage} (TID {TID})`
+ =================== 
+Template: `Got assigned task {task}`
+ =================== 
+Template: `Running task {count} in stage {stage} (TID {TID})`
+ =================== 
+Template: `Partition {block} not found, computing it`
+ =================== 
+Template: `Input split: {path}:{start}+{length}`
+ =================== 
+Template: `Partition {block} not found, computing it`
+ =================== 
+Template: `Input split: {path}:{start}+{length}`
+ =================== 
+Template: `Partition {block} not found, computing it`
+ =================== 
+Template: `Input split: {path}:{start}+{length}`
+ =================== 
+Template: `Partition {block} not found, computing it`
+ =================== 
+Template: `Input split: {path}:{start}+{length}`.
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Block {block} stored as bytes in memory (estimated size {size} B, free {free} KB)`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Block {block} stored as bytes in memory (estimated size {size} B, free {free} KB)`
+ =================== 
+Template: `Block {block} stored as bytes in memory (estimated size {size} B, free {free} KB)`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Block {block} stored as bytes in memory (estimated size {size} B, free {free} KB)`
+ =================== 
+Template: `Block {block} stored as bytes in memory (estimated size {size}, free {free})`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Finished task {count} in stage {stage} (TID {TID}). {bytes} bytes result sent to driver`
+ =================== 
+Template: `Got assigned task {task}`
+ =================== 
+Template: `Running task {count} in stage {stage} (TID {TID})`
+ =================== 
+Template: `Partition {block} not found, computing it`
+ =================== 
+Template: `Input split: {path}:{start}+{length}`.
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Finished task {count} in stage {stage} (TID {TID}). {bytes} bytes result sent to driver`
+ =================== 
+Template: `Finished task {count} in stage {stage} (TID {TID}). {bytes} bytes result sent to driver`
+ =================== 
+Template: `Finished task {count} in stage {stage} (TID {TID}). {bytes} bytes result sent to driver`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Got assigned task {task}`
+ =================== 
+Template: `Running task {count} in stage {stage} (TID {TID})`
+ =================== 
+Template: `Got assigned task {task}`
+ =================== 
+Template: `Running task {count} in stage {stage} (TID {TID})`
+ =================== 
+Template: `Finished task {count} in stage {stage} (TID {TID}). {bytes} bytes result sent to driver`
+ =================== 
+Template: `Got assigned task {task}`
+ =================== 
+Template: `Running task {count} in stage {stage} (TID {TID})`
+ =================== 
+Template: `Partition {block} not found, computing it`
+ =================== 
+Template: `Input split: {path}:{start}+{length}`.
+ =================== 
+Template: `Got assigned task {task}`
+ =================== 
+Template: `Running task {count} in stage {stage} (TID {TID})`
+ =================== 
+Template: `Partition {block} not found, computing it`
+ =================== 
+Template: `Input split: {path}:{start}+{length}`.
+ =================== 
+Template: `Partition {block} not found, computing it`
+ =================== 
+Template: `Input split: {path}:{offset}+{length}`
+ =================== 
+Template: `Partition {block} not found, computing it`
+ =================== 
+Template: `Input split: {path}:{offset}+{length}`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Block {block} stored as bytes in memory (estimated size {size}, free {free})`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Block {block} stored as bytes in memory (estimated size {size} B, free {free} KB)`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Block {block} stored as bytes in memory (estimated size {size}, free {free})`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Block {block} stored as bytes in memory (estimated size {size} B, free {free} KB)`
+ =================== 
+Template: `Block {block} stored as bytes in memory (estimated size {size} B, free {free} KB)`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Finished task {count} in stage {stage} (TID {TID}). {bytes} bytes result sent to driver`
+ =================== 
+Template: `Got assigned task {task}`
+ =================== 
+Template: `Running task {count} in stage {stage} (TID {TID})`
+ =================== 
+Template: `Partition {block} not found, computing it`
+ =================== 
+Template: `Input split: {path}:{offset}+{length}`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Finished task {count} in stage {stage} (TID {TID}). {bytes} bytes result sent to driver`
+ =================== 
+Template: `Finished task {count} in stage {stage} (TID {TID}). {bytes} bytes result sent to driver`
+ =================== 
+Template: `Got assigned task {task}`
+ =================== 
+Template: `Running task {count} in stage {stage} (TID {TID})`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Got assigned task {task}`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Running task {count} in stage {stage} (TID {TID})`
+ =================== 
+Template: `Partition {block} not found, computing it`
+ =================== 
+Template: `Input split: {path}:{start}+{length}`.
+ =================== 
+Template: `Finished task {count} in stage {stage} (TID {TID}). {bytes} bytes result sent to driver`
+ =================== 
+Template: `Finished task {count} in stage {stage} (TID {TID}). {bytes} bytes result sent to driver`
+ =================== 
+Template: `Partition {block} not found, computing it`
+ =================== 
+Template: `Input split: {path}:{offset}+{length}`
+ =================== 
+Template: `Got assigned task {task}`
+ =================== 
+Template: `Running task {count} in stage {stage} (TID {TID})`
+ =================== 
+Template: `Got assigned task {task}`
+ =================== 
+Template: `Running task {count} in stage {stage} (TID {TID})`
+ =================== 
+Template: `Partition {block} not found, computing it`
+ =================== 
+Template: `Input split: {path}:{offset}+{length}`
+ =================== 
+Template: `Partition {block} not found, computing it`
+ =================== 
+Template: `Input split: {path}:{offset}+{length}`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Block {block} stored as bytes in memory (estimated size {size} B, free {free} KB)`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Block {block} stored as bytes in memory (estimated size {size} B, free {free} KB)`
+ =================== 
+Template: `Block {block} stored as bytes in memory (estimated size {size} B, free {free} KB)`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Block {block} stored as bytes in memory (estimated size {size} B, free {free} KB)`
+ =================== 
+Template: `Block {block} stored as bytes in memory (estimated size {size} B, free {free} KB)`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Finished task {count} in stage {stage} (TID {TID}). {bytes} bytes result sent to driver`
+ =================== 
+Template: `Got assigned task {task}`
+ =================== 
+Template: `Running task {count} in stage {stage} (TID {TID})`
+ =================== 
+Template: `Partition {block} not found, computing it`
+ =================== 
+Template: `Input split: {path}:{offset}+{length}`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Finished task {count} in stage {stage} (TID {TID}). {bytes} bytes result sent to driver`
+ =================== 
+Template: `Finished task {count} in stage {stage} (TID {TID}). {bytes} bytes result sent to driver`
+ =================== 
+Template: `Got assigned task {task}`
+ =================== 
+Template: `Running task {count} in stage {stage} (TID {TID})`
+ =================== 
+Template: `Got assigned task {task}`
+ =================== 
+Template: `Running task {count} in stage {stage} (TID {TID})`
+ =================== 
+Template: `Partition {block} not found, computing it`
+ =================== 
+Template: `Input split: {path}:{offset}+{length}`
+ =================== 
+Template: `Partition {block} not found, computing it`
+ =================== 
+Template: `Input split: {path}`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Finished task {count} in stage {stage} (TID {TID}). {bytes} bytes result sent to driver`
+ =================== 
+Template: `Finished task {count} in stage {stage} (TID {TID}). {bytes} bytes result sent to driver`
+ =================== 
+Template: `Got assigned task {task}`
+ =================== 
+Template: `Running task {count} in stage {stage} (TID {TID})`
+ =================== 
+Template: `Got assigned task {task}`
+ =================== 
+Template: `Running task {count} in stage {stage} (TID {TID})`
+ =================== 
+Template: `Partition {block} not found, computing it`
+ =================== 
+Template: `Input split: {path}:{start}+{length}`
+ =================== 
+Template: `Partition {block} not found, computing it`
+ =================== 
+Template: `Input split: {path}:{offset}+{length}`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Block {block} stored as bytes in memory (estimated size {size} B, free {free} KB)`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Block {block} stored as bytes in memory (estimated size {size} B, free {free} KB)`
+ =================== 
+Template: `Block {block} stored as bytes in memory (estimated size {size} B, free {free} KB)`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Block {block} stored as bytes in memory (estimated size {size}, free {free})`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Block {block} stored as bytes in memory (estimated size {size} B, free {free} KB)`
+ =================== 
+Template: `Finished task {count} in stage {stage} (TID {TID}). {bytes} bytes result sent to driver`
+ =================== 
+Template: `Got assigned task {task}`
+ =================== 
+Template: `Running task {count} in stage {stage} (TID {TID})`
+ =================== 
+Template: `Partition {block} not found, computing it`
+ =================== 
+Template: `Input split: {path}:{offset}+{length}`.
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Finished task {count} in stage {stage} (TID {TID}). {bytes} bytes result sent to driver`
+ =================== 
+Template: `Finished task {count} in stage {stage} (TID {TID}). {bytes} bytes result sent to driver`
+ =================== 
+Template: `Got assigned task {task}`
+ =================== 
+Template: `Running task {count} in stage {stage} (TID {TID})`
+ =================== 
+Template: `Got assigned task {task}`
+ =================== 
+Template: `Running task {count} in stage {stage} (TID {TID})`
+ =================== 
+Template: `Partition {block} not found, computing it`
+ =================== 
+Template: `Input split: {path}:{offset}+{length}`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Partition {block} not found, computing it`
+ =================== 
+Template: `Input split: {path}:{start}+{length}`.
+ =================== 
+Template: `Finished task {count} in stage {stage} (TID {TID}). {bytes} bytes result sent to driver`
+ =================== 
+Template: `Finished task {count} in stage {stage} (TID {TID}). {bytes} bytes result sent to driver`
+ =================== 
+Template: `Got assigned task {task}`
+ =================== 
+Template: `Running task {count} in stage {stage} (TID {TID})`
+ =================== 
+Template: `Got assigned task {task}`
+ =================== 
+Template: `Running task {count} in stage {stage} (TID {TID})`
+ =================== 
+Template: `Partition {block} not found, computing it`
+ =================== 
+Template: `Input split: {path}:{offset}+{length}`
+ =================== 
+Template: `Partition {block} not found, computing it`
+ =================== 
+Template: `Input split: {path}:{start}+{length}`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Block {block} stored as bytes in memory (estimated size {size} B, free {free} KB)`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Block {block} stored as bytes in memory (estimated size {size} B, free {free} KB)`
+ =================== 
+Template: `Block {block} stored as bytes in memory (estimated size {size} B, free {free} KB)`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Block {block} stored as bytes in memory (estimated size {size} B, free {free} KB)`
+ =================== 
+Template: `Finished task {count} in stage {stage} (TID {TID}). {bytes} bytes result sent to driver`
+ =================== 
+Template: `Block {block} stored as bytes in memory (estimated size {size} B, free {free} KB)`
+ =================== 
+Template: `Got assigned task {task}`
+ =================== 
+Template: `Running task {count} in stage {stage} (TID {TID})`
+ =================== 
+Template: `Partition {block} not found, computing it`
+ =================== 
+Template: `Input split: {path}:{start}+{length}`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Finished task {count} in stage {stage} (TID {TID}). {bytes} bytes result sent to driver`
+ =================== 
+Template: `Finished task {count} in stage {stage} (TID {TID}). {bytes} bytes result sent to driver`
+ =================== 
+Template: `Got assigned task {task}`
+ =================== 
+Template: `Running task {count} in stage {stage} (TID {TID})`
+ =================== 
+Template: `Got assigned task {task}`
+ =================== 
+Template: `Running task {count} in stage {stage} (TID {TID})`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Partition {block} not found, computing it`
+ =================== 
+Template: `Input split: {path}:{start}+{length}`
+ =================== 
+Template: `Partition {block} not found, computing it`
+ =================== 
+Template: `Input split: {path}:{start}+{length}`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Finished task {count} in stage {stage} (TID {TID}). {bytes} bytes result sent to driver`
+ =================== 
+Template: `Finished task {count} in stage {stage} (TID {TID}). {bytes} bytes result sent to driver`
+ =================== 
+Template: `Got assigned task {task}`
+ =================== 
+Template: `Running task {count} in stage {stage} (TID {TID})`
+ =================== 
+Template: `Got assigned task {task}`
+ =================== 
+Template: `Running task {count} in stage {stage} (TID {TID})`
+ =================== 
+Template: `Partition {block} not found, computing it`
+ =================== 
+Template: `Input split: {path}:{start}+{length}`
+ =================== 
+Template: `Partition {block} not found, computing it`
+ =================== 
+Template: `Input split: {path}:{start}+{length}`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Block {block} stored as bytes in memory (estimated size {size}, free {free})`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Block {block} stored as bytes in memory (estimated size {size} B, free {free} KB)`
+ =================== 
+Template: `Block {block} stored as bytes in memory (estimated size {size} B, free {free} KB)`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Finished task {count} in stage {stage} (TID {TID}). {bytes} bytes result sent to driver`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Got assigned task {task}`
+ =================== 
+Template: `Running task {count} in stage {stage} (TID {TID})`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Block {block} stored as bytes in memory (estimated size {size} B, free {free} KB)`
+ =================== 
+Template: `Partition {block} not found, computing it`
+ =================== 
+Template: `Input split: {path}:{start}+{length}`.
+ =================== 
+Template: `Block {block} stored as bytes in memory (estimated size {size} B, free {free} KB)`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Finished task {count} in stage {stage} (TID {TID}). {bytes} bytes result sent to driver`
+ =================== 
+Template: `Finished task {count} in stage {stage} (TID {TID}). {bytes} bytes result sent to driver`
+ =================== 
+Template: `Got assigned task {task}`
+ =================== 
+Template: `Running task {count} in stage {stage} (TID {TID})`
+ =================== 
+Template: `Got assigned task {task}`
+ =================== 
+Template: `Running task {count} in stage {stage} (TID {TID})`
+ =================== 
+Template: `Partition {block} not found, computing it`
+ =================== 
+Template: `Input split: {path}:{offset}+{length}`
+ =================== 
+Template: `Partition {block} not found, computing it`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Input split: {path}:{start}+{length}`.
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Finished task {count} in stage {stage} (TID {TID}). {bytes} bytes result sent to driver`
+ =================== 
+Template: `Finished task {count} in stage {stage} (TID {TID}). {bytes} bytes result sent to driver`
+ =================== 
+Template: `Got assigned task {task}`
+ =================== 
+Template: `Running task {count} in stage {stage} (TID {TID})`
+ =================== 
+Template: `Got assigned task {task}`
+ =================== 
+Template: `Running task {count} in stage {stage} (TID {TID})`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Partition {block} not found, computing it`
+ =================== 
+Template: `Input split: {path}:{offset}+{length}`.
+ =================== 
+Template: `Partition {block} not found, computing it`
+ =================== 
+Template: `Input split: {path}:{start}+{length}`.
+ =================== 
+Template: `Block {block} stored as bytes in memory (estimated size {size} B, free {free} KB)`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Block {block} stored as bytes in memory (estimated size {size} B, free {free} KB)`
+ =================== 
+Template: `Block {block} stored as bytes in memory (estimated size {size} B, free {free} KB)`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Finished task {count} in stage {stage} (TID {TID}). {bytes} bytes result sent to driver`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Block {block} stored as bytes in memory (estimated size {size} B, free {free} KB)`
+ =================== 
+Template: `Block {block} stored as bytes in memory (estimated size {size} B, free {free} KB)`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Finished task {count} in stage {stage} (TID {TID}). {bytes} bytes result sent to driver`
+ =================== 
+Template: `Finished task {count} in stage {stage} (TID {TID}). {bytes} bytes result sent to driver`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Finished task {count} in stage {stage} (TID {TID}). {bytes} bytes result sent to driver`
+ =================== 
+Template: `Finished task {count} in stage {stage} (TID {TID}). {bytes} bytes result sent to driver`
+ =================== 
+Template: `Got assigned task {task}`
+ =================== 
+Template: `Running task {count} in stage {stage} (TID {TID})`
+ =================== 
+Template: `Got assigned task {task}`
+ =================== 
+Template: `Running task {count} in stage {stage} (TID {TID})`
+ =================== 
+Template: `Got assigned task {task}`
+ =================== 
+Template: `Started reading broadcast variable {variable}`
+ =================== 
+Template: `Running task {count} in stage {stage} (TID {TID})`
+ =================== 
+Template: `Got assigned task {task}`
+ =================== 
+Template: `Running task {count} in stage {stage} (TID {TID})`
+ =================== 
+Template: `Got assigned task {task}`
+ =================== 
+Template: `Running task {count} in stage {stage} (TID {TID})`
+ =================== 
+Template: `Block {block} stored as bytes in memory (estimated size {size}, free {free})`
+ =================== 
+Template: `Reading broadcast variable {variable} took {time} ms`
+ =================== 
+Template: `Block {block} stored as values in memory (estimated size {size}, free {free})`
+ =================== 
+Template: `Found block {block} locally`
+ =================== 
+Template: `Found block {block} locally`
+ =================== 
+Template: `Found block {block} locally`
+ =================== 
+Template: `Found block {block} locally`
+ =================== 
+Template: `Found block {block} locally`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Finished task {count} in stage {stage} (TID {TID}). {bytes} bytes result sent to driver`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Finished task {count} in stage {stage} (TID {TID}). {bytes} bytes result sent to driver`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Finished task {count} in stage {stage} (TID {TID}). {bytes} bytes result sent to driver`
+ =================== 
+Template: `Got assigned task {task}`
+ =================== 
+Template: `Running task {count} in stage {stage} (TID {TID})`
+ =================== 
+The template is `Finished task {count} in stage {stage} (TID {TID}). {bytes} bytes result sent to driver`.
+ =================== 
+Template: `Got assigned task {task}`
+ =================== 
+Template: `Finished task {count} in stage {stage} (TID {TID}). {bytes} bytes result sent to driver`
+ =================== 
+Template: `Running task {count} in stage {stage} (TID {TID})`
+ =================== 
+Template: `Got assigned task {task}`
+ =================== 
+Template: `Running task {count} in stage {stage} (TID {TID})`
+ =================== 
+Template: `Found block {block} locally`
+ =================== 
+Template: `Got assigned task {task}`
+ =================== 
+Template: `Running task {count} in stage {stage} (TID {TID})`
+ =================== 
+Template: `Got assigned task {task}`
+ =================== 
+Template: `Running task {count} in stage {stage} (TID {TID})`
+ =================== 
+Template: `Found block {block} locally`
+ =================== 
+Template: `Found block {block} locally`
+ =================== 
+Template: `Found block {block} locally`
+ =================== 
+Template: `Found block {block} locally`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Finished task {count} in stage {stage} (TID {TID}). {bytes} bytes result sent to driver`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Got assigned task {task}`
+ =================== 
+Template: `Running task {count} in stage {stage} (TID {TID})`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Finished task {count} in stage {stage} (TID {TID}). {bytes} bytes result sent to driver`
+ =================== 
+Template: `Finished task {count} in stage {stage} (TID {TID}). {bytes} bytes result sent to driver`
+ =================== 
+Template: `Finished task {count} in stage {stage} (TID {TID}). {bytes} bytes result sent to driver`
+ =================== 
+Template: `Found block {block} locally`
+ =================== 
+Template: `Finished task {count} in stage {stage} (TID {TID}). {bytes} bytes result sent to driver`
+ =================== 
+Template: `Got assigned task {task}`
+ =================== 
+Template: `Running task {count} in stage {stage} (TID {TID})`
+ =================== 
+Template: `Got assigned task {task}`
+ =================== 
+Template: `Running task {count} in stage {stage} (TID {TID})`
+ =================== 
+Template: `Got assigned task {task}`
+ =================== 
+Template: `Running task {count} in stage {stage} (TID {TID})`
+ =================== 
+Template: `Got assigned task {task}`
+ =================== 
+Template: `Running task {count} in stage {stage} (TID {TID})`
+ =================== 
+Template: `Found block {block} locally`
+ =================== 
+Template: `Found block {block} locally`
+ =================== 
+Template: `Found block {block} locally`
+ =================== 
+Template: `Found block {block} locally`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Finished task {count} in stage {stage} (TID {TID}). {bytes} bytes result sent to driver`
+ =================== 
+Template: `Got assigned task {task}`
+ =================== 
+Template: `Running task {count} in stage {stage} (TID {TID})`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Finished task {count} in stage {stage} (TID {TID}). {bytes} bytes result sent to driver`
+ =================== 
+Template: `Finished task {count} in stage {stage} (TID {TID}). {bytes} bytes result sent to driver`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Found block {block} locally`
+ =================== 
+Template: `Finished task {count} in stage {stage} (TID {TID}). {bytes} bytes result sent to driver`
+ =================== 
+Template: `Got assigned task {task}`
+ =================== 
+Template: `Running task {count} in stage {stage} (TID {TID})`
+ =================== 
+Template: `Got assigned task {task}`
+ =================== 
+Template: `Finished task {count} in stage {stage} (TID {TID}). {bytes} bytes result sent to driver`
+ =================== 
+Template: `Running task {count} in stage {stage} (TID {TID})`
+ =================== 
+Template: `Got assigned task {task}`
+ =================== 
+Template: `Running task {count} in stage {stage} (TID {TID})`
+ =================== 
+Template: `Got assigned task {task}`
+ =================== 
+Template: `Running task {count} in stage {stage} (TID {TID})`
+ =================== 
+Template: `Found block {block} locally`
+ =================== 
+Template: `Found block {block} locally`
+ =================== 
+Template: `Found block {block} locally`
+ =================== 
+Template: `Found block {block} locally`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Finished task {count} in stage {stage} (TID {TID}). {bytes} bytes result sent to driver`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Got assigned task {task}`
+ =================== 
+Template: `Running task {count} in stage {stage} (TID {TID})`
+ =================== 
+Template: `Finished task {count} in stage {stage} (TID {TID}). {bytes} bytes result sent to driver`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Found block {block} locally`
+ =================== 
+Template: `Got assigned task {task}`
+ =================== 
+Template: `Running task {count} in stage {stage} (TID {TID})`
+ =================== 
+Template: `Finished task {count} in stage {stage} (TID {TID}). {bytes} bytes result sent to driver`
+ =================== 
+Template: `Finished task {count} in stage {stage} (TID {TID}). {bytes} bytes result sent to driver`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Finished task {count} in stage {stage} (TID {TID}). {bytes} bytes result sent to driver`
+ =================== 
+Template: `Got assigned task {task}`
+ =================== 
+Template: `Running task {count} in stage {stage} (TID {TID})`
+ =================== 
+Template: `Got assigned task {task}`
+ =================== 
+Template: `Found block {block} locally`
+ =================== 
+Template: `Running task {count} in stage {stage} (TID {TID})`
+ =================== 
+Template: `Got assigned task {task}`
+ =================== 
+Template: `Running task {count} in stage {stage} (TID {TID})`
+ =================== 
+Template: `Found block {block} locally`
+ =================== 
+Template: `Found block {block} locally`
+ =================== 
+Template: `Found block {block} locally`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Finished task {count} in stage {stage} (TID {TID}). {bytes} bytes result sent to driver`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Got assigned task {task}`
+ =================== 
+Template: `Running task {count} in stage {stage} (TID {TID})`
+ =================== 
+Template: `Finished task {count} in stage {stage} (TID {TID}). {bytes} bytes result sent to driver`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Got assigned task {task}`
+ =================== 
+Template: `Running task {count} in stage {stage} (TID {TID})`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Found block {block} locally`
+ =================== 
+Template: `Finished task {count} in stage {stage} (TID {TID}). {bytes} bytes result sent to driver`
+ =================== 
+Template: `Finished task {count} in stage {stage} (TID {TID}). {bytes} bytes result sent to driver`
+ =================== 
+Template: `Finished task {count} in stage {stage} (TID {TID}). {bytes} bytes result sent to driver`
+ =================== 
+Template: `Found block {block} locally`
+ =================== 
+Template: `Got assigned task {task}`
+ =================== 
+Template: `Running task {count} in stage {stage} (TID {TID})`
+ =================== 
+Template: `Got assigned task {task}`
+ =================== 
+Template: `Running task {count} in stage {stage} (TID {TID})`
+ =================== 
+Template: `Got assigned task {task}`
+ =================== 
+Template: `Running task {count} in stage {stage} (TID {TID})`
+ =================== 
+Template: `Found block {block} locally`
+ =================== 
+Template: `Found block {block} locally`
+ =================== 
+Template: `Found block {block} locally`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Finished task {count} in stage {stage} (TID {TID}). {bytes} bytes result sent to driver`
+ =================== 
+Template: `Finished task {count} in stage {stage} (TID {TID}). {bytes} bytes result sent to driver`
+ =================== 
+Template: `Finished task {count} in stage {stage} (TID {TID}). {bytes} bytes result sent to driver`
+ =================== 
+The template is `Finished task {count} in stage {stage} (TID {TID}). {bytes} bytes result sent to driver`.
+ =================== 
+Template: `Got assigned task {task}`
+ =================== 
+Template: `Running task {count} in stage {stage} (TID {TID})`
+ =================== 
+Template: `Got assigned task {task}`
+ =================== 
+Template: `Running task {count} in stage {stage} (TID {TID})`
+ =================== 
+Template: `Got assigned task {task}`
+ =================== 
+Template: `Running task {count} in stage {stage} (TID {TID})`
+ =================== 
+Template: `Got assigned task {task}`
+ =================== 
+Template: `Running task {count} in stage {stage} (TID {TID})`
+ =================== 
+Template: `Found block {block} locally`
+ =================== 
+Template: `Found block {block} locally`
+ =================== 
+Template: `Found block {block} locally`
+ =================== 
+Template: `Found block {block} locally`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Finished task {count} in stage {stage} (TID {TID}). {bytes} bytes result sent to driver`
+ =================== 
+Template: `Got assigned task {task}`
+ =================== 
+Template: `Running task {count} in stage {stage} (TID {TID})`
+ =================== 
+Template: `Found block {block} locally`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+The template is `Finished task {count} in stage {stage} (TID {TID}). {bytes} bytes result sent to driver`.
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Finished task {count} in stage {stage} (TID {TID}). {bytes} bytes result sent to driver`
+ =================== 
+Template: `Finished task {count} in stage {stage} (TID {TID}). {bytes} bytes result sent to driver`
+ =================== 
+Template: `Got assigned task {task}`
+ =================== 
+Template: `Running task {count} in stage {stage} (TID {TID})`
+ =================== 
+Template: `Finished task {count} in stage {stage} (TID {TID}). {bytes} bytes result sent to driver`
+ =================== 
+Template: `Got assigned task {task}`
+ =================== 
+Template: `Running task {count} in stage {stage} (TID {TID})`
+ =================== 
+Template: `Got assigned task {task}`
+ =================== 
+Template: `Running task {count} in stage {stage} (TID {TID})`
+ =================== 
+Template: `Got assigned task {task}`
+ =================== 
+Template: `Running task {count} in stage {stage} (TID {TID})`
+ =================== 
+Template: `Found block {block} locally`
+ =================== 
+Template: `Found block {block} locally`
+ =================== 
+Template: `Found block {block} locally`
+ =================== 
+Template: `Found block {block} locally`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Finished task {count} in stage {stage} (TID {TID}). {bytes} bytes result sent to driver`
+ =================== 
+Template: `Got assigned task {task}`
+ =================== 
+Template: `Running task {count} in stage {stage} (TID {TID})`
+ =================== 
+Template: `Found block {block} locally`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Finished task {count} in stage {stage} (TID {TID}). {bytes} bytes result sent to driver`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Finished task {count} in stage {stage} (TID {TID}). {bytes} bytes result sent to driver`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Finished task {count} in stage {stage} (TID {TID}). {bytes} bytes result sent to driver`
+ =================== 
+Template: `Finished task {count} in stage {stage} (TID {TID}). {bytes} bytes result sent to driver`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Finished task {count} in stage {stage} (TID {TID}). {bytes} bytes result sent to driver`
+ =================== 
+Template: `Got assigned task {task}`
+ =================== 
+Template: `Running task {count} in stage {stage} (TID {TID})`
+ =================== 
+Template: `Got assigned task {task}`
+ =================== 
+Template: `Running task {count} in stage {stage} (TID {TID})`
+ =================== 
+Template: `Got assigned task {task}`
+ =================== 
+Template: `Running task {count} in stage {stage} (TID {TID})`
+ =================== 
+Template: `Got assigned task {task}`
+ =================== 
+Template: `Running task {count} in stage {stage} (TID {TID})`
+ =================== 
+Template: `Got assigned task {task}`
+ =================== 
+Template: `Running task {count} in stage {stage} (TID {TID})`
+ =================== 
+Template: `Started reading broadcast variable {variable}`
+ =================== 
+Template: `Block {block} stored as bytes in memory (estimated size {size}, free {free})`
+ =================== 
+Template: `Reading broadcast variable {variable} took {time} ms`
+ =================== 
+Template: `Block {block} stored as values in memory (estimated size {size}, free {free})`
+ =================== 
+Template: `Found block {block} locally`
+ =================== 
+Template: `Found block {block} locally`
+ =================== 
+Template: `Found block {block} locally`
+ =================== 
+Template: `Found block {block} locally`
+ =================== 
+Template: `Found block {block} locally`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Finished task {count} in stage {stage} (TID {TID}). {bytes} bytes result sent to driver`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Finished task {count} in stage {stage} (TID {TID}). {bytes} bytes result sent to driver`
+ =================== 
+Template: `Finished task {count} in stage {stage} (TID {TID}). {bytes} bytes result sent to driver`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Got assigned task {task}`
+ =================== 
+Template: `Running task {count} in stage {stage} (TID {TID})`
+ =================== 
+Template: `Finished task {count} in stage {stage} (TID {TID}). {bytes} bytes result sent to driver`
+ =================== 
+Template: `Got assigned task {task}`
+ =================== 
+Template: `Running task {count} in stage {stage} (TID {TID})`
+ =================== 
+Template: `Got assigned task {task}`
+ =================== 
+Template: `Finished task {count} in stage {stage} (TID {TID}). {bytes} bytes result sent to driver`
+ =================== 
+Template: `Running task {count} in stage {stage} (TID {TID})`
+ =================== 
+Template: `Got assigned task {task}`
+ =================== 
+Template: `Running task {count} in stage {stage} (TID {TID})`
+ =================== 
+Template: `Found block {block} locally`
+ =================== 
+Template: `Found block {block} locally`
+ =================== 
+Template: `Got assigned task {task}`
+ =================== 
+Template: `Running task {count} in stage {stage} (TID {TID})`
+ =================== 
+Template: `Found block {block} locally`
+ =================== 
+Template: `Found block {block} locally`
+ =================== 
+Template: `Found block {block} locally`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Finished task {count} in stage {stage} (TID {TID}). {bytes} bytes result sent to driver`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Finished task {count} in stage {stage} (TID {TID}). {bytes} bytes result sent to driver`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Finished task {count} in stage {stage} (TID {TID}). {bytes} bytes result sent to driver`
+ =================== 
+Template: `Got assigned task {task}`
+ =================== 
+Template: `Running task {count} in stage {stage} (TID {TID})`
+ =================== 
+Template: `Got assigned task {task}`
+ =================== 
+Template: `Running task {count} in stage {stage} (TID {TID})`
+ =================== 
+Template: `Got assigned task {task}`
+ =================== 
+Template: `Finished task {count} in stage {stage} (TID {TID}). {bytes} bytes result sent to driver`
+ =================== 
+Template: `Finished task {count} in stage {stage} (TID {TID}). {bytes} bytes result sent to driver`
+ =================== 
+Template: `Running task {count} in stage {stage} (TID {TID})`
+ =================== 
+Template: `Found block {block} locally`
+ =================== 
+Template: `Got assigned task {task}`
+ =================== 
+Template: `Running task {count} in stage {stage} (TID {TID})`
+ =================== 
+Template: `Found block {block} locally`
+ =================== 
+Template: `Got assigned task {task}`
+ =================== 
+Template: `Running task {count} in stage {stage} (TID {TID})`
+ =================== 
+Template: `Found block {block} locally`
+ =================== 
+Template: `Found block {block} locally`
+ =================== 
+Template: `Found block {block} locally`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Finished task {count} in stage {stage} (TID {TID}). {bytes} bytes result sent to driver`
+ =================== 
+Template: `Finished task {count} in stage {stage} (TID {TID}). {bytes} bytes result sent to driver`
+ =================== 
+Template: `Got assigned task {task}`
+ =================== 
+Template: `Running task {count} in stage {stage} (TID {TID})`
+ =================== 
+Template: `Finished task {count} in stage {stage} (TID {TID}). {bytes} bytes result sent to driver`
+ =================== 
+Template: `Got assigned task {task}`
+ =================== 
+Template: `Running task {count} in stage {stage} (TID {TID})`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Got assigned task {task}`
+ =================== 
+Template: `Running task {count} in stage {stage} (TID {TID})`
+ =================== 
+Template: `Found block {block} locally`
+ =================== 
+Template: `Finished task {count} in stage {stage} (TID {TID}). {bytes} bytes result sent to driver`
+ =================== 
+Template: `Finished task {count} in stage {stage} (TID {TID}). {bytes} bytes result sent to driver`
+ =================== 
+Template: `Found block {block} locally`
+ =================== 
+Template: `Got assigned task {task}`
+ =================== 
+Template: `Found block {block} locally`
+ =================== 
+Template: `Running task {count} in stage {stage} (TID {TID})`
+ =================== 
+Template: `Got assigned task {task}`
+ =================== 
+Template: `Running task {count} in stage {stage} (TID {TID})`
+ =================== 
+Template: `Found block {block} locally`
+ =================== 
+Template: `Found block {block} locally`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Finished task {count} in stage {stage} (TID {TID}). {bytes} bytes result sent to driver`
+ =================== 
+Template: `Finished task {count} in stage {stage} (TID {TID}). {bytes} bytes result sent to driver`
+ =================== 
+Template: `Finished task {count} in stage {stage} (TID {TID}). {bytes} bytes result sent to driver`
+ =================== 
+Template: `Got assigned task {task}`
+ =================== 
+Template: `Running task {count} in stage {stage} (TID {TID})`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Got assigned task {task}`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Running task {count} in stage {stage} (TID {TID})`
+ =================== 
+Template: `Got assigned task {task}`
+ =================== 
+Template: `Running task {count} in stage {stage} (TID {TID})`
+ =================== 
+Template: `Found block {block} locally`
+ =================== 
+Template: `Finished task {count} in stage {stage} (TID {TID}). {bytes} bytes result sent to driver`
+ =================== 
+Template: `Finished task {count} in stage {stage} (TID {TID}). {bytes} bytes result sent to driver`
+ =================== 
+Template: `Got assigned task {task}`
+ =================== 
+Template: `Found block {block} locally`
+ =================== 
+Template: `Running task {count} in stage {stage} (TID {TID})`
+ =================== 
+Template: `Found block {block} locally`
+ =================== 
+Template: `Got assigned task {task}`
+ =================== 
+Template: `Running task {count} in stage {stage} (TID {TID})`
+ =================== 
+Template: `Found block {block} locally`
+ =================== 
+Template: `Found block {block} locally`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Finished task {count} in stage {stage} (TID {TID}). {bytes} bytes result sent to driver`
+ =================== 
+Template: `Finished task {count} in stage {stage} (TID {TID}). {bytes} bytes result sent to driver`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Got assigned task {task}`
+ =================== 
+Template: `Running task {count} in stage {stage} (TID {TID})`
+ =================== 
+Template: `Got assigned task {task}`
+ =================== 
+Template: `Finished task {count} in stage {stage} (TID {TID}). {bytes} bytes result sent to driver`
+ =================== 
+Template: `Running task {count} in stage {stage} (TID {TID})`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Found block {block} locally`
+ =================== 
+Template: `Got assigned task {task}`
+ =================== 
+Template: `Running task {count} in stage {stage} (TID {TID})`
+ =================== 
+Template: `Finished task {count} in stage {stage} (TID {TID}). {bytes} bytes result sent to driver`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Found block {block} locally`
+ =================== 
+Template: `Finished task {count} in stage {stage} (TID {TID}). {bytes} bytes result sent to driver`
+ =================== 
+Template: `Got assigned task {task}`
+ =================== 
+Template: `Running task {count} in stage {stage} (TID {TID})`
+ =================== 
+Template: `Found block {block} locally`
+ =================== 
+Template: `Got assigned task {task}`
+ =================== 
+Template: `Running task {count} in stage {stage} (TID {TID})`
+ =================== 
+Template: `Found block {block} locally`
+ =================== 
+Template: `Found block {block} locally`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Finished task {count} in stage {stage} (TID {TID}). {bytes} bytes result sent to driver`
+ =================== 
+Template: `Finished task {count} in stage {stage} (TID {TID}). {bytes} bytes result sent to driver`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Got assigned task {task}`
+ =================== 
+Template: `Running task {count} in stage {stage} (TID {TID})`
+ =================== 
+Template: `Got assigned task {task}`
+ =================== 
+Template: `Running task {count} in stage {stage} (TID {TID})`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Finished task {count} in stage {stage} (TID {TID}). {bytes} bytes result sent to driver`
+ =================== 
+Template: `Found block {block} locally`
+ =================== 
+Template: `Finished task {count} in stage {stage} (TID {TID}). {bytes} bytes result sent to driver`
+ =================== 
+Template: `Got assigned task {task}`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Running task {count} in stage {stage} (TID {TID})`
+ =================== 
+Template: `Found block {block} locally`
+ =================== 
+Template: `Got assigned task {task}`
+ =================== 
+Template: `Running task {count} in stage {stage} (TID {TID})`
+ =================== 
+Template: `Finished task {count} in stage {stage} (TID {TID}). {bytes} bytes result sent to driver`
+ =================== 
+Template: `Found block {block} locally`
+ =================== 
+Template: `Got assigned task {task}`
+ =================== 
+Template: `Running task {count} in stage {stage} (TID {TID})`
+ =================== 
+Template: `Found block {block} locally`
+ =================== 
+Template: `Found block {block} locally`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Finished task {count} in stage {stage} (TID {TID}). {bytes} bytes result sent to driver`
+ =================== 
+Template: `Finished task {count} in stage {stage} (TID {TID}). {bytes} bytes result sent to driver`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Got assigned task {task}`
+ =================== 
+Template: `Running task {count} in stage {stage} (TID {TID})`
+ =================== 
+Template: `Got assigned task {task}`
+ =================== 
+Template: `Running task {count} in stage {stage} (TID {TID})`
+ =================== 
+Template: `Finished task {count} in stage {stage} (TID {TID}). {bytes} bytes result sent to driver`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Found block {block} locally`
+ =================== 
+Template: `Finished task {count} in stage {stage} (TID {TID}). {bytes} bytes result sent to driver`
+ =================== 
+Template: `Got assigned task {task}`
+ =================== 
+Template: `Running task {count} in stage {stage} (TID {TID})`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Found block {block} locally`
+ =================== 
+Template: `Got assigned task {task}`
+ =================== 
+Template: `Finished task {count} in stage {stage} (TID {TID}). {bytes} bytes result sent to driver`
+ =================== 
+Template: `Running task {count} in stage {stage} (TID {TID})`
+ =================== 
+Template: `Found block {block} locally`
+ =================== 
+Template: `Got assigned task {task}`
+ =================== 
+Template: `Running task {count} in stage {stage} (TID {TID})`
+ =================== 
+Template: `Found block {block} locally`
+ =================== 
+Template: `Found block {block} locally`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Finished task {count} in stage {stage} (TID {TID}). {bytes} bytes result sent to driver`
+ =================== 
+Template: `Finished task {count} in stage {stage} (TID {TID}). {bytes} bytes result sent to driver`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Finished task {count} in stage {stage} (TID {TID}). {bytes} bytes result sent to driver`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Finished task {count} in stage {stage} (TID {TID}). {bytes} bytes result sent to driver`
+ =================== 
+Template: `Finished task {count} in stage {stage} (TID {TID}). {bytes} bytes result sent to driver`
+ =================== 
+Template: `Got assigned task {task}`
+ =================== 
+Template: `Got assigned task {task}`
+ =================== 
+Template: `Running task {count} in stage {stage} (TID {TID})`
+ =================== 
+Template: `Running task {count} in stage {stage} (TID {TID})`
+ =================== 
+Template: `Got assigned task {task}`
+ =================== 
+Template: `Running task {count} in stage {stage} (TID {TID})`
+ =================== 
+Template: `Got assigned task {task}`
+ =================== 
+Template: `Running task {count} in stage {stage} (TID {TID})`
+ =================== 
+Template: `Got assigned task {task}`
+ =================== 
+Template: `Running task {count} in stage {stage} (TID {TID})`
+ =================== 
+Template: `Started reading broadcast variable {variable}`
+ =================== 
+Template: `Block {block} stored as bytes in memory (estimated size {size}, free {free})`
+ =================== 
+Template: `Reading broadcast variable {variable} took {time} ms`
+ =================== 
+Template: `Block {block} stored as values in memory (estimated size {size}, free {free})`
+ =================== 
+Template: `Found block {block} locally`
+ =================== 
+Template: `Found block {block} locally`
+ =================== 
+Template: `Found block {block} locally`
+ =================== 
+Template: `Found block {block} locally`
+ =================== 
+Template: `Found block {block} locally`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Finished task {count} in stage {stage} (TID {TID}). {bytes} bytes result sent to driver`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Finished task {count} in stage {stage} (TID {TID}). {bytes} bytes result sent to driver`
+ =================== 
+Template: `Finished task {count} in stage {stage} (TID {TID}). {bytes} bytes result sent to driver`
+ =================== 
+Template: `Finished task {count} in stage {stage} (TID {TID}). {bytes} bytes result sent to driver`
+ =================== 
+Template: `Finished task {count} in stage {stage} (TID {TID}). {bytes} bytes result sent to driver`
+ =================== 
+Template: `Got assigned task {task}`
+ =================== 
+Template: `Running task {count} in stage {stage} (TID {TID})`
+ =================== 
+Template: `Got assigned task {task}`
+ =================== 
+Template: `Running task {count} in stage {stage} (TID {TID})`
+ =================== 
+Template: `Got assigned task {task}`
+ =================== 
+Template: `Running task {count} in stage {stage} (TID {TID})`
+ =================== 
+Template: `Got assigned task {task}`
+ =================== 
+Template: `Running task {count} in stage {stage} (TID {TID})`
+ =================== 
+Template: `Got assigned task {task}`
+ =================== 
+Template: `Running task {count} in stage {stage} (TID {TID})`
+ =================== 
+Template: `Found block {block} locally`
+ =================== 
+Template: `Found block {block} locally`
+ =================== 
+Template: `Found block {block} locally`
+ =================== 
+Template: `Found block {block} locally`
+ =================== 
+Template: `Found block {block} locally`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Finished task {count} in stage {stage} (TID {TID}). {bytes} bytes result sent to driver`
+ =================== 
+Template: `Finished task {count} in stage {stage} (TID {TID}). {bytes} bytes result sent to driver`
+ =================== 
+Template: `Finished task {count} in stage {stage} (TID {TID}). {bytes} bytes result sent to driver`
+ =================== 
+Template: `Finished task {count} in stage {stage} (TID {TID}). {bytes} bytes result sent to driver`
+ =================== 
+Template: `Finished task {count} in stage {stage} (TID {TID}). {bytes} bytes result sent to driver`
+ =================== 
+Template: `Got assigned task {task}`
+ =================== 
+Template: `Running task {count} in stage {stage} (TID {TID})`
+ =================== 
+Template: `Got assigned task {task}`
+ =================== 
+Template: `Running task {count} in stage {stage} (TID {TID})`
+ =================== 
+Template: `Got assigned task {task}`
+ =================== 
+Template: `Running task {count} in stage {stage} (TID {TID})`
+ =================== 
+Template: `Got assigned task {task}`
+ =================== 
+Template: `Running task {count} in stage {stage} (TID {TID})`
+ =================== 
+Template: `Found block {block} locally`
+ =================== 
+Template: `Got assigned task {task}`
+ =================== 
+Template: `Running task {count} in stage {stage} (TID {TID})`
+ =================== 
+Template: `Found block {block} locally`
+ =================== 
+Template: `Found block {block} locally`
+ =================== 
+Template: `Found block {block} locally`
+ =================== 
+Template: `Found block {block} locally`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Finished task {count} in stage {stage} (TID {TID}). {bytes} bytes result sent to driver`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Finished task {count} in stage {stage} (TID {TID}). {bytes} bytes result sent to driver`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Got assigned task {task}`
+ =================== 
+Template: `Running task {count} in stage {stage} (TID {TID})`
+ =================== 
+Template: `Got assigned task {task}`
+ =================== 
+Template: `Finished task {count} in stage {stage} (TID {TID}). {bytes} bytes result sent to driver`
+ =================== 
+Template: `Finished task {count} in stage {stage} (TID {TID}). {bytes} bytes result sent to driver`
+ =================== 
+Template: `Running task {count} in stage {stage} (TID {TID})`
+ =================== 
+Template: `Finished task {count} in stage {stage} (TID {TID}). {bytes} bytes result sent to driver`
+ =================== 
+Template: `Got assigned task {task}`
+ =================== 
+Template: `Running task {count} in stage {stage} (TID {TID})`
+ =================== 
+Template: `Got assigned task {task}`
+ =================== 
+Template: `Running task {count} in stage {stage} (TID {TID})`
+ =================== 
+Template: `Found block {block} locally`
+ =================== 
+Template: `Got assigned task {task}`
+ =================== 
+Template: `Running task {count} in stage {stage} (TID {TID})`
+ =================== 
+Template: `Found block {block} locally`
+ =================== 
+Template: `Found block {block} locally`
+ =================== 
+Template: `Found block {block} locally`
+ =================== 
+Template: `Found block {block} locally`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Finished task {count} in stage {stage} (TID {TID}). {bytes} bytes result sent to driver`
+ =================== 
+Template: `Finished task {count} in stage {stage} (TID {TID}). {bytes} bytes result sent to driver`
+ =================== 
+Template: `Finished task {count} in stage {stage} (TID {TID}). {bytes} bytes result sent to driver`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Finished task {count} in stage {stage} (TID {TID}). {bytes} bytes result sent to driver`
+ =================== 
+Template: `Got assigned task {task}`
+ =================== 
+Template: `Running task {count} in stage {stage} (TID {TID})`
+ =================== 
+Template: `Got assigned task {task}`
+ =================== 
+Template: `Running task {count} in stage {stage} (TID {TID})`
+ =================== 
+Template: `Finished task {count} in stage {stage} (TID {TID}). {bytes} bytes result sent to driver`
+ =================== 
+Template: `Got assigned task {task}`
+ =================== 
+Template: `Running task {count} in stage {stage} (TID {TID})`
+ =================== 
+Template: `Got assigned task {task}`
+ =================== 
+Template: `Running task {count} in stage {stage} (TID {TID})`
+ =================== 
+Template: `Got assigned task {task}`
+ =================== 
+Template: `Found block {block} locally`
+ =================== 
+Template: `Running task {count} in stage {stage} (TID {TID})`
+ =================== 
+Template: `Found block {block} locally`
+ =================== 
+Template: `Found block {block} locally`
+ =================== 
+Template: `Found block {block} locally`
+ =================== 
+Template: `Found block {block} locally`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Finished task {count} in stage {stage} (TID {TID}). {bytes} bytes result sent to driver`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Finished task {count} in stage {stage} (TID {TID}). {bytes} bytes result sent to driver`
+ =================== 
+Template: `Finished task {count} in stage {stage} (TID {TID}). {bytes} bytes result sent to driver`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Got assigned task {task}`
+ =================== 
+Template: `Running task {count} in stage {stage} (TID {TID})`
+ =================== 
+Template: `Finished task {count} in stage {stage} (TID {TID}). {bytes} bytes result sent to driver`
+ =================== 
+Template: `Finished task {count} in stage {stage} (TID {TID}). {bytes} bytes result sent to driver`
+ =================== 
+Template: `Got assigned task {task}`
+ =================== 
+Template: `Running task {count} in stage {stage} (TID {TID})`
+ =================== 
+Template: `Got assigned task {task}`
+ =================== 
+Template: `Running task {count} in stage {stage} (TID {TID})`
+ =================== 
+Template: `Got assigned task {task}`
+ =================== 
+Template: `Found block {block} locally`
+ =================== 
+Template: `Running task {count} in stage {stage} (TID {TID})`
+ =================== 
+Template: `Got assigned task {task}`
+ =================== 
+Template: `Running task {count} in stage {stage} (TID {TID})`
+ =================== 
+Template: `Found block {block} locally`
+ =================== 
+Template: `Found block {block} locally`
+ =================== 
+Template: `Found block {block} locally`
+ =================== 
+Template: `Found block {block} locally`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+The template is `Finished task {count} in stage {stage} (TID {TID}). {bytes} bytes result sent to driver`.
+ =================== 
+Template: `Finished task {count} in stage {stage} (TID {TID}). {bytes} bytes result sent to driver`
+ =================== 
+Template: `Finished task {count} in stage {stage} (TID {TID}). {bytes} bytes result sent to driver`
+ =================== 
+Template: `Finished task {count} in stage {stage} (TID {TID}). {bytes} bytes result sent to driver`
+ =================== 
+Template: `Got assigned task {task}`
+ =================== 
+Template: `Running task {count} in stage {stage} (TID {TID})`
+ =================== 
+Template: `Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}`
+ =================== 
+Template: `Got assigned task {task}`
+ =================== 
+Template: `Running task {count} in stage {stage} (TID {TID})`
+ =================== 
+Template: `Got assigned task {task}`
+ =================== 
+Template: `Running task {count} in stage {stage} (TID {TID})`
+ =================== 
+Template: `Got assigned task {task}`
+ =================== 
+Template: `Running task {count} in stage {stage} (TID {TID})`
+ =================== 
+Template: `Found block {block} locally`
+ =================== 
+Template: `Finished task {count} in stage {stage} (TID {TID}). {bytes} bytes result sent to driver`
+ =================== 
+Template: `Got assigned task {task}`
+ =================== 
+Template: `Running task {count} in stage {stage} (TID {TID})`
+ =================== 
+Template: `Found block {block} locally`
+ =================== 

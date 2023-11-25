@@ -1,0 +1,10 @@
+{"text": "removing ftp", "label": "removing {service}", "type": 1}
+{"text": "RRD_update (/var/lib/ganglia/rrds/D Nodes/dn731/pkts_out.rrd): illegal attempt to update using time 1131563319 when last update time is 1131563319 (minimum one second step)", "label": "RRD_update ({path}): illegal attempt to update using time {timestamp} when last update time is {timestamp} (minimum one second step)", "type": 1}
+{"text": "[ib_sm_sweep.c:1831]: ********************** NEW SWEEP ********************", "label": "[ib_sm_sweep.c:{process_id}]: ********************** NEW SWEEP ********************", "type": 1}
+{"text": "synchronized to 10.100.22.250, stratum 3", "label": "synchronized to {ip}, stratum {stratum}", "type": 1}
+{"text": "data_thread() got not answer from any [Thunderbird_A8] datasource", "label": "data_thread() got not answer from any [{datasource}] datasource", "type": 1}
+{"text": "[ib_sm_sweep.c:1455]: No topology change", "label": "[ib_sm_sweep.c:{process_id}]: No topology change", "type": 1}
+{"text": "(root) CMD (run-parts /etc/cron.hourly)", "label": "({user}) CMD (run-parts {path})", "type": 1}
+{"text": "DHCPREQUEST for 10.100.4.251 (10.100.0.250) from 00:11:43:e3:ba:c3 via eth1: unknown lease 10.100.4.251.", "label": "DHCPREQUEST for {ip} ({ip}) from {mac} via eth1: unknown lease {ip}.", "type": 1}
+{"text": "[ib_sm_sweep.c:1482]: No configuration change required", "label": "[ib_sm_sweep.c:{process_id}]: No configuration change required", "type": 1}
+{"text": "jA9JBVPb007417: from=root, size=629060, class=0, nrcpts=1, msgid=<200511091911.jA9JBVPb007417@eadmin1>, relay=#7#@localhost", "label": "{id}: from={user}, size={size}, class={class}, nrcpts={nrcpts}, msgid={msgid}, relay={relay}@localhost", "type": 1}

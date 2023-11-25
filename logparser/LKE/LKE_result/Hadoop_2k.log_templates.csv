@@ -1,0 +1,53 @@
+EventId,EventTemplate,Occurrences
+ff52c40c,<*>,434
+92acadf7,"Kind: YARN_AM_RM_TOKEN, Service: , Ident: (appAttemptId { application_id { id: 20 cluster_timestamp: 1445144423722 } attemptId: 1 } keyId: -127633188)",1
+c0c8618d,OutputCommitter set in config null,1
+7beff5c8,Registering class for class,9
+54b53072,system,4
+3a03968c,Emitting job history data to the timeline server is not enabled,1
+ca7d7941,loaded properties from hadoop-metrics2.properties,1
+9e8ad6ab,Scheduled snapshot period at 10 second(s).,1
+d3121b5d,Adding job token for job_1445144423722_0020 to jobTokenSecretManager,1
+38c14f3b,Not uberizing job_1445144423722_0020 because: not enabled; too many maps; too much input;,1
+fb51feed,Input size for job job_1445144423722_0020 = 1256521728. Number of splits = 10,1
+58cb7afe,Number of reduces for job job_1445144423722_0020 = 1,1
+896510af,Transitioned from to,67
+09f888b9,"MRAppMaster launching normal, non-uberized, multi-container job job_1445144423722_0020.",1
+eca7b261,Starting Socket Reader #1 for port,2
+8c4d0a72,Adding protocol org.apache.hadoop.mapreduce.v2.api.MRClientProtocolPB to the server,1
+3cccbe4f,Instantiated MRClientService at MININT-FNANLI5.fareast.corp.microsoft.com/:62260,1
+329b6c4c,IPC Server starting,4
+a79a1702,Logging to org.slf4j.impl.Log4jLoggerAdapter(org.mortbay.log) via org.mortbay.log.Slf4jLog,1
+0859dbfb,Http request log for http.requests.mapreduce is not defined,1
+a8927e0e,Added global filter 'safety' (class=org.apache.hadoop.http.HttpServer2$QuotingInputFilter),1
+826ab1bb,Added filter AM_PROXY_FILTER (class=org.apache.hadoop.yarn.server.webproxy.amfilter.AmIpFilter) to context,2
+632411e3,adding path spec:,2
+dcd06e1a,Jetty bound to port 62267,1
+31bfc913,Web app /mapreduce started at 62267,1
+361211a0,Upper limit on the thread pool size is 500,1
+f15bb7b8,"Event Writer setup for JobId: job_1445144423722_0020, File: hdfs://msra-sa-41:9000/tmp/hadoop-yarn/staging/msrabi/.staging/job_1445144423722_0020/job_1445144423722_0020_1.jhist",1
+af824735,Scheduling: AssignedReds:0 CompletedReds:0,17
+c18c98b1,getResources() for application_1445144423722_0020: release= knownNMs=4,12
+b1c19885,Reduce slow start threshold,131
+4429fb74,The file on the remote FS is,2
+60d079c6,Adding #0 tokens and #1 secret keys for NM use for launching container,1
+541ef6bf,Shuffle port returned by ContainerManager for : 13562,10
+3448dae1,TaskAttempt: using containerId: on NM:,10
+5f56763b,JVM with ID : asked for a task,10
+ee097d93,JVM with ID: given task:,10
+f9285a03,Progress of TaskAttempt is :,289
+631af1b0,"Cannot assign container Container: [ContainerId: container_1445144423722_0020_01_000012, NodeId: MSRA-SA-39.fareast.corp.microsoft.com:28345, NodeHttpAddress: MSRA-SA-39.fareast.corp.microsoft.com:8042, Resource: <memory:1024, vCores:1>, Priority: 20, Token: Token { kind: ContainerToken, service: :28345 }, ] for a map as either container memory less than required <memory:1024, vCores:1> or no pending map tasks - maps.isEmpty=true",1
+2712fdae,Container complete event for unknown container id container_1445144423722_0020_01_000012,1
+28e777aa,All maps assigned. Ramping up all remaining reduces:1,1
+6e264523,We launched 1 speculations. Sleeping 15000 milliseconds.,1
+a5763810,Scheduling a redundant attempt for task task_1445144423722_0020_m_000000,1
+d4ff27f3,Diagnostics report from attempt_1445144423722_0020_m_000003_0: Container killed by the ApplicationMaster.,1
+ab259d76,Address change detected. Old: New:,476
+6cdea6b0,Failed to renew lease for [DFSClient_NONMAPREDUCE_1537864556_1] for seconds. Will retry shortly ...,326
+17ee39fc,"Slow ReadProcessor read fields took 65020ms (threshold=30000ms); ack: seqno: -2 status: SUCCESS status: ERROR downstreamAckTimeNanos: 0, targets: [:50010, :50010]",1
+e9fdbf2e,DFSOutputStream ResponseProcessor exception for block BP-1347369012--1444972147527:blk_1073743512_2731,1
+abbc7ab1,"Error Recovery for block BP-1347369012--1444972147527:blk_1073743512_2731 in pipeline :50010, :50010: bad datanode :50010",1
+ca099a77,"Retrying connect to server: msra-sa-41:8030. Already tried 0 time(s); retry policy is RetryUpToMaximumCountWithFixedSleep(maxRetries=10, sleepTime=1000 MILLISECONDS)",146
+9dd9126c,Task: - exited : java.net.NoRouteToHostException: No Route to Host from MININT-FNANLI5/ to msra-sa-41:9000 failed on socket timeout exception: java.net.NoRouteToHostException: No route to host: no further information; For more details see: http://wiki.apache.org/hadoop/NoRouteToHost,2
+ccb3924e,Diagnostics report from Error: java.net.NoRouteToHostException: No Route to Host from MININT-FNANLI5/ to msra-sa-41:9000 failed on socket timeout exception: java.net.NoRouteToHostException: No route to host: no further information; For more details see: http://wiki.apache.org/hadoop/NoRouteToHost,4
+0dcdfc4f,Added to list of failed maps,2

@@ -1,0 +1,60 @@
+,EventTemplate,Occurrences
+0,Loaded Servicing Stack <*> with Core: {path}.dll,2
+1,{code}@{year}/{month}/{date}:{hours}:{minutes}:{seconds} WcpInitialize (wcp.dll version {version}) called (stack @{stack}),6
+2,Ending TrustedInstaller initialization.,2
+3,Starting the TrustedInstaller main loop.,2
+4,TrustedInstaller service starts successfully.,2
+5,SQM: Initializing online with Windows opt-in: {opt-in},2
+6,SQM: Cleaning up report files older than {days} days.,1
+7,SQM: Requesting upload of all unsent reports.,2
+8,"SQM: Failed to start upload with file pattern: {pattern}, flags: {flags} [HRESULT = {result}]",1
+9,SQM: Failed to start standard sample upload. [HRESULT = {result} - E_FAIL],2
+10,"SQM: Queued {count} file(s) for upload with pattern: {path}, flags: {flags}",2
+11,SQM: Warning: Failed to upload all unsent reports. [HRESULT = {result} - E_FAIL],2
+12,"No startup processing required, TrustedInstaller service was not set as autostart, or else a reboot is still pending.",2
+13,NonStart: Checking to ensure startup processing was not required.,2
+14,"00000004 IAdvancedInstallerAwareStore_ResolvePendingTransactions (call 1) (flags = {flags}, progress = {progress}, phase = {phase}, pdwDisposition = @{address}",2
+15,"Creating NT transaction (seq {seq}), objectname [{name}]",3
+16,"00000006 Created NT transaction (seq 1) result 0x00000000, handle @0x214",1
+17,00000007@{year}/{month}/{date}:{hours}:{minutes}:{seconds}.462 CSI perf trace:,1
+18,"NonStart: Success, startup processing not required as expected.",2
+19,Startup processing thread terminated normally,2
+20,00000008 CSI Store 4991456 (0x00000000004c29e0) initialized,1
+21,Session: {session} initialized by client WindowsUpdateAgent.,608
+22,Warning: Unrecognized packageExtended attribute.,280
+23,Expecting attribute name [HRESULT = {result} - CBS_E_MANIFEST_INVALID_ITEM],224
+24,Failed to get next element [HRESULT = {id} - CBS_E_MANIFEST_INVALID_ITEM],224
+25,Failed to internally open package. [HRESULT = {result} - CBS_E_INVALID_PACKAGE],18
+26,"Read out cached package applicability for package: {package}, ApplicableState: {state}, CurrentState:{state}",558
+27,Failed to create backup log cab. [HRESULT = {result} - ERROR_INVALID_FUNCTION],2
+28,Reboot mark refs incremented to: 1,1
+29,Scavenge: Starts,1
+30,"00000009@{year}/{month}/{date}:{hours}:{minutes}:{seconds} CSI Transaction @0x47e9e0 initialized for deployment engine {engine} with flags {flags} and client id [{id}]""{name}""",1
+31,Scavenge: Begin CSI Store,1
+32,0000000a Performing 1 operations; 1 are not lock/unlock and follow:,1
+33,"0000000b Store coherency cookie matches last scavenge cookie, skipping scavenge.",1
+34,0000000c ICSITransaction::Commit calling IStorePendingTransaction::Apply - coldpatching=FALSE applyflags=7,1
+35,"0000000e Created NT transaction (seq <seq>) result <result>, handle @<handle>",1
+36,0000000f@2016/{month}/{date}:{hours}:{minutes}:{seconds} CSI perf trace:,1
+37,"Scavenge: Completed, disposition: 0X1",1
+38,00000010@{year}/{month}/{date}:{hours}:{minutes}:{seconds} CSI Transaction @0x{address} destroyed,1
+39,Reboot mark refs: 0,1
+40,Idle processing thread terminated normally,1
+41,Ending the TrustedInstaller main loop.,1
+42,Starting TrustedInstaller finalization.,1
+43,Ending TrustedInstaller finalization.,1
+44,Starting TrustedInstaller initialization.,1
+45,Cleaning up report files older than {days} days.,1
+46,"SQM: Failed to start upload with file pattern: {pattern}, flags: {flags} [HRESULT = {result} - E_FAIL]",1
+47,"00000006 Created NT transaction (seq {seq}) result {result}, handle @{handle}",1
+48,00000007@{year}/{month}/{date}:{hours}:{minutes}:{seconds} CSI perf trace:,1
+49,"Loading offline registry hive: <*>, into registry key '{key}' from path '{path}'.",7
+50,"Loading offline registry hive: <file>, into registry key '{key}' from path '{path}'.",1
+51,Offline image is: read-only,1
+52,"Disabling manifest caching, because the image is not writeable.",1
+53,00000008@{year}/{month}/{date}:{hours}:{minutes}:{seconds} PopulateComponentFamiliesKey - Begin,1
+54,00000009@{year}/{month}/{date}:{hours}:{minutes}:{seconds} PopulateComponentFamiliesKey - End,1
+55,0000000a CSI Store 17159600 (0x000000000105d5b0) initialized,1
+56,Session: {session} initialized by client SPP.,1
+57,Unloading offline registry hive: {path},8
+58,0000000b CSI Store 3065408 (0x00000000002ec640) initialized,1

@@ -1,0 +1,10 @@
+{"text": "Sending DIFF", "label": "Sending DIFF", "type": 1}
+{"text": "Cannot open channel to 3 at election address /10.10.34.13:3888", "label": "Cannot open channel to {channel} at election address {address}:{port}", "type": 1}
+{"text": "Interrupting SendWorker", "label": "Interrupting SendWorker", "type": 1}
+{"text": "Notification time out: 60000", "label": "Notification time out: {timeout}", "type": 1}
+{"text": "Accepted socket connection from /10.10.34.13:37196", "label": "Accepted socket connection from {address}:{port}", "type": 1}
+{"text": "Connection request from old client /10.10.34.12:54126; will be dropped if server is in r-o mode", "label": "Connection request from old client {address}:{port}; will be dropped if server is in r-o mode", "type": 1}
+{"text": "Established session 0x24edfaa87170018 with negotiated timeout 10000 for client /10.10.34.21:42521", "label": "Established session {id} with negotiated timeout {timeout} for client {address}:{port}", "type": 1}
+{"text": "Received connection request /10.10.34.13:44219", "label": "Received connection request {address}:{port}", "type": 1}
+{"text": "Connection broken for id 188978561024, my id = 3, error =", "label": "Connection broken for id {id}, my id = {id}, error =", "type": 1}
+{"text": "Interrupted while waiting for message on queue", "label": "Interrupted while waiting for message on queue", "type": 1}

@@ -1,0 +1,4000 @@
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}`.
+ =================== 
+Template: `check pass; user unknown`
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `session opened for user {username} by (uid={uid})`
+ =================== 
+Template: `session closed for user {username}`.
+ =================== 
+Template: `ALERT exited abnormally with [{code}]`.
+ =================== 
+Template: `session opened for user {username} by (uid={uid})`
+ =================== 
+Template: `session closed for user {username}`.
+ =================== 
+Template: `check pass; user unknown`
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}`.
+ =================== 
+Template: `check pass; user unknown`
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}`.
+ =================== 
+Template: `check pass; user unknown`
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}`.
+ =================== 
+Template: `check pass; user unknown`
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}`.
+ =================== 
+Template: `check pass; user unknown`
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}`.
+ =================== 
+Template: `check pass; user unknown`
+ =================== 
+Template: `check pass; user unknown`
+ =================== 
+Template: `check pass; user unknown`
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}`.
+ =================== 
+Template: `check pass; user unknown`
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}`.
+ =================== 
+Template: `check pass; user unknown`
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}`.
+ =================== 
+Template: `check pass; user unknown`
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}`.
+ =================== 
+Template: `check pass; user unknown`
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}`.
+ =================== 
+Template: `check pass; user unknown`
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}`.
+ =================== 
+Template: `check pass; user unknown`
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}`.
+ =================== 
+Template: `check pass; user unknown`
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}`.
+ =================== 
+Template: `check pass; user unknown`
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}`.
+ =================== 
+Template: `check pass; user unknown`
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}`.
+ =================== 
+Template: `check pass; user unknown`
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}`.
+ =================== 
+Template: `check pass; user unknown`
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}`.
+ =================== 
+Template: `check pass; user unknown`
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}`.
+ =================== 
+Template: `check pass; user unknown`
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}`.
+ =================== 
+Template: `check pass; user unknown`
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}`.
+ =================== 
+Template: `check pass; user unknown`
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}`.
+ =================== 
+Template: `check pass; user unknown`
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}`.
+ =================== 
+Template: `check pass; user unknown`
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}`.
+ =================== 
+Template: `check pass; user unknown`
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}`.
+ =================== 
+Template: `check pass; user unknown`
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}`.
+ =================== 
+Template: `session opened for user {username} by (uid={uid})`
+ =================== 
+Template: `session closed for user {username}`.
+ =================== 
+Template: `ALERT exited abnormally with [{code}]`.
+ =================== 
+Template: `session opened for user {username} by (uid={uid})`
+ =================== 
+Template: `session closed for user {username}`.
+ =================== 
+Template: `session opened for user {username} by (uid={uid})`
+ =================== 
+Template: `session closed for user {username}`.
+ =================== 
+Template: `ALERT exited abnormally with [{code}]`.
+ =================== 
+Template: `session opened for user {username} by (uid={uid})`
+ =================== 
+Template: `session closed for user {username}`.
+ =================== 
+Template: `connection from {address} ({web_address}) at {time}`.
+ =================== 
+Template: `connection from {address} ({web_address}) at {time}`.
+ =================== 
+Template: `connection from {address} ({web_address}) at {time}`.
+ =================== 
+Template: `connection from {address} ({web_address}) at {time}`.
+ =================== 
+Template: `connection from {address} ({web_address}) at {time}`.
+ =================== 
+Template: `connection from {address} ({web_address}) at {time}`.
+ =================== 
+Template: `connection from {address} ({web_address}) at {time}`.
+ =================== 
+Template: `connection from {address} ({web_address}) at {time}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `session opened for user {username} by (uid={uid})`
+ =================== 
+Template: `session closed for user {username}`.
+ =================== 
+Template: `connection from {address} ({web_address}) at {time}`.
+ =================== 
+Template: `connection from {address} ({web_address}) at {time}`.
+ =================== 
+Template: `connection from {address} ({web_address}) at {time}`.
+ =================== 
+Template: `connection from {address} ({web_address}) at {time}`.
+ =================== 
+Template: `connection from {address} ({web_address}) at {time}`.
+ =================== 
+Template: `connection from {address} ({web_address}) at {time}`.
+ =================== 
+Template: `connection from {address} ({web_address}) at {time}`.
+ =================== 
+Template: `check pass; user unknown`
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={web_address}`.
+ =================== 
+Template: `check pass; user unknown`
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={web_address}`.
+ =================== 
+Template: `check pass; user unknown`
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={web_address}`.
+ =================== 
+Template: `check pass; user unknown`
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={web_address}`.
+ =================== 
+Template: `check pass; user unknown`
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={web_address}`.
+ =================== 
+Template: `check pass; user unknown`
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={web_address}`.
+ =================== 
+Template: `check pass; user unknown`
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={web_address}`.
+ =================== 
+Template: `check pass; user unknown`
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={web_address}`.
+ =================== 
+Template: `check pass; user unknown`
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={web_address}`.
+ =================== 
+Template: `check pass; user unknown`
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={web_address}`.
+ =================== 
+Template: `connection from {address} ({web_address}) at {time}`.
+ =================== 
+Template: `connection from {address} ({web_address}) at {time}`.
+ =================== 
+Template: `connection from {address} ({web_address}) at {time}`.
+ =================== 
+Template: `connection from {address} ({web_address}) at {time}`.
+ =================== 
+Template: `connection from {address} ({web_address}) at {time}`.
+ =================== 
+Template: `connection from {address} ({web_address}) at {time}`.
+ =================== 
+Template: `connection from {address} ({web_address}) at {time}`.
+ =================== 
+Template: `connection from {address} ({web_address}) at {time}`.
+ =================== 
+Template: `connection from {address} ({web_address}) at {time}`.
+ =================== 
+Template: `connection from {address} ({web_address}) at {time}`.
+ =================== 
+Template: `connection from {address} ({web_address}) at {time}`.
+ =================== 
+Template: `connection from {address} ({web_address}) at {time}`.
+ =================== 
+Template: `connection from {address} ({web_address}) at {time}`.
+ =================== 
+Template: `connection from {address} ({web_address}) at {time}`.
+ =================== 
+Template: `connection from {address} ({web_address}) at {time}`.
+ =================== 
+Template: `User unknown timed out after {timeout} seconds at {time}`.
+ =================== 
+Template: `session opened for user {username} by (uid={uid})`
+ =================== 
+Template: `session closed for user {username}`.
+ =================== 
+Template: `ALERT exited abnormally with [{code}]`.
+ =================== 
+Template: `session opened for user {username} by (uid={uid})`
+ =================== 
+Template: `session closed for user {username}`.
+ =================== 
+Template: `session opened for user {username} by (uid={uid})`
+ =================== 
+Template: `session closed for user {username}`.
+ =================== 
+Template: `cupsd shutdown succeeded`
+ =================== 
+Template: `cupsd startup succeeded`
+ =================== 
+Template: `restart.`
+ =================== 
+Template: `ALERT exited abnormally with [{code}]`.
+ =================== 
+Template: `session opened for user {username} by (uid={uid})`
+ =================== 
+Template: `session closed for user {username}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `session opened for user {username} by (uid={uid})`
+ =================== 
+Template: `session closed for user {username}`.
+ =================== 
+Template: `ALERT exited abnormally with [{code}]`.
+ =================== 
+Template: `session opened for user {username} by (uid={uid})`
+ =================== 
+Template: `session closed for user {username}`.
+ =================== 
+Template: `Received SNMP packet(s) from {address}`.
+ =================== 
+Template: `check pass; user unknown`
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}`.
+ =================== 
+Template: `check pass; user unknown`
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}`.
+ =================== 
+Template: `check pass; user unknown`
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}`.
+ =================== 
+Template: `check pass; user unknown`
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}`.
+ =================== 
+Template: `check pass; user unknown`
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}`.
+ =================== 
+Template: `check pass; user unknown`
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}`.
+ =================== 
+Template: `check pass; user unknown`
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}`.
+ =================== 
+Template: `check pass; user unknown`
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}`.
+ =================== 
+Template: `check pass; user unknown`
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}`.
+ =================== 
+Template: `check pass; user unknown`
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}`.
+ =================== 
+Template: `session opened for user {username} by (uid={uid})`
+ =================== 
+Template: `session closed for user {username}`.
+ =================== 
+Template: `ALERT exited abnormally with [{code}]`.
+ =================== 
+Template: `session opened for user {username} by (uid={uid})`
+ =================== 
+Template: `session closed for user {username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `session opened for user {username} by (uid={uid})`
+ =================== 
+Template: `session closed for user {username}`.
+ =================== 
+Template: `ALERT exited abnormally with [{code}]`.
+ =================== 
+Template: `session opened for user {username} by (uid={uid})`
+ =================== 
+Template: `session closed for user {username}`.
+ =================== 
+Template: `check pass; user unknown`
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={web_address}`.
+ =================== 
+Template: `check pass; user unknown`
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={web_address}`.
+ =================== 
+Template: `check pass; user unknown`
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={web_address}`.
+ =================== 
+Template: `check pass; user unknown`
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={web_address}`.
+ =================== 
+Template: `check pass; user unknown`
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={web_address}`.
+ =================== 
+Template: `check pass; user unknown`
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={web_address}`.
+ =================== 
+Template: `check pass; user unknown`
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={web_address}`.
+ =================== 
+Template: `check pass; user unknown`
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={web_address}`.
+ =================== 
+Template: `check pass; user unknown`
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={web_address}`.
+ =================== 
+Template: `check pass; user unknown`
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={web_address}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+The template is `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+The template is `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+The template is `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+The template is `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+The template is `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `check pass; user unknown`
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}`.
+ =================== 
+Template: `session opened for user {username} by (uid={uid})`
+ =================== 
+Template: `session closed for user {username}`.
+ =================== 
+Template: `ALERT exited abnormally with [{code}]`.
+ =================== 
+Template: `session opened for user {username} by (uid={uid})`
+ =================== 
+Template: `session closed for user {username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `session opened for user {username} by (uid={uid})`
+ =================== 
+Template: `session closed for user {username}`.
+ =================== 
+Template: `ALERT exited abnormally with [{code}]`.
+ =================== 
+Template: `session opened for user {username} by (uid={uid})`
+ =================== 
+Template: `session closed for user {username}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `session opened for user {username} by (uid={uid})`
+ =================== 
+Template: `session closed for user {username}`.
+ =================== 
+Template: `ALERT exited abnormally with [{code}]`.
+ =================== 
+Template: `session opened for user {username} by (uid={uid})`
+ =================== 
+Template: `session closed for user {username}`.
+ =================== 
+Template: `check pass; user unknown`
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}`.
+ =================== 
+Template: `check pass; user unknown`
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}`.
+ =================== 
+Template: `check pass; user unknown`
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}`.
+ =================== 
+Template: `check pass; user unknown`
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}`.
+ =================== 
+Template: `check pass; user unknown`
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}`.
+ =================== 
+Template: `check pass; user unknown`
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}`.
+ =================== 
+Template: `check pass; user unknown`
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}`.
+ =================== 
+Template: `check pass; user unknown`
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}`.
+ =================== 
+Template: `check pass; user unknown`
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}`.
+ =================== 
+Template: `check pass; user unknown`
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `session opened for user {username} by (uid={uid})`
+ =================== 
+Template: `session closed for user {username}`.
+ =================== 
+Template: `cupsd shutdown succeeded`
+ =================== 
+Template: `cupsd startup succeeded`
+ =================== 
+Template: `restart.`
+ =================== 
+Template: `ALERT exited abnormally with [{code}]`.
+ =================== 
+Template: `session opened for user {username} by (uid={uid})`
+ =================== 
+Template: `session closed for user {username}`.
+ =================== 
+Template: `session opened for user {username} by (uid={uid})`
+ =================== 
+Template: `session closed for user {username}`.
+ =================== 
+Template: `ALERT exited abnormally with [{code}]`.
+ =================== 
+Template: `session opened for user {username} by (uid={uid})`
+ =================== 
+Template: `session closed for user {username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `session opened for user {username} by (uid={uid})`
+ =================== 
+Template: `session closed for user {username}`.
+ =================== 
+Template: `ALERT exited abnormally with [{code}]`.
+ =================== 
+Template: `session opened for user {username} by (uid={uid})`
+ =================== 
+Template: `session closed for user {username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `check pass; user unknown`
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}`.
+ =================== 
+Template: `check pass; user unknown`
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}`.
+ =================== 
+Template: `check pass; user unknown`
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}`.
+ =================== 
+Template: `check pass; user unknown`
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}`.
+ =================== 
+Template: `check pass; user unknown`
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `session opened for user {username} by (uid={uid})`
+ =================== 
+Template: `session closed for user {username}`.
+ =================== 
+Template: `ALERT exited abnormally with [{code}]`.
+ =================== 
+Template: `session opened for user {username} by (uid={uid})`
+ =================== 
+Template: `session closed for user {username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `session opened for user {username} by (uid={uid})`
+ =================== 
+Template: `session closed for user {username}`.
+ =================== 
+Template: `ALERT exited abnormally with [{code}]`.
+ =================== 
+Template: `session opened for user {username} by (uid={uid})`
+ =================== 
+Template: `session closed for user {username}`.
+ =================== 
+Template: `check pass; user unknown`
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}`.
+ =================== 
+Template: `check pass; user unknown`
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}`.
+ =================== 
+Template: `check pass; user unknown`
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}`.
+ =================== 
+Template: `check pass; user unknown`
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}`.
+ =================== 
+Template: `check pass; user unknown`
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}`.
+ =================== 
+Template: `check pass; user unknown`
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}`.
+ =================== 
+Template: `check pass; user unknown`
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}`.
+ =================== 
+Template: `check pass; user unknown`
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `Authentication failed from {address} ({address}): Permission denied in replay cache code`
+ =================== 
+Template: `Kerberos authentication failed`
+ =================== 
+Template: `Authentication failed from {address} ({address}): Permission denied in replay cache code`
+ =================== 
+Template: `Kerberos authentication failed`
+ =================== 
+Template: `Authentication failed from {address} ({address}): Permission denied in replay cache code`
+ =================== 
+Template: `Kerberos authentication failed`
+ =================== 
+Template: `Authentication failed from {address} ({address}): Permission denied in replay cache code`
+ =================== 
+Template: `Kerberos authentication failed`
+ =================== 
+Template: `Authentication failed from {address} ({address}): Permission denied in replay cache code`
+ =================== 
+Template: `Kerberos authentication failed`
+ =================== 
+Template: `Authentication failed from {address} ({address}): Permission denied in replay cache code`
+ =================== 
+Template: `Kerberos authentication failed`
+ =================== 
+Template: `Authentication failed from {address} ({address}): Permission denied in replay cache code`
+ =================== 
+Template: `Authentication failed from {address} ({address}): Permission denied in replay cache code`
+ =================== 
+The template is: `Authentication failed from {address} ({address}): {reason}`.
+ =================== 
+Template: `Kerberos authentication failed`
+ =================== 
+Template: `Kerberos authentication failed`
+ =================== 
+Template: `Kerberos authentication failed`
+ =================== 
+The template is: `Authentication failed from {address} ({address}): {reason}`.
+ =================== 
+Template: `Kerberos authentication failed`
+ =================== 
+The template is: `Authentication failed from {address} ({address}): {reason}`.
+ =================== 
+Template: `Kerberos authentication failed`
+ =================== 
+The template is: `Authentication failed from {address} ({address}): {reason}`.
+ =================== 
+Template: `Kerberos authentication failed`
+ =================== 
+The template is: `Authentication failed from {address} ({address}): {reason}`.
+ =================== 
+Template: `Kerberos authentication failed`
+ =================== 
+The template is: `Authentication failed from {address} ({address}): {reason}`.
+ =================== 
+Template: `Kerberos authentication failed`
+ =================== 
+The template is: `Authentication failed from {address} ({address}): {reason}`.
+ =================== 
+Template: `Kerberos authentication failed`
+ =================== 
+The template is: `Authentication failed from {address} ({address}): {reason}`.
+ =================== 
+Template: `Kerberos authentication failed`
+ =================== 
+The template is: `Authentication failed from {address} ({address}): {reason}`.
+ =================== 
+Template: `Kerberos authentication failed`
+ =================== 
+The template is: `Authentication failed from {address} ({address}): {reason}`.
+ =================== 
+The template is: `Authentication failed from {address} ({address}): {reason}`.
+ =================== 
+The template is: `Authentication failed from {address} ({address}): {reason}`.
+ =================== 
+Template: `Kerberos authentication failed`
+ =================== 
+The template is: `Authentication failed from {address} ({address}): {reason}`.
+ =================== 
+Template: `Kerberos authentication failed`
+ =================== 
+The template is: `Authentication failed from {address} ({address}): {reason}`.
+ =================== 
+The template is: `Authentication failed from {address} ({address}): {reason}`.
+ =================== 
+Template: `Kerberos authentication failed`
+ =================== 
+Template: `Kerberos authentication failed`
+ =================== 
+Template: `Kerberos authentication failed`
+ =================== 
+Template: `Kerberos authentication failed`
+ =================== 
+Template: `session opened for user {username} by (uid={uid})`
+ =================== 
+Template: `session opened for user {username} by (uid={uid})`
+ =================== 
+Template: `session opened for user {username} by (uid={uid})`
+ =================== 
+Template: `session opened for user {username} by (uid={uid})`
+ =================== 
+Template: `session opened for user {username} by (uid={uid})`
+ =================== 
+Template: `session opened for user {username} by (uid={uid})`
+ =================== 
+Template: `session opened for user {username} by (uid={uid})`
+ =================== 
+Template: `session opened for user {username} by (uid={uid})`
+ =================== 
+Template: `session closed for user {username}`.
+ =================== 
+Template: `session closed for user {username}`.
+ =================== 
+Template: `session opened for user {username} by (uid={uid})`
+ =================== 
+Template: `session opened for user {username} by (uid={uid})`
+ =================== 
+Template: `session closed for user {username}`.
+ =================== 
+Template: `session closed for user {username}`.
+ =================== 
+Template: `session closed for user {username}`.
+ =================== 
+Template: `session closed for user {username}`.
+ =================== 
+Template: `session closed for user {username}`.
+ =================== 
+Template: `session closed for user {username}`.
+ =================== 
+Template: `session closed for user {username}`.
+ =================== 
+Template: `session closed for user {username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `session opened for user {username} by (uid={uid})`
+ =================== 
+Template: `session closed for user {username}`.
+ =================== 
+Template: `ALERT exited abnormally with [{code}]`.
+ =================== 
+Template: `session opened for user {username} by (uid={uid})`
+ =================== 
+Template: `session closed for user {username}`.
+ =================== 
+Template: `session opened for user {username} by (uid={uid})`
+ =================== 
+Template: `session closed for user {username}`.
+ =================== 
+Template: `session opened for user {username} by (uid={uid})`
+ =================== 
+Template: `session closed for user {username}`.
+ =================== 
+Template: `session opened for user {username} by (uid={uid})`
+ =================== 
+Template: `session closed for user {username}`.
+ =================== 
+Template: `session opened for user {username} by (uid={uid})`
+ =================== 
+Template: `session closed for user {username}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `session opened for user {username} by (uid={uid})`
+ =================== 
+Template: `session opened for user {username} by (uid={uid})`
+ =================== 
+Template: `session closed for user {username}`.
+ =================== 
+Template: `session opened for user {username} by (uid={uid})`
+ =================== 
+Template: `session closed for user {username}`.
+ =================== 
+Template: `session opened for user {username} by (uid={uid})`
+ =================== 
+Template: `session closed for user {username}`.
+ =================== 
+Template: `session closed for user {username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `session opened for user {username} by (uid={uid})`
+ =================== 
+Template: `session opened for user {username} by (uid={uid})`
+ =================== 
+Template: `session opened for user {username} by (uid={uid})`
+ =================== 
+Template: `session opened for user {username} by (uid={uid})`
+ =================== 
+Template: `session closed for user {username}`.
+ =================== 
+Template: `session closed for user {username}`.
+ =================== 
+Template: `session closed for user {username}`.
+ =================== 
+Template: `session closed for user {username}`.
+ =================== 
+Template: `session opened for user {username} by (uid={uid})`
+ =================== 
+Template: `session closed for user {username}`.
+ =================== 
+Template: `session opened for user {username} by (uid={uid})`
+ =================== 
+Template: `session opened for user {username} by (uid={uid})`
+ =================== 
+Template: `session opened for user {username} by (uid={uid})`
+ =================== 
+Template: `session closed for user {username}`.
+ =================== 
+Template: `session closed for user {username}`.
+ =================== 
+Template: `session closed for user {username}`.
+ =================== 
+Template: `session opened for user {username} by (uid={uid})`
+ =================== 
+Template: `session closed for user {username}`.
+ =================== 
+Template: `ALERT exited abnormally with [{code}]`.
+ =================== 
+Template: `session opened for user {username} by (uid={uid})`
+ =================== 
+Template: `session closed for user {username}`.
+ =================== 
+Template: `check pass; user unknown`
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}`.
+ =================== 
+Template: `check pass; user unknown`
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}`.
+ =================== 
+Template: `check pass; user unknown`
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}`.
+ =================== 
+Template: `check pass; user unknown`
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}`.
+ =================== 
+Template: `check pass; user unknown`
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}`.
+ =================== 
+Template: `check pass; user unknown`
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}`.
+ =================== 
+Template: `check pass; user unknown`
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}`.
+ =================== 
+Template: `check pass; user unknown`
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}`.
+ =================== 
+Template: `check pass; user unknown`
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}`.
+ =================== 
+Template: `check pass; user unknown`
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}`.
+ =================== 
+Template: `session opened for user {username} by (uid={uid})`
+ =================== 
+Template: `session closed for user {username}`.
+ =================== 
+Template: `cupsd shutdown succeeded`
+ =================== 
+Template: `cupsd startup succeeded`
+ =================== 
+Template: `restart.`
+ =================== 
+Template: `ALERT exited abnormally with [{code}]`.
+ =================== 
+Template: `session opened for user {username} by (uid={uid})`
+ =================== 
+Template: `session closed for user {username}`.
+ =================== 
+Template: `connection from {address} ({web_address}) at {time}`.
+ =================== 
+Template: `connection from {address} ({web_address}) at {time}`.
+ =================== 
+Template: `connection from {address} ({web_address}) at {time}`.
+ =================== 
+Template: `connection from {address} ({web_address}) at {time}`.
+ =================== 
+Template: `connection from {address} ({web_address}) at {time}`.
+ =================== 
+Template: `connection from {address} ({web_address}) at {time}`.
+ =================== 
+Template: `connection from {address} ({web_address}) at {time}`.
+ =================== 
+Template: `connection from {address} ({web_address}) at {time}`.
+ =================== 
+Template: `connection from {address} ({web_address}) at {time}`.
+ =================== 
+Template: `connection from {address} ({web_address}) at {time}`.
+ =================== 
+Template: `connection from {address} ({web_address}) at {time}`.
+ =================== 
+Template: `connection from {address} ({web_address}) at {time}`.
+ =================== 
+Template: `connection from {address} ({web_address}) at {time}`.
+ =================== 
+Template: `connection from {address} ({web_address}) at {time}`.
+ =================== 
+Template: `connection from {address} ({web_address}) at {time}`.
+ =================== 
+Template: `connection from {address} ({web_address}) at {time}`.
+ =================== 
+Template: `connection from {address} ({web_address}) at {time}`.
+ =================== 
+Template: `connection from {address} ({web_address}) at {time}`.
+ =================== 
+Template: `connection from {address} ({web_address}) at {time}`.
+ =================== 
+Template: `connection from {address} ({web_address}) at {time}`.
+ =================== 
+Template: `connection from {address} ({web_address}) at {time}`.
+ =================== 
+Template: `connection from {address} ({web_address}) at {time}`.
+ =================== 
+Template: `connection from {address} ({web_address}) at {time}`.
+ =================== 
+Template: `connection from {address} ({web_address}) at {time}`.
+ =================== 
+Template: `connection from {address} ({web_address}) at {time}`.
+ =================== 
+Template: `connection from {address} ({web_address}) at {time}`.
+ =================== 
+Template: `connection from {address} ({web_address}) at {time}`.
+ =================== 
+Template: `connection from {address} ({web_address}) at {time}`.
+ =================== 
+Template: `connection from {address} ({web_address}) at {time}`.
+ =================== 
+Template: `connection from {address} ({web_address}) at {time}`.
+ =================== 
+Template: `connection from {address} ({web_address}) at {time}`.
+ =================== 
+Template: `connection from {address} ({web_address}) at {time}`.
+ =================== 
+Template: `connection from {address} ({web_address}) at {time}`.
+ =================== 
+Template: `connection from {address} ({web_address}) at {time}`.
+ =================== 
+Template: `connection from {address} ({web_address}) at {time}`.
+ =================== 
+Template: `connection from {address} ({web_address}) at {time}`.
+ =================== 
+Template: `connection from {address} ({web_address}) at {time}`.
+ =================== 
+Template: `connection from {address} ({web_address}) at {time}`.
+ =================== 
+Template: `connection from {address} ({web_address}) at {time}`.
+ =================== 
+Template: `connection from {address} ({web_address}) at {time}`.
+ =================== 
+Template: `connection from {address} ({web_address}) at {time}`.
+ =================== 
+Template: `connection from {address} ({web_address}) at {time}`.
+ =================== 
+Template: `connection from {address} ({web_address}) at {time}`.
+ =================== 
+Template: `connection from {address} ({web_address}) at {time}`.
+ =================== 
+Template: `connection from {address} ({web_address}) at {time}`.
+ =================== 
+Template: `connection from {address} ({web_address}) at {time}`.
+ =================== 
+Template: `session opened for user {username} by (uid={uid})`
+ =================== 
+Template: `session closed for user {username}`.
+ =================== 
+Template: `ALERT exited abnormally with [{code}]`.
+ =================== 
+Template: `session opened for user {username} by (uid={uid})`
+ =================== 
+Template: `session closed for user {username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `connection from {address} ({web_address}) at {time}`.
+ =================== 
+Template: `connection from {address} ({web_address}) at {time}`.
+ =================== 
+Template: `connection from {address} ({web_address}) at {time}`.
+ =================== 
+Template: `connection from {address} ({web_address}) at {time}`.
+ =================== 
+Template: `connection from {address} ({web_address}) at {time}`.
+ =================== 
+Template: `connection from {address} ({web_address}) at {time}`.
+ =================== 
+Template: `connection from {address} ({web_address}) at {time}`.
+ =================== 
+Template: `connection from {address} ({web_address}) at {time}`.
+ =================== 
+Template: `connection from {address} ({web_address}) at {time}`.
+ =================== 
+Template: `connection from {address} ({web_address}) at {time}`.
+ =================== 
+Template: `connection from {address} ({web_address}) at {time}`.
+ =================== 
+Template: `connection from {address} ({web_address}) at {time}`.
+ =================== 
+Template: `connection from {address} ({web_address}) at {time}`.
+ =================== 
+Template: `connection from {address} ({web_address}) at {time}`.
+ =================== 
+Template: `connection from {address} ({web_address}) at {time}`.
+ =================== 
+Template: `connection from {address} ({web_address}) at {time}`.
+ =================== 
+Template: `connection from {address} ({web_address}) at {time}`.
+ =================== 
+Template: `connection from {address} ({web_address}) at {time}`.
+ =================== 
+Template: `connection from {address} ({web_address}) at {time}`.
+ =================== 
+Template: `connection from {address} ({web_address}) at {time}`.
+ =================== 
+Template: `connection from {address} ({web_address}) at {time}`.
+ =================== 
+Template: `connection from {address} ({web_address}) at {time}`.
+ =================== 
+Template: `connection from {address} ({web_address}) at {time}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `session opened for user {username} by (uid={uid})`
+ =================== 
+Template: `session closed for user {username}`.
+ =================== 
+Template: `ALERT exited abnormally with [{code}]`.
+ =================== 
+Template: `session opened for user {username} by (uid={uid})`
+ =================== 
+Template: `session closed for user {username}`.
+ =================== 
+Template: `check pass; user unknown`
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}`.
+ =================== 
+Template: `check pass; user unknown`
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}`.
+ =================== 
+Template: `check pass; user unknown`
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}`.
+ =================== 
+Template: `check pass; user unknown`
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}`.
+ =================== 
+Template: `check pass; user unknown`
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `session opened for user {username} by (uid={uid})`
+ =================== 
+Template: `session closed for user {username}`.
+ =================== 
+Template: `ALERT exited abnormally with [{code}]`.
+ =================== 
+Template: `session opened for user {username} by (uid={uid})`
+ =================== 
+Template: `session closed for user {username}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `session opened for user {username} by (uid={uid})`
+ =================== 
+Template: `session closed for user {username}`.
+ =================== 
+Template: `ALERT exited abnormally with [{code}]`.
+ =================== 
+Template: `session opened for user {username} by (uid={uid})`
+ =================== 
+Template: `session closed for user {username}`.
+ =================== 
+Template: `session opened for user {username} by (uid={uid})`
+ =================== 
+Template: `session opened for user {username} by (uid={uid})`
+ =================== 
+Template: `session closed for user {username}`.
+ =================== 
+Template: `session opened for user {username} by (uid={uid})`
+ =================== 
+Template: `session closed for user {username}`.
+ =================== 
+Template: `session closed for user {username}`.
+ =================== 
+Template: `session opened for user {username} by (uid={uid})`
+ =================== 
+Template: `session opened for user {username} by (uid={uid})`
+ =================== 
+Template: `session closed for user {username}`.
+ =================== 
+Template: `session opened for user {username} by (uid={uid})`
+ =================== 
+Template: `session closed for user {username}`.
+ =================== 
+Template: `session closed for user {username}`.
+ =================== 
+The template is `*** info [{filename}({line_number})]:`.
+ =================== 
+Template: `imps2: Auto-detected intellimouse PS/2`
+ =================== 
+Template: `session opened for user {username} by LOGIN(uid={uid})`
+ =================== 
+Template: `ROOT LOGIN ON {tty}`
+ =================== 
+Template: `session closed for user {username}`.
+ =================== 
+Template: `removing device node '{path}'`
+ =================== 
+Template: `removing device node '{path}'`
+ =================== 
+Template: `creating device node '{path}'`
+ =================== 
+Template: `creating device node '{path}'`
+ =================== 
+Template: `removing device node '{path}'`
+ =================== 
+Template: `removing device node '{path}'`
+ =================== 
+Template: `creating device node '{path}'`
+ =================== 
+Template: `creating device node '{path}'`
+ =================== 
+Template: `check pass; user unknown`
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}`.
+ =================== 
+Template: `check pass; user unknown`
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}`.
+ =================== 
+Template: `check pass; user unknown`
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}`.
+ =================== 
+Template: `check pass; user unknown`
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `session opened for user {username} by (uid={uid})`
+ =================== 
+Template: `session closed for user {username}`.
+ =================== 
+Template: `ALERT exited abnormally with [{code}]`.
+ =================== 
+Template: `session opened for user {username} by (uid={uid})`
+ =================== 
+Template: `session closed for user {username}`.
+ =================== 
+The template is `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+The template is `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+The template is `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+The template is `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `session opened for user {username} by (uid={uid})`
+ =================== 
+Template: `session closed for user {username}`.
+ =================== 
+Template: `ALERT exited abnormally with [{code}]`.
+ =================== 
+Template: `session opened for user {username} by (uid={uid})`
+ =================== 
+Template: `session closed for user {username}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `connection from {address} ({web_address}) at {time}`.
+ =================== 
+Template: `connection from {address} ({web_address}) at {time}`.
+ =================== 
+Template: `connection from {address} ({web_address}) at {time}`.
+ =================== 
+Template: `connection from {address} ({web_address}) at {time}`.
+ =================== 
+Template: `connection from {address} ({web_address}) at {time}`.
+ =================== 
+Template: `connection from {address} ({web_address}) at {time}`.
+ =================== 
+Template: `connection from {address} ({web_address}) at {time}`.
+ =================== 
+Template: `connection from {address} ({web_address}) at {time}`.
+ =================== 
+Template: `connection from {address} ({web_address}) at {time}`.
+ =================== 
+Template: `connection from {address} ({web_address}) at {time}`.
+ =================== 
+Template: `connection from {address} ({web_address}) at {time}`.
+ =================== 
+Template: `connection from {address} ({web_address}) at {time}`.
+ =================== 
+Template: `connection from {address} ({web_address}) at {time}`.
+ =================== 
+Template: `connection from {address} ({web_address}) at {time}`.
+ =================== 
+Template: `connection from {address} ({web_address}) at {time}`.
+ =================== 
+Template: `connection from {address} ({web_address}) at {time}`.
+ =================== 
+Template: `connection from {address} ({web_address}) at {time}`.
+ =================== 
+Template: `connection from {address} ({web_address}) at {time}`.
+ =================== 
+Template: `connection from {address} ({web_address}) at {time}`.
+ =================== 
+Template: `connection from {address} ({web_address}) at {time}`.
+ =================== 
+Template: `connection from {address} ({web_address}) at {time}`.
+ =================== 
+Template: `connection from {address} ({web_address}) at {time}`.
+ =================== 
+Template: `connection from {address} ({web_address}) at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `session opened for user {username} by (uid={uid})`
+ =================== 
+Template: `session closed for user {username}`.
+ =================== 
+Template: `cupsd shutdown succeeded`
+ =================== 
+Template: `cupsd startup succeeded`
+ =================== 
+Template: `restart.`
+ =================== 
+Template: `ALERT exited abnormally with [{code}]`.
+ =================== 
+Template: `session opened for user {username} by (uid={uid})`
+ =================== 
+Template: `session closed for user {username}`.
+ =================== 
+Template: `connection from {address} ({web_address}) at {time}`.
+ =================== 
+Template: `connection from {address} ({web_address}) at {time}`.
+ =================== 
+Template: `connection from {address} ({web_address}) at {time}`.
+ =================== 
+Template: `connection from {address} ({web_address}) at {time}`.
+ =================== 
+Template: `connection from {address} ({web_address}) at {time}`.
+ =================== 
+Template: `connection from {address} ({web_address}) at {time}`.
+ =================== 
+Template: `connection from {address} ({web_address}) at {time}`.
+ =================== 
+Template: `connection from {address} ({web_address}) at {time}`.
+ =================== 
+Template: `connection from {address} ({web_address}) at {time}`.
+ =================== 
+Template: `connection from {address} ({web_address}) at {time}`.
+ =================== 
+Template: `connection from {address} ({web_address}) at {time}`.
+ =================== 
+Template: `connection from {address} ({web_address}) at {time}`.
+ =================== 
+Template: `connection from {address} ({web_address}) at {time}`.
+ =================== 
+Template: `connection from {address} ({web_address}) at {time}`.
+ =================== 
+Template: `connection from {address} ({web_address}) at {time}`.
+ =================== 
+Template: `connection from {address} ({web_address}) at {time}`.
+ =================== 
+Template: `connection from {address} ({web_address}) at {time}`.
+ =================== 
+Template: `connection from {address} ({web_address}) at {time}`.
+ =================== 
+Template: `connection from {address} ({web_address}) at {time}`.
+ =================== 
+Template: `connection from {address} ({web_address}) at {time}`.
+ =================== 
+Template: `connection from {address} ({web_address}) at {time}`.
+ =================== 
+Template: `connection from {address} ({web_address}) at {time}`.
+ =================== 
+Template: `connection from {address} ({web_address}) at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `session opened for user {username} by (uid={uid})`
+ =================== 
+Template: `session closed for user {username}`.
+ =================== 
+Template: `ALERT exited abnormally with [{code}]`.
+ =================== 
+Template: `session opened for user {username} by (uid={uid})`
+ =================== 
+Template: `session closed for user {username}`.
+ =================== 
+Template: `check pass; user unknown`
+ =================== 
+The template is `authentication failure; logname= uid={id} euid={id} tty={tty} ruser= rhost=`.
+ =================== 
+The template is: `Couldn't authenticate user`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `session opened for user {username} by (uid={uid})`
+ =================== 
+Template: `session closed for user {username}`.
+ =================== 
+Template: `ALERT exited abnormally with [{code}]`.
+ =================== 
+Template: `session opened for user {username} by (uid={uid})`
+ =================== 
+Template: `session closed for user {username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={web_address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={web_address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={web_address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={web_address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={web_address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={web_address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={web_address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={web_address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={web_address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={web_address}  user={username}`.
+ =================== 
+Template: `session opened for user {username} by (uid={uid})`
+ =================== 
+Template: `session closed for user {username}`.
+ =================== 
+Template: `ALERT exited abnormally with [{code}]`.
+ =================== 
+Template: `session opened for user {username} by (uid={uid})`
+ =================== 
+Template: `session closed for user {username}`.
+ =================== 
+Template: `session opened for user {username} by (uid={uid})`
+ =================== 
+Template: `session opened for user {username} by (uid={uid})`
+ =================== 
+Template: `session closed for user {username}`.
+ =================== 
+Template: `session closed for user {username}`.
+ =================== 
+Template: `session opened for user {username} by (uid={uid})`
+ =================== 
+Template: `session closed for user {username}`.
+ =================== 
+Template: `session opened for user {username} by (uid={uid})`
+ =================== 
+Template: `session closed for user {username}`.
+ =================== 
+Template: `ALERT exited abnormally with [{code}]`.
+ =================== 
+Template: `session opened for user {username} by (uid={uid})`
+ =================== 
+Template: `session closed for user {username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `session opened for user {username} by (uid={uid})`
+ =================== 
+Template: `session closed for user {username}`.
+ =================== 
+Template: `ALERT exited abnormally with [{code}]`.
+ =================== 
+Template: `session opened for user {username} by (uid={uid})`
+ =================== 
+Template: `session closed for user {username}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `session opened for user {username} by (uid={uid})`
+ =================== 
+Template: `session closed for user {username}`.
+ =================== 
+Template: `ALERT exited abnormally with [{code}]`.
+ =================== 
+Template: `session opened for user {username} by (uid={uid})`
+ =================== 
+Template: `session closed for user {username}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} ({web_address}) at {time}`.
+ =================== 
+Template: `connection from {address} ({web_address}) at {time}`.
+ =================== 
+Template: `session opened for user {username} by (uid={uid})`
+ =================== 
+Template: `session closed for user {username}`.
+ =================== 
+Template: `cupsd shutdown succeeded`
+ =================== 
+Template: `cupsd startup succeeded`
+ =================== 
+Template: `restart.`
+ =================== 
+Template: `ALERT exited abnormally with [{code}]`.
+ =================== 
+Template: `session opened for user {username} by (uid={uid})`
+ =================== 
+Template: `session closed for user {username}`.
+ =================== 
+Template: `connection from {address} ({web_address}) at {time}`.
+ =================== 
+Template: `connection from {address} ({web_address}) at {time}`.
+ =================== 
+Template: `connection from {address} ({web_address}) at {time}`.
+ =================== 
+Template: `connection from {address} ({web_address}) at {time}`.
+ =================== 
+Template: `connection from {address} ({web_address}) at {time}`.
+ =================== 
+Template: `connection from {address} ({web_address}) at {time}`.
+ =================== 
+Template: `connection from {address} ({web_address}) at {time}`.
+ =================== 
+Template: `connection from {address} ({web_address}) at {time}`.
+ =================== 
+Template: `connection from {address} ({web_address}) at {time}`.
+ =================== 
+Template: `connection from {address} ({web_address}) at {time}`.
+ =================== 
+Template: `connection from {address} ({web_address}) at {time}`.
+ =================== 
+Template: `connection from {address} ({web_address}) at {time}`.
+ =================== 
+Template: `connection from {address} ({web_address}) at {time}`.
+ =================== 
+Template: `connection from {address} ({web_address}) at {time}`.
+ =================== 
+Template: `connection from {address} ({web_address}) at {time}`.
+ =================== 
+Template: `connection from {address} ({web_address}) at {time}`.
+ =================== 
+Template: `connection from {address} ({web_address}) at {time}`.
+ =================== 
+Template: `connection from {address} ({web_address}) at {time}`.
+ =================== 
+Template: `connection from {address} ({web_address}) at {time}`.
+ =================== 
+Template: `connection from {address} ({web_address}) at {time}`.
+ =================== 
+Template: `connection from {address} ({web_address}) at {time}`.
+ =================== 
+Template: `connection from {address} ({web_address}) at {time}`.
+ =================== 
+Template: `connection from {address} ({web_address}) at {time}`.
+ =================== 
+Template: `connection from {address} ({web_address}) at {time}`.
+ =================== 
+Template: `connection from {address} ({web_address}) at {time}`.
+ =================== 
+Template: `connection from {address} ({web_address}) at {time}`.
+ =================== 
+Template: `connection from {address} ({web_address}) at {time}`.
+ =================== 
+Template: `connection from {address} ({web_address}) at {time}`.
+ =================== 
+Template: `connection from {address} ({web_address}) at {time}`.
+ =================== 
+Template: `connection from {address} ({web_address}) at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `connection from {address} ({web_address}) at {time}`.
+ =================== 
+Template: `connection from {address} ({web_address}) at {time}`.
+ =================== 
+Template: `connection from {address} ({web_address}) at {time}`.
+ =================== 
+Template: `connection from {address} ({web_address}) at {time}`.
+ =================== 
+Template: `connection from {address} ({web_address}) at {time}`.
+ =================== 
+Template: `connection from {address} ({web_address}) at {time}`.
+ =================== 
+Template: `connection from {address} ({web_address}) at {time}`.
+ =================== 
+Template: `connection from {address} ({web_address}) at {time}`.
+ =================== 
+Template: `connection from {address} ({web_address}) at {time}`.
+ =================== 
+Template: `connection from {address} ({web_address}) at {time}`.
+ =================== 
+Template: `connection from {address} ({web_address}) at {time}`.
+ =================== 
+Template: `connection from {address} ({web_address}) at {time}`.
+ =================== 
+Template: `connection from {address} ({web_address}) at {time}`.
+ =================== 
+Template: `connection from {address} ({web_address}) at {time}`.
+ =================== 
+Template: `connection from {address} ({web_address}) at {time}`.
+ =================== 
+Template: `connection from {address} ({web_address}) at {time}`.
+ =================== 
+Template: `connection from {address} ({web_address}) at {time}`.
+ =================== 
+Template: `connection from {address} ({web_address}) at {time}`.
+ =================== 
+Template: `connection from {address} ({web_address}) at {time}`.
+ =================== 
+Template: `connection from {address} ({web_address}) at {time}`.
+ =================== 
+Template: `connection from {address} ({web_address}) at {time}`.
+ =================== 
+Template: `connection from {address} ({web_address}) at {time}`.
+ =================== 
+Template: `connection from {address} ({web_address}) at {time}`.
+ =================== 
+Template: `connection from {address} ({web_address}) at {time}`.
+ =================== 
+Template: `connection from {address} ({web_address}) at {time}`.
+ =================== 
+Template: `connection from {address} ({web_address}) at {time}`.
+ =================== 
+Template: `connection from {address} ({web_address}) at {time}`.
+ =================== 
+Template: `connection from {address} ({web_address}) at {time}`.
+ =================== 
+Template: `connection from {address} ({web_address}) at {time}`.
+ =================== 
+Template: `connection from {address} ({web_address}) at {time}`.
+ =================== 
+Template: `connection from {address} ({web_address}) at {time}`.
+ =================== 
+Template: `connection from {address} ({web_address}) at {time}`.
+ =================== 
+Template: `connection from {address} ({web_address}) at {time}`.
+ =================== 
+Template: `connection from {address} ({web_address}) at {time}`.
+ =================== 
+Template: `connection from {address} ({web_address}) at {time}`.
+ =================== 
+Template: `connection from {address} ({web_address}) at {time}`.
+ =================== 
+Template: `connection from {address} ({web_address}) at {time}`.
+ =================== 
+Template: `connection from {address} ({web_address}) at {time}`.
+ =================== 
+Template: `connection from {address} ({web_address}) at {time}`.
+ =================== 
+Template: `connection from {address} ({web_address}) at {time}`.
+ =================== 
+Template: `connection from {address} ({web_address}) at {time}`.
+ =================== 
+Template: `connection from {address} ({web_address}) at {time}`.
+ =================== 
+Template: `connection from {address} ({web_address}) at {time}`.
+ =================== 
+Template: `connection from {address} ({web_address}) at {time}`.
+ =================== 
+Template: `connection from {address} ({web_address}) at {time}`.
+ =================== 
+Template: `connection from {address} ({web_address}) at {time}`.
+ =================== 
+Template: `connection from {address} ({web_address}) at {time}`.
+ =================== 
+Template: `connection from {address} ({web_address}) at {time}`.
+ =================== 
+Template: `connection from {address} ({web_address}) at {time}`.
+ =================== 
+Template: `connection from {address} ({web_address}) at {time}`.
+ =================== 
+Template: `connection from {address} ({web_address}) at {time}`.
+ =================== 
+Template: `connection from {address} ({web_address}) at {time}`.
+ =================== 
+Template: `connection from {address} ({web_address}) at {time}`.
+ =================== 
+Template: `connection from {address} ({web_address}) at {time}`.
+ =================== 
+Template: `connection from {address} ({web_address}) at {time}`.
+ =================== 
+Template: `connection from {address} ({web_address}) at {time}`.
+ =================== 
+Template: `connection from {address} ({web_address}) at {time}`.
+ =================== 
+Template: `connection from {address} ({web_address}) at {time}`.
+ =================== 
+Template: `connection from {address} ({web_address}) at {time}`.
+ =================== 
+Template: `connection from {address} ({web_address}) at {time}`.
+ =================== 
+Template: `connection from {address} ({web_address}) at {time}`.
+ =================== 
+Template: `connection from {address} ({web_address}) at {time}`.
+ =================== 
+Template: `connection from {address} ({web_address}) at {time}`.
+ =================== 
+Template: `connection from {address} ({web_address}) at {time}`.
+ =================== 
+Template: `connection from {address} ({web_address}) at {time}`.
+ =================== 
+Template: `connection from {address} ({web_address}) at {time}`.
+ =================== 
+Template: `connection from {address} ({web_address}) at {time}`.
+ =================== 
+Template: `connection from {address} ({web_address}) at {time}`.
+ =================== 
+Template: `connection from {address} ({web_address}) at {time}`.
+ =================== 
+Template: `connection from {address} ({web_address}) at {time}`.
+ =================== 
+Template: `connection from {address} ({web_address}) at {time}`.
+ =================== 
+Template: `connection from {address} ({web_address}) at {time}`.
+ =================== 
+Template: `connection from {address} ({web_address}) at {time}`.
+ =================== 
+Template: `connection from {address} ({web_address}) at {time}`.
+ =================== 
+Template: `connection from {address} ({web_address}) at {time}`.
+ =================== 
+Template: `connection from {address} ({web_address}) at {time}`.
+ =================== 
+Template: `connection from {address} ({web_address}) at {time}`.
+ =================== 
+Template: `connection from {address} ({web_address}) at {time}`.
+ =================== 
+Template: `connection from {address} ({web_address}) at {time}`.
+ =================== 
+Template: `connection from {address} ({web_address}) at {time}`.
+ =================== 
+Template: `connection from {address} ({web_address}) at {time}`.
+ =================== 
+Template: `connection from {address} ({web_address}) at {time}`.
+ =================== 
+Template: `connection from {address} ({web_address}) at {time}`.
+ =================== 
+Template: `connection from {address} ({web_address}) at {time}`.
+ =================== 
+Template: `connection from {address} ({web_address}) at {time}`.
+ =================== 
+Template: `connection from {address} ({web_address}) at {time}`.
+ =================== 
+Template: `connection from {address} ({web_address}) at {time}`.
+ =================== 
+Template: `connection from {address} ({web_address}) at {time}`.
+ =================== 
+Template: `connection from {address} ({web_address}) at {time}`.
+ =================== 
+Template: `connection from {address} ({web_address}) at {time}`.
+ =================== 
+Template: `connection from {address} ({web_address}) at {time}`.
+ =================== 
+Template: `connection from {address} ({web_address}) at {time}`.
+ =================== 
+Template: `connection from {address} ({web_address}) at {time}`.
+ =================== 
+Template: `connection from {address} ({web_address}) at {time}`.
+ =================== 
+Template: `connection from {address} ({web_address}) at {time}`.
+ =================== 
+Template: `connection from {address} ({web_address}) at {time}`.
+ =================== 
+Template: `connection from {address} ({web_address}) at {time}`.
+ =================== 
+Template: `connection from {address} ({web_address}) at {time}`.
+ =================== 
+Template: `connection from {address} ({web_address}) at {time}`.
+ =================== 
+Template: `connection from {address} ({web_address}) at {time}`.
+ =================== 
+Template: `connection from {address} ({web_address}) at {time}`.
+ =================== 
+Template: `connection from {address} ({web_address}) at {time}`.
+ =================== 
+Template: `connection from {address} ({web_address}) at {time}`.
+ =================== 
+Template: `connection from {address} ({web_address}) at {time}`.
+ =================== 
+Template: `connection from {address} ({web_address}) at {time}`.
+ =================== 
+Template: `connection from {address} ({web_address}) at {time}`.
+ =================== 
+Template: `connection from {address} ({web_address}) at {time}`.
+ =================== 
+Template: `connection from {address} ({web_address}) at {time}`.
+ =================== 
+Template: `connection from {address} ({web_address}) at {time}`.
+ =================== 
+Template: `connection from {address} ({web_address}) at {time}`.
+ =================== 
+Template: `connection from {address} ({web_address}) at {time}`.
+ =================== 
+Template: `connection from {address} ({web_address}) at {time}`.
+ =================== 
+Template: `connection from {address} ({web_address}) at {time}`.
+ =================== 
+Template: `connection from {address} ({web_address}) at {time}`.
+ =================== 
+Template: `connection from {address} ({web_address}) at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `session opened for user {username} by (uid={uid})`
+ =================== 
+Template: `session closed for user {username}`.
+ =================== 
+Template: `ALERT exited abnormally with [{code}]`.
+ =================== 
+Template: `session opened for user {username} by (uid={uid})`
+ =================== 
+Template: `session closed for user {username}`.
+ =================== 
+Template: `check pass; user unknown`
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}`.
+ =================== 
+Template: `check pass; user unknown`
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}`.
+ =================== 
+Template: `check pass; user unknown`
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}`.
+ =================== 
+Template: `check pass; user unknown`
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}`.
+ =================== 
+Template: `check pass; user unknown`
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}`.
+ =================== 
+Template: `check pass; user unknown`
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}`.
+ =================== 
+Template: `check pass; user unknown`
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}`.
+ =================== 
+Template: `check pass; user unknown`
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}`.
+ =================== 
+Template: `check pass; user unknown`
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}`.
+ =================== 
+Template: `check pass; user unknown`
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}`.
+ =================== 
+Template: `session opened for user {username} by (uid={uid})`
+ =================== 
+Template: `session closed for user {username}`.
+ =================== 
+Template: `ALERT exited abnormally with [{code}]`.
+ =================== 
+Template: `session opened for user {username} by (uid={uid})`
+ =================== 
+Template: `session closed for user {username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `session opened for user {username} by (uid={uid})`
+ =================== 
+Template: `session closed for user {username}`.
+ =================== 
+Template: `ALERT exited abnormally with [{code}]`.
+ =================== 
+Template: `session opened for user {username} by (uid={uid})`
+ =================== 
+Template: `session closed for user {username}`.
+ =================== 
+Template: `check pass; user unknown`
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}`.
+ =================== 
+Template: `check pass; user unknown`
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}`.
+ =================== 
+Template: `check pass; user unknown`
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}`.
+ =================== 
+Template: `check pass; user unknown`
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}`.
+ =================== 
+Template: `check pass; user unknown`
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `session opened for user {username} by (uid={uid})`
+ =================== 
+Template: `session closed for user {username}`.
+ =================== 
+Template: `ALERT exited abnormally with [{code}]`.
+ =================== 
+Template: `session opened for user {username} by (uid={uid})`
+ =================== 
+Template: `session closed for user {username}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `session opened for user {username} by (uid={uid})`
+ =================== 
+Template: `session closed for user {username}`.
+ =================== 
+Template: `ALERT exited abnormally with [{code}]`.
+ =================== 
+Template: `session opened for user {username} by (uid={uid})`
+ =================== 
+Template: `session closed for user {username}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `session opened for user {username} by (uid={uid})`
+ =================== 
+Template: `session closed for user {username}`.
+ =================== 
+Template: `ALERT exited abnormally with [{code}]`.
+ =================== 
+Template: `session opened for user {username} by (uid={uid})`
+ =================== 
+Template: `session closed for user {username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+The template is: `ANONYMOUS FTP LOGIN FROM {address},  ({username})`
+ =================== 
+The template is: `ANONYMOUS FTP LOGIN FROM {address},  ({username})`
+ =================== 
+Template: `session opened for user {username} by (uid={uid})`
+ =================== 
+Template: `session closed for user {username}`.
+ =================== 
+Template: `cupsd shutdown succeeded`
+ =================== 
+Template: `cupsd startup succeeded`
+ =================== 
+Template: `restart.`
+ =================== 
+Template: `ALERT exited abnormally with [{code}]`.
+ =================== 
+Template: `session opened for user {username} by (uid={uid})`
+ =================== 
+Template: `session closed for user {username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `session opened for user {username} by (uid={uid})`
+ =================== 
+Template: `session closed for user {username}`.
+ =================== 
+Template: `ALERT exited abnormally with [{code}]`.
+ =================== 
+Template: `session opened for user {username} by (uid={uid})`
+ =================== 
+Template: `session closed for user {username}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `notify question section contains no SOA`
+ =================== 
+Template: `notify question section contains no SOA`
+ =================== 
+Template: `notify question section contains no SOA`
+ =================== 
+Template: `notify question section contains no SOA`
+ =================== 
+Template: `notify question section contains no SOA`
+ =================== 
+Template: `notify question section contains no SOA`
+ =================== 
+Template: `notify question section contains no SOA`
+ =================== 
+Template: `notify question section contains no SOA`
+ =================== 
+Template: `notify question section contains no SOA`
+ =================== 
+Template: `notify question section contains no SOA`
+ =================== 
+Template: `notify question section contains no SOA`
+ =================== 
+Template: `notify question section contains no SOA`
+ =================== 
+Template: `notify question section contains no SOA`
+ =================== 
+Template: `notify question section contains no SOA`
+ =================== 
+Template: `notify question section contains no SOA`
+ =================== 
+Template: `notify question section contains no SOA`
+ =================== 
+Template: `getpeername ({process}): {message}`
+ =================== 
+Template: `getpeername ({process}): {message}`
+ =================== 
+The template is: `warning: can't get client address: {reason}`.
+ =================== 
+Template: `getpeername ({process}): {message}`
+ =================== 
+The template is: `warning: can't get client address: {reason}`.
+ =================== 
+Template: `getpeername ({process}): {message}`
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `session opened for user {username} by (uid={uid})`
+ =================== 
+Template: `session closed for user {username}`.
+ =================== 
+Template: `ALERT exited abnormally with [{code}]`.
+ =================== 
+Template: `session opened for user {username} by (uid={uid})`
+ =================== 
+Template: `session closed for user {username}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username}`.
+ =================== 
+Template: `session opened for user {username} by (uid={uid})`
+ =================== 
+Template: `session closed for user {username}`.
+ =================== 
+Template: `ALERT exited abnormally with [{code}]`.
+ =================== 
+Template: `session opened for user {username} by (uid={uid})`
+ =================== 
+Template: `session closed for user {username}`.
+ =================== 
+Template: `connection from {address} () at {time}`.
+ =================== 
+Template: `restart.`
+ =================== 
+Template: `syslogd startup succeeded`
+ =================== 
+The template is: `klogd {version}, log source = {source} started.`
+ =================== 
+The template is `Linux version {version} ({user}@{host}) (gcc version {gcc_version}) #{number} {time}`.
+ =================== 
+Template: `BIOS-provided physical RAM map:`
+ =================== 
+Template: `BIOS-e820: {start_address} - {end_address} (usable)`
+ =================== 
+Template: `BIOS-e820: {start_address} - {end_address} (reserved)`
+ =================== 
+The template is `BIOS-e820: {start_address} - {end_address} (usable)`.
+ =================== 
+Template: `BIOS-e820: {start_address} - {end_address} (reserved)`
+ =================== 
+Template: `BIOS-e820: {start_address} - {end_address} (reserved)`
+ =================== 
+Template: `{size} HIGHMEM available.`
+ =================== 
+Template: `{size} LOWMEM available.`
+ =================== 
+Template: `zapping low mappings.`
+ =================== 
+Template: `klogd startup succeeded`
+ =================== 
+Template: `On node {node} totalpages: {totalpages}`.
+ =================== 
+The template is `DMA zone: {pages} pages, LIFO batch:{batch}`.
+ =================== 
+The template is: `Normal zone: {pages} pages, LIFO batch:{batch}`.
+ =================== 
+Template: `irqbalance startup succeeded`
+ =================== 
+The template is `HighMem zone: {pages} pages, LIFO batch:{batch}`.
+ =================== 
+Template: `DMI {version} present.`
+ =================== 
+Template: `ACPI disabled because your bios is from {year} and too old`
+ =================== 
+The template of `You can enable it with acpi=force` is `You can enable it with acpi=force`.
+ =================== 
+Template: `Built {number} zonelists`
+ =================== 
+Template: `Kernel command line: {options}`.
+ =================== 
+Template: `mapped {size}/{total_size} trampoline to {address}.`
+ =================== 
+Template: `Initializing CPU#{cpu}`
+ =================== 
+Template: `CPU {cpu} irqstacks, hard={address} soft={address}`.
+ =================== 
+Template: `portmap startup succeeded`
+ =================== 
+The template is `PID hash table entries: {entries} (order {order}: {bytes} bytes)`.
+ =================== 
+Template: `Detected {frequency} MHz processor.`
+ =================== 
+Template: `Version 1.0.6 Starting`
+ =================== 
+Template: `Using {source} for high-res timesource`
+ =================== 
+Template: `rpc.statd startup succeeded`
+ =================== 
+The template is: `Console: colour {type} {resolution}`.
+ =================== 
+Template: `Memory: {used_memory}k/{total_memory}k available ({kernel_code}k kernel code, {reserved_memory}k reserved, {data_memory}k data, {init_memory}k init, {high_memory}k highmem)`
+ =================== 
+The template is `Calibrating delay loop... {value} BogoMIPS`.
+ =================== 
+Template: `Security Scaffold v{version} initialized`
+ =================== 
+Template: `SELinux: Initializing.`
+ =================== 
+Template: `SELinux: Starting in permissive mode`
+ =================== 
+Template: `There is already a security framework initialized, register_security failed.`
+ =================== 
+Template: `Failure registering capabilities with the kernel`
+ =================== 
+Template: `selinux_register_security:  Registering secondary module capability`
+ =================== 
+Template: `Capability LSM initialized`
+ =================== 
+Template: `rpc.idmapd startup succeeded`
+ =================== 
+Template: `Dentry cache hash table entries: {entries} (order: {order}, {bytes} bytes)`
+ =================== 
+Template: `Inode-cache hash table entries: {entries} (order: {order}, {bytes} bytes)`
+ =================== 
+Template: `Mount-cache hash table entries: {entries} (order: {order}, {bytes} bytes)`
+ =================== 
+Template: `CPU: L1 I cache: {size}, L1 D cache: {size}`.
+ =================== 
+The template is: `CPU: L2 cache: {size}`.
+ =================== 
+Template: `Intel machine check architecture supported.`
+ =================== 
+Template: `Intel machine check reporting enabled on CPU#{cpu}.`
+ =================== 
+Template: `CPU: {brand} {model} (stepping {step})`
+ =================== 
+Template: `Enabling fast FPU save and restore... done.`
+ =================== 
+Template: `Enabling unmasked SIMD FPU exception support... done.`
+ =================== 
+Template: `Checking '{instruction}' instruction... {status}.`
+ =================== 
+Template: `Initializing random number generator:  succeeded`
+ =================== 
+Template: `POSIX conformance testing by UNIFIX`
+ =================== 
+Template: `NET: Registered protocol family {number}`.
+ =================== 
+The template is: `PCI: PCI BIOS revision {revision} entry at {address}, last bus={bus}`.
+ =================== 
+Template: `PCI: Using configuration type {type}`.
+ =================== 
+Template: `mtrr: v2.0 ({version_date})`
+ =================== 
+Template: `ACPI: Subsystem revision {revision}`.
+ =================== 
+Template: `ACPI: Interpreter disabled.`
+ =================== 
+The template is `Linux Plug and Play Support v0.97 (c) Adam Belay`.
+ =================== 
+Template: `Starting pcmcia:  succeeded`
+ =================== 
+The template is: `usbcore: registered new driver usbfs`.
+ =================== 
+Template: `usbcore: registered new driver hub`
+ =================== 
+Template: `ACPI: ACPI tables contain no PCI IRQ routing entries`
+ =================== 
+Template: `PCI: Invalid ACPI-PCI IRQ routing table`
+ =================== 
+Template: `PCI: Probing PCI hardware`
+ =================== 
+The template is: `PCI: Probing PCI hardware (bus {bus})`
+ =================== 
+The template is `Transparent bridge - {address}`.
+ =================== 
+The template is `PCI: Using IRQ router {router} [{vendor}/{device}] at {address}`.
+ =================== 
+The template is `apm: BIOS version {version} Flags {flags} (Driver version {driver_version})`.
+ =================== 
+Template: `audit: initializing netlink socket ({status})`
+ =================== 
+Template: `kernel.core_uses_pid = {value}`.
+ =================== 
+Template: `HCI daemon ver {version} started`
+ =================== 
+Template: `hcid startup succeeded`
+ =================== 
+Template: `audit({timestamp}:{value}): initialized`
+ =================== 
+Template: `Setting network parameters:  succeeded`
+ =================== 
+Template: `sdpd startup succeeded`
+ =================== 
+Template: `sdpd v1.5 started`
+ =================== 
+The template is `Total HugeTLB memory allocated, {value}`.
+ =================== 
+Template: `Bringing up loopback interface:  {result}`
+ =================== 
+The template is `VFS: Disk quotas {module_version}`.
+ =================== 
+Template: `Dquot-cache hash table entries: {entries} (order {order}, {bytes} bytes)`
+ =================== 
+Template: `SELinux:  Registering netfilter hooks`
+ =================== 
+Template: `Initializing Cryptographic API`
+ =================== 
+The template is: `pci_hotplug: PCI Hot Plug PCI Core version: {version}`.
+ =================== 
+Template: `isapnp: Scanning for PnP cards...`
+ =================== 
+Template: `isapnp: No Plug & Play device found`
+ =================== 
+Template: `Real Time Clock Driver v1.12`
+ =================== 
+The template is: `Linux agpgart interface v0.100 (c) Dave Jones`.
+ =================== 

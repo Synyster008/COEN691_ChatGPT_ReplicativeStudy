@@ -1,0 +1,10 @@
+{"text": "nodeBlacklistingEnabled:true", "label": "nodeBlacklistingEnabled:{bool}", "type": 1}
+{"text": "Retrying connect to server: msra-sa-41:8030. Already tried 0 time(s); retry policy is RetryUpToMaximumCountWithFixedSleep(maxRetries=10, sleepTime=1000 MILLISECONDS)", "label": "Retrying connect to server: {server}. Already tried {count} time(s); retry policy is RetryUpToMaximumCountWithFixedSleep(maxRetries={count}, sleepTime={count} MILLISECONDS)", "type": 1}
+{"text": "Progress of TaskAttempt attempt_1445144423722_0020_m_000004_0 is : 0.44968578", "label": "Progress of TaskAttempt {task} is : {progress}", "type": 1}
+{"text": "Recalculating schedule, headroom=<memory:0, vCores:-27>", "label": "Recalculating schedule, headroom=<memory:{memory}, vCores:{core}", "type": 1}
+{"text": "attempt_1445144423722_0020_m_000000_0 TaskAttempt Transitioned from ASSIGNED to RUNNING", "label": "{attempt} TaskAttempt Transitioned from ASSIGNED to RUNNING", "type": 1}
+{"text": "Failed to renew lease for [DFSClient_NONMAPREDUCE_1537864556_1] for 67 seconds.  Will retry shortly ...", "label": "Failed to renew lease for [{task}] for {seconds} seconds. Will retry shortly ...", "type": 1}
+{"text": "Resolved 04DN8IQ.fareast.corp.microsoft.com to /default-rack", "label": "Resolved {address} to {path}", "type": 1}
+{"text": "Reduce slow start threshold not met. completedMapsForReduceSlowstart 1", "label": "Reduce slow start threshold not met. completedMapsForReduceSlowstart {code}", "type": 1}
+{"text": "Processing the event EventType: CONTAINER_REMOTE_LAUNCH for container container_1445144423722_0020_01_000005 taskAttempt attempt_1445144423722_0020_m_000003_0", "label": "Processing the event EventType: {EventType} for container {container} taskAttempt {taskAttempt}", "type": 1}
+{"text": "Launching attempt_1445144423722_0020_m_000003_0", "label": "Launching {attempt}", "type": 1}

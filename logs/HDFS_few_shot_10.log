@@ -1,0 +1,4000 @@
+Template: `PacketResponder {PacketResponder} for block {block} terminating`
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`.
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {destination} is added to {block} size {size}`.
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`
+ =================== 
+Template: `Received block {block} of size {size} from {path}`.
+ =================== 
+Template: `Received block {block} of size {size} from {path}`.
+ =================== 
+Template: `Receiving block {block} src: {source} dest: {destination}`.
+ =================== 
+Template: `Receiving block {block} src: {source} dest: {destination}`.
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+Template: `Receiving block {block} src: {source} dest: {destination}`.
+ =================== 
+Template: `BLOCK* NameSystem.allocateBlock: {path} {block}`.
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`
+ =================== 
+Template: `Received block {block} of size {size} from {path}`.
+ =================== 
+Template: `BLOCK* NameSystem.allocateBlock: {path} {block}`.
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+Template: `Received block {block} of size {size} from {path}`.
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+Template: `Received block {block} of size {size} from {path}`.
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+Template: `Receiving block {block} src: {source} dest: {destination}`.
+ =================== 
+The template is `Received block {block} of size {size} from {path}`.
+ =================== 
+Template: `BLOCK* NameSystem.allocateBlock: {path} {block}`.
+ =================== 
+Template: `Verification succeeded for {block}`.
+ =================== 
+Template: `Received block {block} of size {size} from {path}`.
+ =================== 
+Template: `Receiving block {block} src: {source} dest: {destination}`.
+ =================== 
+Template: `Received block {block} of size {size} from {path}`.
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+Template: `Receiving block {block} src: {source} dest: {destination}`.
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+Template: `Received block {block} of size {size} from {path}`.
+ =================== 
+Template: `Received block {block} of size {size} from {path}`.
+ =================== 
+The template is `Received block {block} of size {size} from {path}`.
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+Template: `Receiving block {block} src: {source} dest: {destination}`.
+ =================== 
+Template: `Received block {block} of size {size} from {path}`.
+ =================== 
+Template: `Received block {block} of size {size} from {path}`.
+ =================== 
+Template: `Receiving block {block} src: {source} dest: {destination}`.
+ =================== 
+Template: `Received block {block} of size {size} from {path}`.
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`
+ =================== 
+Template: `Received block {block} of size {size} from {path}`.
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+Template: `Received block {block} of size {size} from {path}`.
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`
+ =================== 
+The template is: `Received block {block} of size {size} from {path}`.
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`
+ =================== 
+Template: `Receiving block {block} src: {source} dest: {destination}`.
+ =================== 
+Template: `BLOCK* NameSystem.allocateBlock: {path} {block}`.
+ =================== 
+Template: `BLOCK* NameSystem.allocateBlock: {path} {block}`.
+ =================== 
+Template: `Received block {block} of size {size} from {path}`.
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+Template: `Received block {block} of size {size} from {path}`.
+ =================== 
+Template: `Received block {block} of size {size} from {path}`.
+ =================== 
+Template: `Received block {block} of size {size} from {path}`.
+ =================== 
+Template: `Received block {block} of size {size} from {path}`.
+ =================== 
+Template: `Received block {block} of size {size} from {path}`.
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`
+ =================== 
+Template: `Received block {block} of size {size} from {path}`.
+ =================== 
+Template: `Verification succeeded for {block}`.
+ =================== 
+Template: `Receiving block {block} src: {source} dest: {destination}`.
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`
+ =================== 
+Template: `Deleting block {block} file {path}`.
+ =================== 
+Template: `{process} Served block {block} to {path}`.
+ =================== 
+The template is: `{process} Served block {block} to {path}`.
+ =================== 
+The template is: `{process} Served block {block} to {path}`.
+ =================== 
+Template: `{ip_address}:50010 Served block {block} to {destination}`.
+ =================== 
+The template is: `{ip_address}:Got exception while serving {block} to {destination}:`
+ =================== 
+Template: `{ip_address}:50010:Got exception while serving {block} to {destination}:`
+ =================== 
+Template: `{ip_address}:50010 Served block {block} to {path}`.
+ =================== 
+Template: `{ip_address}:Got exception while serving {path} to {destination}:`
+ =================== 
+Template: `{ip_address}:Got exception while serving {path} to {destination}:`
+ =================== 
+Template: `{process} Served block {block} to {path}`.
+ =================== 
+The template is: `{ip_address}:50010:Got exception while serving {block} to /{destination}:`
+ =================== 
+The template is: `{ip_address}:Got exception while serving {block} to {destination}:`
+ =================== 
+Template: `{ip_address}:Got exception while serving {path} to {destination}:`
+ =================== 
+Template: `{ip_address}:50010 Served block {block} to {destination}`.
+ =================== 
+The template is: `{ip_address}:50010:Got exception while serving {block} to {destination}:`
+ =================== 
+The template is: `{ip_address}:50010:Got exception while serving {block} to {destination}:`
+ =================== 
+Template: `{process} Served block {block} to {path}`.
+ =================== 
+Template: `{ip_address}:Got exception while serving {block} to {destination}:`
+ =================== 
+Template: `{ip_address}:Got exception while serving {path} to {destination}:`
+ =================== 
+The template is: `{ip_address}:50010:Got exception while serving {block} to {destination}:`
+ =================== 
+The template is: `{ip_address}:50010:Got exception while serving {block} to {destination}:`
+ =================== 
+Template: `{ip_address}:Got exception while serving {path} to {destination}:`
+ =================== 
+Template: `{ip_address}:50010:Got exception while serving {block} to {destination}:`
+ =================== 
+Template: `{ip_address}:50010 Served block {block} to {destination}`.
+ =================== 
+Template: `{ip_address}:50010:Got exception while serving {block} to {destination}:`
+ =================== 
+Template: `{ip_address}:50010:Got exception while serving {block} to {destination}:`
+ =================== 
+The template is: `{ip_address}:Got exception while serving {path} to {destination}:`
+ =================== 
+The template is: `{ip_address}:50010:Got exception while serving {block} to {destination}:`
+ =================== 
+The template is: `{ip_address}:Got exception while serving {path} to {destination}:`
+ =================== 
+Template: `{ip_address}:Got exception while serving {path} to {destination}:`
+ =================== 
+Template: `Received block {block} of size {size} from {path}`.
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+Template: `Receiving block {block} src: {source} dest: {destination}`.
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`
+ =================== 
+The template is `Received block {block} of size {size} from {path}`.
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+Template: `Received block {block} of size {size} from {path}`.
+ =================== 
+Template: `Receiving block {block} src: {source} dest: {destination}`.
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`
+ =================== 
+Template: `Receiving block {block} src: {source} dest: {destination}`.
+ =================== 
+Template: `Receiving block {block} src: {source} dest: {destination}`.
+ =================== 
+Template: `Receiving block {block} src: {source} dest: {destination}`.
+ =================== 
+Template: `Receiving block {block} src: {source} dest: {destination}`.
+ =================== 
+The template is: `Received block {block} of size {size} from {path}`.
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+Template: `Receiving block {block} src: {source} dest: {destination}`.
+ =================== 
+Template: `BLOCK* NameSystem.allocateBlock: {path} {block}`.
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`
+ =================== 
+Template: `Receiving block {block} src: {source} dest: {destination}`.
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`
+ =================== 
+Template: `Receiving block {block} src: {source} dest: {destination}`.
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+Template: `Received block {block} of size {size} from {path}`.
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`
+ =================== 
+Template: `Receiving block {block} src: {source} dest: {destination}`.
+ =================== 
+Template: `Received block {block} of size {size} from {path}`.
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`
+ =================== 
+Template: `BLOCK* NameSystem.allocateBlock: {path} {block}`.
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`
+ =================== 
+Template: `BLOCK* NameSystem.allocateBlock: {path} {block}`.
+ =================== 
+Template: `Receiving block {block} src: {source} dest: {destination}`.
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`
+ =================== 
+Template: `Received block {block} of size {size} from {path}`.
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`
+ =================== 
+Template: `Receiving block {block} src: {source} dest: {destination}`.
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+Template: `Received block {block} of size {size} from {path}`.
+ =================== 
+Template: `Receiving block {block} src: {source} dest: {destination}`.
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+Template: `Receiving block {block} src: {source} dest: {destination}`.
+ =================== 
+Template: `BLOCK* NameSystem.allocateBlock: {path} {block}`.
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`
+ =================== 
+Template: `BLOCK* NameSystem.allocateBlock: {path} {block}`.
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`.
+ =================== 
+Template: `Receiving block {block} src: {source} dest: {destination}`.
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`.
+ =================== 
+Template: `Receiving block {block} src: {source} dest: {destination}`.
+ =================== 
+Template: `Received block {block} of size {size} from {path}`.
+ =================== 
+Template: `Received block {block} of size {size} from {path}`.
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+Template: `Receiving block {block} src: {source} dest: {destination}`.
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`
+ =================== 
+Template: `Received block {block} of size {size} from {path}`.
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+Template: `Receiving block {block} src: {source} dest: {destination}`.
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`.
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`
+ =================== 
+Template: `Received block {block} of size {size} from {path}`.
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`
+ =================== 
+Template: `BLOCK* NameSystem.allocateBlock: {path} {block}`.
+ =================== 
+Template: `Verification succeeded for {block}`.
+ =================== 
+Template: `Receiving block {block} src: {source} dest: {destination}`.
+ =================== 
+Template: `Receiving block {block} src: {source} dest: {destination}`.
+ =================== 
+Template: `Received block {block} of size {size} from {path}`.
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+The template is `Received block {block} of size {size} from {path}`.
+ =================== 
+Template: `Receiving block {block} src: {source} dest: {destination}`.
+ =================== 
+Template: `Received block {block} of size {size} from {path}`.
+ =================== 
+Template: `Received block {block} of size {size} from {path}`.
+ =================== 
+Template: `BLOCK* NameSystem.allocateBlock: {path} {block}`.
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`
+ =================== 
+Template: `BLOCK* NameSystem.allocateBlock: {path} {block}`.
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+Template: `Received block {block} of size {size} from {path}`.
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+The template is `Received block {block} of size {size} from {path}`.
+ =================== 
+Template: `Received block {block} of size {size} from {path}`.
+ =================== 
+Template: `Verification succeeded for {block}`.
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`
+ =================== 
+Template: `Receiving block {block} src: {source} dest: {destination}`.
+ =================== 
+Template: `BLOCK* NameSystem.allocateBlock: {path} {block}`.
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+Template: `BLOCK* NameSystem.allocateBlock: {path} {block}`.
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`
+ =================== 
+Template: `Receiving block {block} src: {source} dest: {destination}`.
+ =================== 
+The template is `Received block {block} of size {size} from {path}`.
+ =================== 
+Template: `Received block {block} of size {size} from {path}`.
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`
+ =================== 
+Template: `Received block {block} of size {size} from {path}`.
+ =================== 
+Template: `Received block {block} of size {size} from {path}`.
+ =================== 
+Template: `Receiving block {block} src: {source} dest: {destination}`.
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`
+ =================== 
+Template: `Received block {block} of size {size} from {path}`.
+ =================== 
+Template: `Received block {block} of size {size} from {path}`.
+ =================== 
+Template: `BLOCK* NameSystem.allocateBlock: {path} {block}`.
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`
+ =================== 
+Template: `Receiving block {block} src: {source} dest: {destination}`.
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+Template: `Received block {block} of size {size} from {path}`.
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`
+ =================== 
+Template: `Receiving block {block} src: {source} dest: {destination}`.
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`
+ =================== 
+Template: `Received block {block} of size {size} from {path}`.
+ =================== 
+Template: `Received block {block} of size {size} from {path}`.
+ =================== 
+Template: `Received block {block} of size {size} from {path}`.
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+Template: `Received block {block} of size {size} from {path}`.
+ =================== 
+Template: `Receiving block {block} src: {source} dest: {destination}`.
+ =================== 
+Template: `Receiving block {block} src: {source} dest: {destination}`.
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`
+ =================== 
+Template: `Receiving block {block} src: {source} dest: {destination}`.
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+Template: `BLOCK* NameSystem.allocateBlock: {path} {block}`.
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`
+ =================== 
+Template: `Received block {block} of size {size} from {path}`.
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+The template is `Received block {block} of size {size} from {path}`.
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`
+ =================== 
+Template: `BLOCK* NameSystem.allocateBlock: {path} {block}`.
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`
+ =================== 
+Template: `BLOCK* NameSystem.allocateBlock: {path} {block}`.
+ =================== 
+Template: `BLOCK* NameSystem.allocateBlock: {path} {block}`.
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`
+ =================== 
+Template: `BLOCK* NameSystem.allocateBlock: {path} {block}`.
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`
+ =================== 
+Template: `Receiving block {block} src: {source} dest: {destination}`.
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`
+ =================== 
+Template: `BLOCK* NameSystem.allocateBlock: {path} {block}`.
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+Template: `BLOCK* NameSystem.allocateBlock: {path} {block}`.
+ =================== 
+Template: `BLOCK* NameSystem.allocateBlock: {path} {block}`.
+ =================== 
+Template: `Received block {block} of size {size} from {path}`.
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`
+ =================== 
+The template is `Received block {block} of size {size} from {path}`.
+ =================== 
+Template: `Received block {block} of size {size} from {path}`.
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+Template: `Received block {block} of size {size} from {path}`.
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`
+ =================== 
+Template: `BLOCK* NameSystem.allocateBlock: {path} {block}`.
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+Template: `BLOCK* NameSystem.allocateBlock: {path} {block}`.
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`
+ =================== 
+Template: `Receiving block {block} src: {source} dest: {destination}`.
+ =================== 
+Template: `Received block {block} of size {size} from {path}`.
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+Template: `Received block {block} of size {size} from {path}`.
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+Template: `Receiving block {block} src: {source} dest: {destination}`.
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+Template: `BLOCK* NameSystem.delete: {block} is added to invalidSet of {ip_address}`.
+ =================== 
+Template: `{process} Served block {block} to {path}`.
+ =================== 
+The template is: `{ip_address}:50010:Got exception while serving {block} to {destination}:`
+ =================== 
+The template is: `{process} Served block {block} to {path}`.
+ =================== 
+The template is: `{ip_address}:50010:Got exception while serving {block} to {destination}:`
+ =================== 
+The template is: `{ip_address}:50010:Got exception while serving {block} to {destination}:`
+ =================== 
+The template is: `{process} Served block {block} to {path}`.
+ =================== 
+The template is: `{ip_address}:Got exception while serving {block} to {destination}:`
+ =================== 
+Template: `{ip_address}:50010 Served block {block} to {destination}`.
+ =================== 
+The template is: `{process} Served block {block} to {path}`.
+ =================== 
+Template: `{process} Served block {block} to {path}`.
+ =================== 
+Template: `{process} Served block {block} to {path}`.
+ =================== 
+Template: `{process} Served block {block} to {path}`.
+ =================== 
+Template: `{process} Served block {block} to {path}`.
+ =================== 
+The template is: `{process} Served block {block} to {path}`.
+ =================== 
+The template is: `{process} Served block {block} to {path}`.
+ =================== 
+The template is: `{process} Served block {block} to {path}`.
+ =================== 
+Template: `{process} Served block {block} to {path}`.
+ =================== 
+The template is: `{ip_address}:50010:Got exception while serving {block} to {destination}:`
+ =================== 
+The template is: `{process} Served block {block} to {path}`.
+ =================== 
+Template: `{ip_address}:50010 Served block {block} to {path}`.
+ =================== 
+Template: `{process} Served block {block} to {path}`.
+ =================== 
+Template: `{process} Served block {block} to {path}`.
+ =================== 
+Template: `{process} Served block {block} to {path}`.
+ =================== 
+Template: `{process} Served block {block} to {path}`.
+ =================== 
+The template is: `{ip_address}:Got exception while serving {path} to {destination}:`
+ =================== 
+Template: `{ip_address}:50010 Served block {block} to {destination}`.
+ =================== 
+Template: `{ip_address}:50010:Got exception while serving {block} to {destination}:`
+ =================== 
+Template: `{ip_address}:50010:Got exception while serving {block} to {destination}:`
+ =================== 
+Template: `{process} Served block {block} to {path}`.
+ =================== 
+The template is: `{process} Served block {block} to {path}`.
+ =================== 
+Template: `{process} Served block {block} to {path}`.
+ =================== 
+Template: `{ip_address}:50010 Served block {block} to {path}`.
+ =================== 
+The template is: `{ip_address}:Got exception while serving {block} to {destination}:`
+ =================== 
+Template: `{process} Served block {block} to {path}`.
+ =================== 
+Template: `{ip_address}:50010 Served block {block} to {path}`.
+ =================== 
+The template is: `{ip_address}:Got exception while serving {block} to {destination}:`
+ =================== 
+The template is: `{ip_address}:Got exception while serving {block} to {destination}:`
+ =================== 
+Template: `{ip_address}:50010:Got exception while serving {block} to {destination}:`
+ =================== 
+Template: `{ip_address}:Got exception while serving {path} to {destination}:`
+ =================== 
+The template is: `{process} Served block {block} to {path}`.
+ =================== 
+The template is: `{ip_address}:Got exception while serving {block} to {destination}:`
+ =================== 
+Template: `{ip_address}:Got exception while serving {block} to {destination}:`
+ =================== 
+The template is: `{process} Served block {block} to {path}`.
+ =================== 
+Template: `{process} Served block {block} to {path}`.
+ =================== 
+Template: `{process} Served block {block} to {path}`.
+ =================== 
+The template is: `{ip_address}:Got exception while serving {block} to {destination}:`
+ =================== 
+The template is: `{ip_address}:50010:Got exception while serving {block} to {destination}:`
+ =================== 
+The template is: `{ip_address}:50010:Got exception while serving {block} to {destination}:`
+ =================== 
+Template: `{ip_address}:50010:Got exception while serving {block} to {destination}:`
+ =================== 
+The template is: `{ip_address}:50010:Got exception while serving {block} to {destination}:`
+ =================== 
+Template: `{process} Served block {block} to {path}`.
+ =================== 
+Template: `{ip_address}:50010 Served block {block} to {path}`.
+ =================== 
+Template: `{process} Served block {block} to {path}`.
+ =================== 
+Template: `Verification succeeded for {block}`.
+ =================== 
+Template: `Verification succeeded for {block}`.
+ =================== 
+Template: `Verification succeeded for {block}`.
+ =================== 
+The template is: `{ip_address}:50010:Got exception while serving {block} to {destination}:`
+ =================== 
+Template: `{ip_address}:50010:Got exception while serving {block} to {destination}:`
+ =================== 
+Template: `{ip_address}:50010:Got exception while serving {block} to {destination}:`
+ =================== 
+The template is: `{ip_address}:50010 Served block {block} to {path}`.
+ =================== 
+Template: `{process} Served block {block} to {path}`.
+ =================== 
+Template: `{ip_address}:50010:Got exception while serving {block} to {destination}:`
+ =================== 
+The template is: `{process} Served block {block} to {path}`.
+ =================== 
+The template is: `{ip_address}:50010 Served block {block} to {path}`.
+ =================== 
+The template is: `{ip_address}:50010:Got exception while serving {block} to {destination}:`
+ =================== 
+Template: `Verification succeeded for {block}`.
+ =================== 
+The template is: `{ip_address}:50010 Served block {block} to {path}`.
+ =================== 
+Template: `{ip_address}:Got exception while serving {path} to {destination}:`
+ =================== 
+Template: `{process} Served block {block} to {path}`.
+ =================== 
+Template: `BLOCK* NameSystem.delete: {block} is added to invalidSet of {destination}`.
+ =================== 
+Template: `BLOCK* NameSystem.delete: {block} is added to invalidSet of {ip_address}`.
+ =================== 
+Template: `BLOCK* NameSystem.delete: {block} is added to invalidSet of {destination}`.
+ =================== 
+Template: `BLOCK* NameSystem.delete: {block} is added to invalidSet of {ip_address}`.
+ =================== 
+Template: `BLOCK* NameSystem.delete: {block} is added to invalidSet of {destination}`.
+ =================== 
+Template: `BLOCK* NameSystem.delete: {block} is added to invalidSet of {destination}`.
+ =================== 
+Template: `BLOCK* NameSystem.delete: {block} is added to invalidSet of {ip_address}:{port}`.
+ =================== 
+Template: `BLOCK* NameSystem.delete: {block} is added to invalidSet of {destination}`.
+ =================== 
+The template of `BLOCK* NameSystem.delete: blk_413552235254424009 is added to invalidSet of 10.251.35.1:50010` is `BLOCK* NameSystem.delete: {block} is added to invalidSet of {destination}`.
+ =================== 
+Template: `BLOCK* NameSystem.delete: {block} is added to invalidSet of {ip_address}`.
+ =================== 
+Template: `BLOCK* NameSystem.delete: {block} is added to invalidSet of {destination}`.
+ =================== 
+Template: `BLOCK* NameSystem.delete: {block} is added to invalidSet of {destination}`.
+ =================== 
+Template: `BLOCK* NameSystem.delete: {block} is added to invalidSet of {destination}`.
+ =================== 
+Template: `BLOCK* NameSystem.delete: {block} is added to invalidSet of {destination}`.
+ =================== 
+Template: `BLOCK* NameSystem.delete: {block} is added to invalidSet of {destination}`.
+ =================== 
+Template: `BLOCK* NameSystem.delete: {block} is added to invalidSet of {destination}`.
+ =================== 
+Template: `BLOCK* NameSystem.delete: {block} is added to invalidSet of {ip_address}`.
+ =================== 
+Template: `BLOCK* NameSystem.delete: {block} is added to invalidSet of {ip_address}`.
+ =================== 
+Template: `BLOCK* NameSystem.delete: {block} is added to invalidSet of {ip_address}`.
+ =================== 
+Template: `BLOCK* NameSystem.delete: {block} is added to invalidSet of {destination}`.
+ =================== 
+Template: `BLOCK* NameSystem.delete: {block} is added to invalidSet of {ip_address}`.
+ =================== 
+Template: `BLOCK* NameSystem.delete: {block} is added to invalidSet of {destination}`.
+ =================== 
+Template: `BLOCK* NameSystem.delete: {block} is added to invalidSet of {destination}`.
+ =================== 
+Template: `BLOCK* NameSystem.delete: {block} is added to invalidSet of {ip_address}`.
+ =================== 
+Template: `BLOCK* NameSystem.delete: {block} is added to invalidSet of {destination}`.
+ =================== 
+Template: `BLOCK* NameSystem.delete: {block} is added to invalidSet of {destination}`.
+ =================== 
+Template: `BLOCK* NameSystem.delete: {block} is added to invalidSet of {destination}`.
+ =================== 
+Template: `BLOCK* NameSystem.delete: {block} is added to invalidSet of {ip_address}`.
+ =================== 
+Template: `BLOCK* NameSystem.delete: {block} is added to invalidSet of {destination}`.
+ =================== 
+Template: `BLOCK* NameSystem.delete: {block} is added to invalidSet of {destination}`.
+ =================== 
+Template: `BLOCK* NameSystem.delete: {block} is added to invalidSet of {destination}`.
+ =================== 
+Template: `BLOCK* NameSystem.delete: {block} is added to invalidSet of {ip_address}:{port}`.
+ =================== 
+Template: `BLOCK* NameSystem.delete: {block} is added to invalidSet of {destination}`.
+ =================== 
+Template: `BLOCK* NameSystem.delete: {block} is added to invalidSet of {destination}`.
+ =================== 
+Template: `BLOCK* NameSystem.delete: {block} is added to invalidSet of {ip_address}`.
+ =================== 
+Template: `BLOCK* NameSystem.delete: {block} is added to invalidSet of {destination}`.
+ =================== 
+Template: `BLOCK* NameSystem.delete: {block} is added to invalidSet of {ip_address}`.
+ =================== 
+Template: `BLOCK* NameSystem.delete: {block} is added to invalidSet of {destination}`.
+ =================== 
+The template is `BLOCK* NameSystem.delete: {block} is added to invalidSet of {ip_address}`.
+ =================== 
+Template: `BLOCK* NameSystem.delete: {block} is added to invalidSet of {destination}`.
+ =================== 
+Template: `BLOCK* NameSystem.delete: {block} is added to invalidSet of {destination}`.
+ =================== 
+Template: `BLOCK* NameSystem.delete: {block} is added to invalidSet of {destination}`.
+ =================== 
+Template: `BLOCK* NameSystem.delete: {block} is added to invalidSet of {ip_address}`.
+ =================== 
+Template: `BLOCK* NameSystem.delete: {block} is added to invalidSet of {ip_address}`.
+ =================== 
+Template: `BLOCK* NameSystem.delete: {block} is added to invalidSet of {ip_address}`.
+ =================== 
+Template: `BLOCK* NameSystem.delete: {block} is added to invalidSet of {destination}`.
+ =================== 
+Template: `BLOCK* NameSystem.delete: {block} is added to invalidSet of {destination}`.
+ =================== 
+Template: `BLOCK* NameSystem.delete: {block} is added to invalidSet of {destination}`.
+ =================== 
+Template: `BLOCK* NameSystem.delete: {block} is added to invalidSet of {destination}`.
+ =================== 
+Template: `BLOCK* NameSystem.delete: {block} is added to invalidSet of {destination}`.
+ =================== 
+Template: `BLOCK* NameSystem.delete: {block} is added to invalidSet of {destination}`.
+ =================== 
+Template: `BLOCK* NameSystem.delete: {block} is added to invalidSet of {destination}`.
+ =================== 
+Template: `BLOCK* NameSystem.delete: {block} is added to invalidSet of {destination}`.
+ =================== 
+Template: `BLOCK* NameSystem.delete: {block} is added to invalidSet of {ip_address}`.
+ =================== 
+Template: `BLOCK* NameSystem.delete: {block} is added to invalidSet of {destination}`.
+ =================== 
+Template: `BLOCK* NameSystem.delete: {block} is added to invalidSet of {destination}`.
+ =================== 
+Template: `BLOCK* NameSystem.delete: {block} is added to invalidSet of {destination}`.
+ =================== 
+Template: `BLOCK* NameSystem.delete: {block} is added to invalidSet of {ip_address}`.
+ =================== 
+Template: `BLOCK* NameSystem.delete: {block} is added to invalidSet of {destination}`.
+ =================== 
+Template: `BLOCK* NameSystem.delete: {block} is added to invalidSet of {destination}`.
+ =================== 
+Template: `BLOCK* NameSystem.delete: {block} is added to invalidSet of {ip_address}`.
+ =================== 
+Template: `BLOCK* NameSystem.delete: {block} is added to invalidSet of {ip_address}`.
+ =================== 
+Template: `BLOCK* NameSystem.delete: {block} is added to invalidSet of {destination}`.
+ =================== 
+Template: `BLOCK* NameSystem.delete: {block} is added to invalidSet of {ip_address}`.
+ =================== 
+Template: `Deleting block {block} file {path}`.
+ =================== 
+Template: `Received block {block} of size {size} from {path}`.
+ =================== 
+Template: `Deleting block {block} file {path}`.
+ =================== 
+Template: `Deleting block {block} file {path}`.
+ =================== 
+Template: `Deleting block {block} file {path}`.
+ =================== 
+Template: `Deleting block {block} file {path}`.
+ =================== 
+Template: `Deleting block {block} file {path}`.
+ =================== 
+Template: `Deleting block {block} file {path}`.
+ =================== 
+The template is `Received block {block} of size {size} from {path}`.
+ =================== 
+Template: `Deleting block {block} file {path}`.
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`.
+ =================== 
+Template: `BLOCK* NameSystem.allocateBlock: {path} {block}`.
+ =================== 
+Template: `Deleting block {block} file {path}`.
+ =================== 
+Template: `Deleting block {block} file {path}`.
+ =================== 
+Template: `Deleting block {block} file {path}`.
+ =================== 
+Template: `Deleting block {block} file {path}`.
+ =================== 
+Template: `Deleting block {block} file {path}`.
+ =================== 
+Template: `Deleting block {block} file {path}`.
+ =================== 
+The template is: `Received block {block} of size {size} from {path}`.
+ =================== 
+Template: `Deleting block {block} file {path}`.
+ =================== 
+Template: `Deleting block {block} file {path}`.
+ =================== 
+Template: `Deleting block {block} file {path}`.
+ =================== 
+Template: `Deleting block {block} file {path}`.
+ =================== 
+Template: `Deleting block {block} file {path}`.
+ =================== 
+Template: `Deleting block {block} file {path}`.
+ =================== 
+Template: `Deleting block {block} file {path}`.
+ =================== 
+Template: `Deleting block {block} file {path}`.
+ =================== 
+Template: `Deleting block {block} file {path}`.
+ =================== 
+Template: `Deleting block {block} file {path}`.
+ =================== 
+Template: `Deleting block {block} file {path}`.
+ =================== 
+Template: `Deleting block {block} file {path}`.
+ =================== 
+Template: `Deleting block {block} file {path}`.
+ =================== 
+Template: `Deleting block {block} file {path}`.
+ =================== 
+Template: `Deleting block {block} file {path}`.
+ =================== 
+Template: `Deleting block {block} file {path}`.
+ =================== 
+Template: `Deleting block {block} file {path}`.
+ =================== 
+Template: `Deleting block {block} file {path}`.
+ =================== 
+Template: `Deleting block {block} file {path}`.
+ =================== 
+Template: `Deleting block {block} file {path}`.
+ =================== 
+Template: `Deleting block {block} file {path}`.
+ =================== 
+Template: `Deleting block {block} file {path}`.
+ =================== 
+Template: `Deleting block {block} file {path}`.
+ =================== 
+Template: `Deleting block {block} file {path}`.
+ =================== 
+Template: `Deleting block {block} file {path}`.
+ =================== 
+Template: `Deleting block {block} file {path}`.
+ =================== 
+Template: `Deleting block {block} file {path}`.
+ =================== 
+Template: `Deleting block {block} file {path}`.
+ =================== 
+Template: `Deleting block {block} file {path}`.
+ =================== 
+Template: `Deleting block {block} file {path}`.
+ =================== 
+Template: `Deleting block {block} file {path}`.
+ =================== 
+Template: `Deleting block {block} file {path}`.
+ =================== 
+Template: `Deleting block {block} file {path}`.
+ =================== 
+Template: `Deleting block {block} file {path}`.
+ =================== 
+Template: `Received block {block} of size {size} from {path}`.
+ =================== 
+Template: `BLOCK* NameSystem.allocateBlock: {path} {block}`.
+ =================== 
+Template: `Deleting block {block} file {path}`.
+ =================== 
+Template: `Deleting block {block} file {path}`.
+ =================== 
+Template: `Deleting block {block} file {path}`.
+ =================== 
+Template: `Deleting block {block} file {path}`.
+ =================== 
+Template: `Deleting block {block} file {path}`.
+ =================== 
+Template: `Deleting block {block} file {path}`.
+ =================== 
+Template: `Deleting block {block} file {path}`.
+ =================== 
+Template: `Deleting block {block} file {path}`.
+ =================== 
+Template: `Deleting block {block} file {path}`.
+ =================== 
+Template: `Deleting block {block} file {path}`.
+ =================== 
+Template: `Deleting block {block} file {path}`.
+ =================== 
+Template: `Deleting block {block} file {path}`.
+ =================== 
+Template: `Deleting block {block} file {path}`.
+ =================== 
+The template is `Received block {block} of size {size} from {path}`.
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+Template: `Deleting block {block} file {path}`.
+ =================== 
+Template: `Deleting block {block} file {path}`.
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+Template: `Deleting block {block} file {path}`.
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`.
+ =================== 
+Template: `BLOCK* NameSystem.allocateBlock: {path} {block}`.
+ =================== 
+Template: `Deleting block {block} file {path}`.
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`
+ =================== 
+The template is `Received block {block} of size {size} from {path}`.
+ =================== 
+Template: `BLOCK* NameSystem.allocateBlock: {path} {block}`.
+ =================== 
+Template: `Receiving block {block} src: {source} dest: {destination}`.
+ =================== 
+Template: `Receiving block {block} src: {source} dest: {destination}`.
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+Template: `Receiving block {block} src: {source} dest: {destination}`.
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`
+ =================== 
+Template: `BLOCK* NameSystem.allocateBlock: {path} {block}`.
+ =================== 
+Template: `Received block {block} of size {size} from {path}`.
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`
+ =================== 
+The template is `Received block {block} of size {size} from {path}`.
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+Template: `Deleting block {block} file {path}`.
+ =================== 
+Template: `Receiving block {block} src: {source} dest: {destination}`.
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+Template: `Receiving block {block} src: {source} dest: {destination}`.
+ =================== 
+Template: `Deleting block {block} file {path}`.
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+Template: `BLOCK* NameSystem.allocateBlock: {path} {block}`.
+ =================== 
+Template: `Received block {block} of size {size} from {path}`.
+ =================== 
+Template: `Receiving block {block} src: {source} dest: {destination}`.
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+Template: `Deleting block {block} file {path}`.
+ =================== 
+Template: `Received block {block} of size {size} from {path}`.
+ =================== 
+Template: `Received block {block} of size {size} from {path}`.
+ =================== 
+Template: `Received block {block} of size {size} from {path}`.
+ =================== 
+Template: `Received block {block} of size {size} from {path}`.
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+The template is `Received block {block} of size {size} from {path}`.
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+Template: `Received block {block} of size {size} from {path}`.
+ =================== 
+The template is `Received block {block} of size {size} from {path}`.
+ =================== 
+Template: `Receiving block {block} src: {source} dest: {destination}`.
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`
+ =================== 
+Template: `BLOCK* NameSystem.allocateBlock: {path} {block}`.
+ =================== 
+Template: `Receiving block {block} src: {source} dest: {destination}`.
+ =================== 
+Template: `Received block {block} of size {size} from {path}`.
+ =================== 
+Template: `Receiving block {block} src: {source} dest: {destination}`.
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+Template: `BLOCK* NameSystem.allocateBlock: {path} {block}`.
+ =================== 
+Template: `Received block {block} of size {size} from {path}`.
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`
+ =================== 
+Template: `Receiving block {block} src: {source} dest: {destination}`.
+ =================== 
+Template: `BLOCK* NameSystem.allocateBlock: {path} {block}`.
+ =================== 
+Template: `Received block {block} of size {size} from {path}`.
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+Template: `BLOCK* NameSystem.allocateBlock: {path} {block}`.
+ =================== 
+Template: `Receiving block {block} src: {source} dest: {destination}`.
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`
+ =================== 
+Template: `Receiving block {block} src: {source} dest: {destination}`.
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+The template is `Received block {block} of size {size} from {path}`.
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+Template: `Receiving block {block} src: {source} dest: {destination}`.
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`
+ =================== 
+Template: `Verification succeeded for {block}`.
+ =================== 
+Template: `Receiving block {block} src: {source} dest: {destination}`.
+ =================== 
+Template: `Receiving block {block} src: {source} dest: {destination}`.
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`.
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+Template: `Received block {block} of size {size} from {path}`.
+ =================== 
+Template: `Receiving block {block} src: {source} dest: {destination}`.
+ =================== 
+Template: `Receiving block {block} src: {source} dest: {destination}`.
+ =================== 
+Template: `Received block {block} of size {size} from {path}`.
+ =================== 
+Template: `Received block {block} of size {size} from {path}`.
+ =================== 
+Template: `Receiving block {block} src: {source} dest: {destination}`.
+ =================== 
+Template: `Received block {block} of size {size} from {path}`.
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+Template: `Receiving block {block} src: {source} dest: {destination}`.
+ =================== 
+Template: `Received block {block} of size {size} from {path}`.
+ =================== 
+Template: `Deleting block {block} file {path}`.
+ =================== 
+Template: `Received block {block} of size {size} from {path}`.
+ =================== 
+The template is `Received block {block} of size {size} from {path}`.
+ =================== 
+Template: `Receiving block {block} src: {source} dest: {destination}`.
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`.
+ =================== 
+Template: `Receiving block {block} src: {source} dest: {destination}`.
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+Template: `Received block {block} of size {size} from {path}`.
+ =================== 
+Template: `Receiving block {block} src: {source} dest: {destination}`.
+ =================== 
+Template: `BLOCK* NameSystem.allocateBlock: {path} {block}`.
+ =================== 
+Template: `Received block {block} of size {size} from {path}`.
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+Template: `Receiving block {block} src: {source} dest: {destination}`.
+ =================== 
+Template: `Receiving block {block} src: {source} dest: {destination}`.
+ =================== 
+Template: `Receiving block {block} src: {source} dest: {destination}`.
+ =================== 
+Template: `BLOCK* NameSystem.allocateBlock: {path} {block}`.
+ =================== 
+Template: `Receiving block {block} src: {source} dest: {destination}`.
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`
+ =================== 
+Template: `Receiving block {block} src: {source} dest: {destination}`.
+ =================== 
+Template: `Receiving block {block} src: {source} dest: {destination}`.
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+Template: `Receiving block {block} src: {source} dest: {destination}`.
+ =================== 
+Template: `Receiving block {block} src: {source} dest: {destination}`.
+ =================== 
+Template: `Receiving block {block} src: {source} dest: {destination}`.
+ =================== 
+Template: `Receiving block {block} src: {source} dest: {destination}`.
+ =================== 
+Template: `Receiving block {block} src: {source} dest: {destination}`.
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`
+ =================== 
+Template: `Received block {block} of size {size} from {path}`.
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+Template: `Received block {block} of size {size} from {path}`.
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`
+ =================== 
+Template: `Receiving block {block} src: {source} dest: {destination}`.
+ =================== 
+Template: `Received block {block} of size {size} from {path}`.
+ =================== 
+Template: `BLOCK* NameSystem.allocateBlock: {path} {block}`.
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+Template: `BLOCK* NameSystem.allocateBlock: {path} {block}`.
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+Template: `Received block {block} of size {size} from {path}`.
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+Template: `Receiving block {block} src: {source} dest: {destination}`.
+ =================== 
+Template: `Receiving block {block} src: {source} dest: {destination}`.
+ =================== 
+Template: `Receiving block {block} src: {source} dest: {destination}`.
+ =================== 
+Template: `Received block {block} of size {size} from {path}`.
+ =================== 
+Template: `Receiving block {block} src: {source} dest: {destination}`.
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`
+ =================== 
+Template: `Receiving block {block} src: {source} dest: {destination}`.
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`
+ =================== 
+Template: `Received block {block} of size {size} from {path}`.
+ =================== 
+Template: `Verification succeeded for {block}`.
+ =================== 
+Template: `BLOCK* NameSystem.allocateBlock: {path} {block}`.
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+Template: `Receiving block {block} src: {source} dest: {destination}`.
+ =================== 
+Template: `Received block {block} of size {size} from {path}`.
+ =================== 
+Template: `Receiving block {block} src: {source} dest: {destination}`.
+ =================== 
+Template: `Received block {block} of size {size} from {path}`.
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+Template: `Received block {block} of size {size} from {path}`.
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+The template is: `Received block {block} of size {size} from {path}`.
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+Template: `Receiving block {block} src: {source} dest: {destination}`.
+ =================== 
+Template: `Receiving block {block} src: {source} dest: {destination}`.
+ =================== 
+Template: `Receiving block {block} src: {source} dest: {destination}`.
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+Template: `Receiving block {block} src: {source} dest: {destination}`.
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`
+ =================== 
+Template: `Receiving block {block} src: {source} dest: {destination}`.
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+Template: `Received block {block} of size {size} from {path}`.
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+Template: `Received block {block} of size {size} from {path}`.
+ =================== 
+Template: `Received block {block} of size {size} from {path}`.
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+The template is `Received block {block} of size {size} from {path}`.
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`
+ =================== 
+Template: `BLOCK* NameSystem.allocateBlock: {path} {block}`.
+ =================== 
+Template: `Receiving block {block} src: {source} dest: {destination}`.
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`
+ =================== 
+The template is: `{ip_address}:50010 Served block {block} to {path}`.
+ =================== 
+Template: `{ip_address}:50010:Got exception while serving {block} to {destination}:`
+ =================== 
+The template is: `{ip_address}:Got exception while serving {path} to {destination}:`
+ =================== 
+The template is: `{ip_address}:50010:Got exception while serving {block} to {destination}:`
+ =================== 
+The template is: `{ip_address}:Got exception while serving {path} to {destination}:`
+ =================== 
+The template is: `{ip_address}:Got exception while serving {path} to {destination}:`
+ =================== 
+The template is: `{ip_address}:Got exception while serving {block} to {destination}:`
+ =================== 
+Template: `{process} Served block {block} to {path}`.
+ =================== 
+Template: `{ip_address}:Got exception while serving {path} to {destination}:`
+ =================== 
+Template: `{ip_address}:50010 Served block {block} to {destination}`.
+ =================== 
+The template is: `{ip_address}:Got exception while serving {path} to {destination}:`
+ =================== 
+Template: `{ip_address}:50010:Got exception while serving {block} to {destination}:`
+ =================== 
+Template: `{ip_address}:Got exception while serving {path} to {destination}:`
+ =================== 
+The template is: `{ip_address}:50010:Got exception while serving {block} to {destination}:`
+ =================== 
+Template: `{process} Served block {block} to {path}`.
+ =================== 
+The template is: `{ip_address}:50010:Got exception while serving {block} to {destination}:`
+ =================== 
+Template: `{process} Served block {block} to {path}`.
+ =================== 
+The template is: `{ip_address}:50010:Got exception while serving {block} to {destination}:`
+ =================== 
+The template is: `{ip_address}:Got exception while serving {path} to {destination}:`
+ =================== 
+Template: `Verification succeeded for {block}`.
+ =================== 
+The template is: `{ip_address}:50010:Got exception while serving {block} to {destination}:`
+ =================== 
+Template: `{process} Served block {block} to {path}`.
+ =================== 
+The template is: `{ip_address}:Got exception while serving {block} to {destination}:`
+ =================== 
+Template: `BLOCK* NameSystem.allocateBlock: {path} {block}`.
+ =================== 
+Template: `Receiving block {block} src: {source} dest: {destination}`.
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`
+ =================== 
+Template: `BLOCK* NameSystem.allocateBlock: {path} {block}`.
+ =================== 
+Template: `Receiving block {block} src: {source} dest: {destination}`.
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+Template: `Receiving block {block} src: {source} dest: {destination}`.
+ =================== 
+The template is `Received block {block} of size {size} from {path}`.
+ =================== 
+Template: `Receiving block {block} src: {source} dest: {destination}`.
+ =================== 
+Template: `Receiving block {block} src: {source} dest: {destination}`.
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`
+ =================== 
+Template: `Receiving block {block} src: {source} dest: {destination}`.
+ =================== 
+Template: `Receiving block {block} src: {source} dest: {destination}`.
+ =================== 
+Template: `Received block {block} of size {size} from {path}`.
+ =================== 
+Template: `Receiving block {block} src: {source} dest: {destination}`.
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+Template: `Received block {block} of size {size} from {path}`.
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+Template: `Received block {block} of size {size} from {path}`.
+ =================== 
+Template: `Receiving block {block} src: {source} dest: {destination}`.
+ =================== 
+Template: `Receiving block {block} src: {source} dest: {destination}`.
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`
+ =================== 
+Template: `Received block {block} of size {size} from {path}`.
+ =================== 
+Template: `Receiving block {block} src: {source} dest: {destination}`.
+ =================== 
+Template: `Receiving block {block} src: {source} dest: {destination}`.
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+Template: `Receiving block {block} src: {source} dest: {destination}`.
+ =================== 
+Template: `Received block {block} of size {size} from {path}`.
+ =================== 
+Template: `BLOCK* NameSystem.allocateBlock: {path} {block}`.
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`
+ =================== 
+Template: `Received block {block} of size {size} from {path}`.
+ =================== 
+The template is `Received block {block} of size {size} from {path}`.
+ =================== 
+Template: `Received block {block} of size {size} from {path}`.
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`
+ =================== 
+Template: `Receiving block {block} src: {source} dest: {destination}`.
+ =================== 
+Template: `Received block {block} of size {size} from {path}`.
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`
+ =================== 
+The template is: `Received block {block} of size {size} from {path}`.
+ =================== 
+Template: `Receiving block {block} src: {source} dest: {destination}`.
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+Template: `BLOCK* NameSystem.allocateBlock: {path} {block}`.
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+Template: `Receiving block {block} src: {source} dest: {destination}`.
+ =================== 
+Template: `Verification succeeded for {block}`.
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+Template: `Receiving block {block} src: {source} dest: {destination}`.
+ =================== 
+Template: `Receiving block {block} src: {source} dest: {destination}`.
+ =================== 
+Template: `BLOCK* NameSystem.allocateBlock: {path} {block}`.
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+Template: `Receiving block {block} src: {source} dest: {destination}`.
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`
+ =================== 
+Template: `BLOCK* NameSystem.allocateBlock: {path} {block}`.
+ =================== 
+Template: `BLOCK* NameSystem.allocateBlock: {path} {block}`.
+ =================== 
+Template: `Receiving block {block} src: {source} dest: {destination}`.
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+Template: `Received block {block} of size {size} from {path}`.
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+Template: `Receiving block {block} src: {source} dest: {destination}`.
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`
+ =================== 
+Template: `Receiving block {block} src: {source} dest: {destination}`.
+ =================== 
+Template: `Verification succeeded for {block}`.
+ =================== 
+Template: `Received block {block} of size {size} from {path}`.
+ =================== 
+Template: `Receiving block {block} src: {source} dest: {destination}`.
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {destination} is added to {block} size {size}`.
+ =================== 
+Template: `{process} Served block {block} to {path}`.
+ =================== 
+Template: `{ip_address}:50010 Served block {block} to {path}`.
+ =================== 
+Template: `{ip_address}:Got exception while serving {block} to {destination}:`
+ =================== 
+The template is: `{ip_address}:Got exception while serving {path} to {destination}:`
+ =================== 
+Template: `{process} Served block {block} to {path}`.
+ =================== 
+Template: `Verification succeeded for {block}`.
+ =================== 
+Template: `{ip_address}:Got exception while serving {block} to {destination}:`
+ =================== 
+The template is: `{process} Served block {block} to {path}`.
+ =================== 
+Template: `{ip_address}:Got exception while serving {path} to {destination}:`
+ =================== 
+The template is: `{process} Served block {block} to {path}`.
+ =================== 
+The template is: `{ip_address}:50010:Got exception while serving {block} to {destination}:`
+ =================== 
+Template: `Verification succeeded for {block}`.
+ =================== 
+Template: `Verification succeeded for {block}`.
+ =================== 
+Template: `{ip_address}:Got exception while serving {path} to {destination}:`
+ =================== 
+The template is: `{ip_address}:Got exception while serving {path} to {destination}:`
+ =================== 
+Template: `{ip_address}:50010:Got exception while serving {block} to {destination}:`
+ =================== 
+Template: `{ip_address}:50010 Served block {block} to {destination}`.
+ =================== 
+The template is: `{ip_address}:Got exception while serving {block} to {destination}:`
+ =================== 
+The template is: `{process} Served block {block} to {path}`.
+ =================== 
+Template: `{ip_address}:50010:Got exception while serving {block} to {destination}:`
+ =================== 
+The template is: `{process} Served block {block} to {path}`.
+ =================== 
+The template is: `{ip_address}:50010 Served block {block} to {path}`.
+ =================== 
+Template: `BLOCK* NameSystem.delete: {block} is added to invalidSet of {destination}`.
+ =================== 
+Template: `BLOCK* NameSystem.delete: {block} is added to invalidSet of {destination}`.
+ =================== 
+Template: `BLOCK* NameSystem.delete: {block} is added to invalidSet of {destination}`.
+ =================== 
+Template: `BLOCK* NameSystem.delete: {block} is added to invalidSet of {ip_address}`.
+ =================== 
+Template: `BLOCK* NameSystem.delete: {block} is added to invalidSet of {destination}`.
+ =================== 
+Template: `BLOCK* NameSystem.delete: {block} is added to invalidSet of {ip_address}`.
+ =================== 
+Template: `BLOCK* NameSystem.delete: {block} is added to invalidSet of {ip_address}`.
+ =================== 
+Template: `BLOCK* NameSystem.delete: {block} is added to invalidSet of {destination}`.
+ =================== 
+Template: `BLOCK* NameSystem.delete: {block} is added to invalidSet of {ip_address}`.
+ =================== 
+Template: `BLOCK* NameSystem.delete: {block} is added to invalidSet of {destination}`.
+ =================== 
+Template: `BLOCK* NameSystem.delete: {block} is added to invalidSet of {destination}`.
+ =================== 
+Template: `BLOCK* NameSystem.delete: {block} is added to invalidSet of {destination}`.
+ =================== 
+Template: `BLOCK* NameSystem.delete: {block} is added to invalidSet of {destination}`.
+ =================== 
+Template: `BLOCK* NameSystem.delete: {block} is added to invalidSet of {ip_address}`.
+ =================== 
+Template: `BLOCK* NameSystem.delete: {block} is added to invalidSet of {destination}`.
+ =================== 
+Template: `BLOCK* NameSystem.delete: {block} is added to invalidSet of {ip_address}`.
+ =================== 
+Template: `BLOCK* NameSystem.delete: {block} is added to invalidSet of {destination}`.
+ =================== 
+Template: `BLOCK* NameSystem.delete: {block} is added to invalidSet of {destination}`.
+ =================== 
+Template: `BLOCK* NameSystem.delete: {block} is added to invalidSet of {destination}`.
+ =================== 
+Template: `BLOCK* NameSystem.delete: {block} is added to invalidSet of {destination}`.
+ =================== 
+Template: `BLOCK* NameSystem.delete: {block} is added to invalidSet of {ip_address}`.
+ =================== 
+Template: `BLOCK* NameSystem.delete: {block} is added to invalidSet of {ip_address}`.
+ =================== 
+Template: `BLOCK* NameSystem.delete: {block} is added to invalidSet of {destination}`.
+ =================== 
+Template: `BLOCK* NameSystem.delete: {block} is added to invalidSet of {destination}`.
+ =================== 
+Template: `BLOCK* NameSystem.delete: {block} is added to invalidSet of {destination}`.
+ =================== 
+Template: `BLOCK* NameSystem.delete: {block} is added to invalidSet of {destination}`.
+ =================== 
+Template: `BLOCK* NameSystem.delete: {block} is added to invalidSet of {destination}`.
+ =================== 
+Template: `BLOCK* NameSystem.delete: {block} is added to invalidSet of {destination}`.
+ =================== 
+Template: `BLOCK* NameSystem.delete: {block} is added to invalidSet of {destination}`.
+ =================== 
+Template: `BLOCK* NameSystem.delete: {block} is added to invalidSet of {destination}`.
+ =================== 
+Template: `BLOCK* NameSystem.delete: {block} is added to invalidSet of {destination}`.
+ =================== 
+Template: `BLOCK* NameSystem.delete: {block} is added to invalidSet of {destination}`.
+ =================== 
+Template: `BLOCK* NameSystem.delete: {block} is added to invalidSet of {destination}`.
+ =================== 
+Template: `BLOCK* NameSystem.delete: {block} is added to invalidSet of {destination}`.
+ =================== 
+Template: `BLOCK* NameSystem.delete: {block} is added to invalidSet of {destination}`.
+ =================== 
+Template: `BLOCK* NameSystem.delete: {block} is added to invalidSet of {destination}`.
+ =================== 
+Template: `{ip_address}:50010 Served block {block} to {destination}`.
+ =================== 
+Template: `Received block {block} of size {size} from {path}`.
+ =================== 
+Template: `Deleting block {block} file {path}`.
+ =================== 
+Template: `Receiving block {block} src: {source} dest: {destination}`.
+ =================== 
+Template: `Deleting block {block} file {path}`.
+ =================== 
+Template: `Deleting block {block} file {path}`.
+ =================== 
+Template: `Deleting block {block} file {path}`.
+ =================== 
+Template: `Deleting block {block} file {path}`.
+ =================== 
+Template: `Deleting block {block} file {path}`.
+ =================== 
+Template: `Deleting block {block} file {path}`.
+ =================== 
+Template: `Deleting block {block} file {path}`.
+ =================== 
+Template: `Deleting block {block} file {path}`.
+ =================== 
+Template: `Receiving block {block} src: {source} dest: {destination}`.
+ =================== 
+Template: `Deleting block {block} file {path}`.
+ =================== 
+Template: `Deleting block {block} file {path}`.
+ =================== 
+Template: `Deleting block {block} file {path}`.
+ =================== 
+Template: `Received block {block} of size {size} from {path}`.
+ =================== 
+Template: `Deleting block {block} file {path}`.
+ =================== 
+Template: `Deleting block {block} file {path}`.
+ =================== 
+Template: `Deleting block {block} file {path}`.
+ =================== 
+Template: `Deleting block {block} file {path}`.
+ =================== 
+Template: `Deleting block {block} file {path}`.
+ =================== 
+Template: `Deleting block {block} file {path}`.
+ =================== 
+Template: `Deleting block {block} file {path}`.
+ =================== 
+Template: `Deleting block {block} file {path}`.
+ =================== 
+Template: `Deleting block {block} file {path}`.
+ =================== 
+Template: `Deleting block {block} file {path}`.
+ =================== 
+Template: `Deleting block {block} file {path}`.
+ =================== 
+Template: `Deleting block {block} file {path}`.
+ =================== 
+Template: `Deleting block {block} file {path}`.
+ =================== 
+Template: `Deleting block {block} file {path}`.
+ =================== 
+Template: `Deleting block {block} file {path}`.
+ =================== 
+The template is `Deleting block {block} file {path}`.
+ =================== 
+Template: `Deleting block {block} file {path}`.
+ =================== 
+Template: `Deleting block {block} file {path}`.
+ =================== 
+Template: `Deleting block {block} file {path}`.
+ =================== 
+Template: `Deleting block {block} file {path}`.
+ =================== 
+Template: `Deleting block {block} file {path}`.
+ =================== 
+Template: `Deleting block {block} file {path}`.
+ =================== 
+Template: `Deleting block {block} file {path}`.
+ =================== 
+Template: `Deleting block {block} file {path}`.
+ =================== 
+Template: `Deleting block {block} file {path}`.
+ =================== 
+Template: `Deleting block {block} file {path}`.
+ =================== 
+Template: `Deleting block {block} file {path}`.
+ =================== 
+Template: `Deleting block {block} file {path}`.
+ =================== 
+Template: `Deleting block {block} file {path}`.
+ =================== 
+Template: `Deleting block {block} file {path}`.
+ =================== 
+Template: `Deleting block {block} file {path}`.
+ =================== 
+Template: `Deleting block {block} file {path}`.
+ =================== 
+Template: `Deleting block {block} file {path}`.
+ =================== 
+Template: `Deleting block {block} file {path}`.
+ =================== 
+Template: `Deleting block {block} file {path}`.
+ =================== 
+Template: `Receiving block {block} src: {source} dest: {destination}`.
+ =================== 
+Template: `Deleting block {block} file {path}`.
+ =================== 
+Template: `Deleting block {block} file {path}`.
+ =================== 
+Template: `Receiving block {block} src: {source} dest: {destination}`.
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`
+ =================== 
+Template: `Receiving block {block} src: {source} dest: {destination}`.
+ =================== 
+Template: `Deleting block {block} file {path}`.
+ =================== 
+The template is `Received block {block} of size {size} from {path}`.
+ =================== 
+Template: `Receiving block {block} src: {source} dest: {destination}`.
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+Template: `Receiving block {block} src: {source} dest: {destination}`.
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`
+ =================== 
+Template: `Received block {block} of size {size} from {path}`.
+ =================== 
+Template: `Receiving block {block} src: {source} dest: {destination}`.
+ =================== 
+Template: `{source} Starting thread to transfer block {block} to {destination}`.
+ =================== 
+Template: `Received block {block} of size {size} from {path}`.
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`
+ =================== 
+The template is: `Received block {block} of size {size} from {path}`.
+ =================== 
+Template: `Received block {block} of size {size} from {path}`.
+ =================== 
+Template: `Deleting block {block} file {path}`.
+ =================== 
+Template: `Received block {block} of size {size} from {path}`.
+ =================== 
+Template: `Receiving block {block} src: {source} dest: {destination}`.
+ =================== 
+Template: `Received block {block} of size {size} from {path}`.
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+Template: `BLOCK* ask {source} to delete {block}`.
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+Template: `BLOCK* NameSystem.allocateBlock: {path} {block}`.
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+Template: `Received block {block} of size {size} from {path}`.
+ =================== 
+Template: `Received block {block} of size {size} from {path}`.
+ =================== 
+Template: `Receiving block {block} src: {source} dest: {destination}`.
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`
+ =================== 
+Template: `Receiving block {block} src: {source} dest: {destination}`.
+ =================== 
+Template: `Received block {block} of size {size} from {path}`.
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`
+ =================== 
+Template: `Receiving block {block} src: {source} dest: {destination}`.
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+Template: `BLOCK* NameSystem.allocateBlock: {path} {block}`.
+ =================== 
+Template: `Receiving block {block} src: {source} dest: {destination}`.
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`
+ =================== 
+Template: `Receiving block {block} src: {source} dest: {destination}`.
+ =================== 
+The template is `Received block {block} of size {size} from {path}`.
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`
+ =================== 
+Template: `Received block {block} of size {size} from {path}`.
+ =================== 
+Template: `Receiving block {block} src: {source} dest: {destination}`.
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`
+ =================== 
+The template is `Received block {block} of size {size} from {path}`.
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`
+ =================== 
+Template: `Receiving block {block} src: {source} dest: {destination}`.
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+The template is `Received block {block} of size {size} from {path}`.
+ =================== 
+Template: `Received block {block} of size {size} from {path}`.
+ =================== 
+The template is `Received block {block} of size {size} from {path}`.
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`
+ =================== 
+Template: `BLOCK* NameSystem.allocateBlock: {path} {block}`.
+ =================== 
+Template: `Received block {block} of size {size} from {path}`.
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+Template: `Receiving block {block} src: {source} dest: {destination}`.
+ =================== 
+Template: `Receiving block {block} src: {source} dest: {destination}`.
+ =================== 
+Template: `Received block {block} of size {size} from {path}`.
+ =================== 
+Template: `Receiving block {block} src: {source} dest: {destination}`.
+ =================== 
+Template: `Receiving block {block} src: {source} dest: {destination}`.
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`
+ =================== 
+Template: `Receiving block {block} src: {source} dest: {destination}`.
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`
+ =================== 
+Template: `BLOCK* NameSystem.allocateBlock: {path} {block}`.
+ =================== 
+Template: `Received block {block} of size {size} from {path}`.
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+The template is `Received block {block} of size {size} from {path}`.
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`
+ =================== 
+Template: `Receiving block {block} src: {source} dest: {destination}`.
+ =================== 
+Template: `Receiving block {block} src: {source} dest: {destination}`.
+ =================== 
+Template: `Received block {block} of size {size} from {path}`.
+ =================== 
+Template: `BLOCK* NameSystem.delete: {block} is added to invalidSet of {destination}`.
+ =================== 
+Template: `BLOCK* NameSystem.delete: {block} is added to invalidSet of {destination}`.
+ =================== 
+Template: `BLOCK* NameSystem.delete: {block} is added to invalidSet of {destination}`.
+ =================== 
+Template: `BLOCK* NameSystem.delete: {block} is added to invalidSet of {destination}`.
+ =================== 
+Template: `BLOCK* NameSystem.delete: {block} is added to invalidSet of {destination}`.
+ =================== 
+Template: `BLOCK* NameSystem.delete: {block} is added to invalidSet of {destination}`.
+ =================== 
+Template: `BLOCK* NameSystem.delete: {block} is added to invalidSet of {ip_address}:{port}`.
+ =================== 
+The template is `BLOCK* NameSystem.delete: {block} is added to invalidSet of {ip_address}`.
+ =================== 
+Template: `BLOCK* NameSystem.delete: {block} is added to invalidSet of {destination}`.
+ =================== 
+Template: `BLOCK* NameSystem.delete: {block} is added to invalidSet of {destination}`.
+ =================== 
+Template: `BLOCK* NameSystem.delete: {block} is added to invalidSet of {ip_address}`.
+ =================== 
+Template: `BLOCK* NameSystem.delete: {block} is added to invalidSet of {destination}`.
+ =================== 
+The template is `BLOCK* NameSystem.delete: {block} is added to invalidSet of {ip_address}`.
+ =================== 
+Template: `BLOCK* NameSystem.delete: {block} is added to invalidSet of {destination}`.
+ =================== 
+Template: `BLOCK* NameSystem.delete: {block} is added to invalidSet of {destination}`.
+ =================== 
+Template: `BLOCK* NameSystem.delete: {block} is added to invalidSet of {ip_address}`.
+ =================== 
+Template: `BLOCK* NameSystem.delete: {block} is added to invalidSet of {destination}`.
+ =================== 
+Template: `BLOCK* NameSystem.delete: {block} is added to invalidSet of {destination}`.
+ =================== 
+Template: `BLOCK* NameSystem.delete: {block} is added to invalidSet of {ip_address}`.
+ =================== 
+Template: `Deleting block {block} file {path}`.
+ =================== 
+Template: `BLOCK* NameSystem.allocateBlock: {path} {block}`.
+ =================== 
+Template: `Deleting block {block} file {path}`.
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+Template: `Deleting block {block} file {path}`.
+ =================== 
+Template: `Deleting block {block} file {path}`.
+ =================== 
+Template: `BLOCK* NameSystem.allocateBlock: {path} {block}`.
+ =================== 
+Template: `Deleting block {block} file {path}`.
+ =================== 
+Template: `Deleting block {block} file {path}`.
+ =================== 
+Template: `Deleting block {block} file {path}`.
+ =================== 
+Template: `Deleting block {block} file {path}`.
+ =================== 
+Template: `Receiving block {block} src: {source} dest: {destination}`.
+ =================== 
+Template: `Deleting block {block} file {path}`.
+ =================== 
+Template: `Deleting block {block} file {path}`.
+ =================== 
+Template: `Deleting block {block} file {path}`.
+ =================== 
+Template: `Deleting block {block} file {path}`.
+ =================== 
+Template: `Deleting block {block} file {path}`.
+ =================== 
+Template: `Received block {block} of size {size} from {path}`.
+ =================== 
+Template: `Receiving block {block} src: {source} dest: {destination}`.
+ =================== 
+The template is `Received block {block} of size {size} from {path}`.
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`
+ =================== 
+Template: `BLOCK* NameSystem.allocateBlock: {path} {block}`.
+ =================== 
+Template: `Receiving block {block} src: {source} dest: {destination}`.
+ =================== 
+Template: `Received block {block} of size {size} from {path}`.
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+Template: `Received block {block} of size {size} from {path}`.
+ =================== 
+Template: `Received block {block} of size {size} from {path}`.
+ =================== 
+Template: `BLOCK* ask {source} to delete {block}`.
+ =================== 
+Template: `Receiving block {block} src: {source} dest: {destination}`.
+ =================== 
+Template: `Receiving block {block} src: {source} dest: {destination}`.
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`
+ =================== 
+Template: `Receiving block {block} src: {source} dest: {destination}`.
+ =================== 
+Template: `Receiving block {block} src: {source} dest: {destination}`.
+ =================== 
+Template: `Received block {block} of size {size} from {path}`.
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+Template: `Receiving block {block} src: {source} dest: {destination}`.
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+Template: `BLOCK* NameSystem.allocateBlock: {path} {block}`.
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+Template: `Received block {block} of size {size} from {path}`.
+ =================== 
+Template: `Receiving block {block} src: {source} dest: {destination}`.
+ =================== 
+The template is `Received block {block} of size {size} from {path}`.
+ =================== 
+Template: `Receiving block {block} src: {source} dest: {destination}`.
+ =================== 
+Template: `Receiving block {block} src: {source} dest: {destination}`.
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+Template: `Receiving block {block} src: {source} dest: {destination}`.
+ =================== 
+Template: `Received block {block} of size {size} from {path}`.
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+Template: `Received block {block} of size {size} from {path}`.
+ =================== 
+The template is `Received block {block} of size {size} from {path}`.
+ =================== 
+Template: `Receiving block {block} src: {source} dest: {destination}`.
+ =================== 
+Template: `Receiving block {block} src: {source} dest: {destination}`.
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+Template: `Receiving block {block} src: {source} dest: {destination}`.
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+Template: `Receiving block {block} src: {source} dest: {destination}`.
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+Template: `Receiving block {block} src: {source} dest: {destination}`.
+ =================== 
+Template: `Received block {block} of size {size} from {path}`.
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`
+ =================== 
+The template is `Received block {block} of size {size} from {path}`.
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`
+ =================== 
+Template: `Received block {block} of size {size} from {path}`.
+ =================== 
+Template: `BLOCK* NameSystem.allocateBlock: {path} {block}`.
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`
+ =================== 
+Template: `BLOCK* NameSystem.allocateBlock: {path} {block}`.
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+Template: `Receiving block {block} src: {source} dest: {destination}`.
+ =================== 
+Template: `Receiving block {block} src: {source} dest: {destination}`.
+ =================== 
+Template: `Received block {block} of size {size} from {path}`.
+ =================== 
+Template: `Received block {block} of size {size} from {path}`.
+ =================== 
+The template is `Received block {block} of size {size} from {path}`.
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+Template: `Received block {block} of size {size} from {path}`.
+ =================== 
+The template is: `Received block {block} of size {size} from {path}`.
+ =================== 
+Template: `BLOCK* NameSystem.allocateBlock: {path} {block}`.
+ =================== 
+Template: `Receiving block {block} src: {source} dest: {destination}`.
+ =================== 
+Template: `Receiving block {block} src: {source} dest: {destination}`.
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+Template: `Verification succeeded for {block}`.
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`
+ =================== 
+Template: `Received block {block} of size {size} from {path}`.
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+Template: `BLOCK* NameSystem.delete: {block} is added to invalidSet of {destination}`.
+ =================== 
+Template: `BLOCK* NameSystem.delete: {block} is added to invalidSet of {destination}`.
+ =================== 
+Template: `{process} Served block {block} to {path}`.
+ =================== 
+The template is: `{ip_address}:Got exception while serving {path} to {destination}:`
+ =================== 
+The template is: `{ip_address}:50010:Got exception while serving {block} to {destination}:`
+ =================== 
+Template: `{process} Served block {block} to {path}`.
+ =================== 
+The template is: `{ip_address}:50010 Served block {block} to {path}`.
+ =================== 
+The template is: `{ip_address}:Got exception while serving {block} to {destination}:`
+ =================== 
+Template: `{ip_address}:50010 Served block {block} to {destination}`.
+ =================== 
+The template is: `{process} Served block {block} to {path}`.
+ =================== 
+Template: `{process} Served block {block} to {path}`.
+ =================== 
+Template: `{process} Served block {block} to {path}`.
+ =================== 
+Template: `{process} Served block {block} to {path}`.
+ =================== 
+Template: `{ip_address}:50010:Got exception while serving {block} to {destination}:`
+ =================== 
+The template is: `{ip_address}:Served block {block} to {destination}`.
+ =================== 
+The template is: `{ip_address}:Got exception while serving {block} to {destination}:`
+ =================== 
+The template is: `{ip_address}:Got exception while serving {block} to {destination}:`
+ =================== 
+The template is: `{ip_address}:50010 Served block {block} to {path}`.
+ =================== 
+The template is: `{process} Served block {block} to {path}`.
+ =================== 
+The template is: `{process} Served block {block} to {path}`.
+ =================== 
+The template is: `{ip_address}:50010:Got exception while serving {block} to {destination}:`
+ =================== 
+The template is: `{process} Served block {block} to {path}`.
+ =================== 
+The template is: `{ip_address}:50010 Served block {block} to {destination}`.
+ =================== 
+Template: `BLOCK* NameSystem.delete: {block} is added to invalidSet of {destination}`.
+ =================== 
+Template: `BLOCK* NameSystem.delete: {block} is added to invalidSet of {ip_address}`.
+ =================== 
+Template: `BLOCK* NameSystem.delete: {block} is added to invalidSet of {destination}`.
+ =================== 
+Template: `BLOCK* NameSystem.delete: {block} is added to invalidSet of {destination}`.
+ =================== 
+Template: `BLOCK* NameSystem.delete: {block} is added to invalidSet of {ip_address}`.
+ =================== 
+Template: `BLOCK* NameSystem.delete: {block} is added to invalidSet of {destination}`.
+ =================== 
+Template: `BLOCK* NameSystem.delete: {block} is added to invalidSet of {destination}`.
+ =================== 
+Template: `BLOCK* NameSystem.delete: {block} is added to invalidSet of {destination}`.
+ =================== 
+Template: `BLOCK* NameSystem.delete: {block} is added to invalidSet of {destination}`.
+ =================== 
+Template: `BLOCK* NameSystem.delete: {block} is added to invalidSet of {destination}`.
+ =================== 
+Template: `BLOCK* NameSystem.delete: {block} is added to invalidSet of {ip_address}`.
+ =================== 
+Template: `BLOCK* NameSystem.delete: {block} is added to invalidSet of {destination}`.
+ =================== 
+Template: `BLOCK* NameSystem.delete: {block} is added to invalidSet of {destination}`.
+ =================== 
+Template: `BLOCK* NameSystem.delete: {block} is added to invalidSet of {destination}`.
+ =================== 
+Template: `BLOCK* NameSystem.delete: {block} is added to invalidSet of {destination}`.
+ =================== 
+Template: `BLOCK* NameSystem.delete: {block} is added to invalidSet of {destination}`.
+ =================== 
+Template: `BLOCK* NameSystem.delete: {block} is added to invalidSet of {destination}`.
+ =================== 
+Template: `BLOCK* NameSystem.delete: {block} is added to invalidSet of {ip_address}`.
+ =================== 
+Template: `BLOCK* NameSystem.delete: {block} is added to invalidSet of {ip_address}`.
+ =================== 
+Template: `BLOCK* NameSystem.delete: {block} is added to invalidSet of {destination}`.
+ =================== 
+Template: `BLOCK* NameSystem.delete: {block} is added to invalidSet of {destination}`.
+ =================== 
+Template: `BLOCK* NameSystem.delete: {block} is added to invalidSet of {destination}`.
+ =================== 
+Template: `Deleting block {block} file {path}`.
+ =================== 
+Template: `Deleting block {block} file {path}`.
+ =================== 
+Template: `Deleting block {block} file {path}`.
+ =================== 
+Template: `Deleting block {block} file {path}`.
+ =================== 
+Template: `Deleting block {block} file {path}`.
+ =================== 
+Template: `{process} Served block {block} to {path}`.
+ =================== 
+Template: `Received block {block} of size {size} from {path}`.
+ =================== 
+Template: `Deleting block {block} file {path}`.
+ =================== 
+Template: `Deleting block {block} file {path}`.
+ =================== 
+Template: `Deleting block {block} file {path}`.
+ =================== 
+Template: `Deleting block {block} file {path}`.
+ =================== 
+Template: `Deleting block {block} file {path}`.
+ =================== 
+Template: `Deleting block {block} file {path}`.
+ =================== 
+Template: `Deleting block {block} file {path}`.
+ =================== 
+Template: `Deleting block {block} file {path}`.
+ =================== 
+Template: `Deleting block {block} file {path}`.
+ =================== 
+Template: `Deleting block {block} file {path}`.
+ =================== 
+Template: `Deleting block {block} file {path}`.
+ =================== 
+Template: `Deleting block {block} file {path}`.
+ =================== 
+Template: `Deleting block {block} file {path}`.
+ =================== 
+Template: `Deleting block {block} file {path}`.
+ =================== 
+Template: `Deleting block {block} file {path}`.
+ =================== 
+Template: `Deleting block {block} file {path}`.
+ =================== 
+Template: `Deleting block {block} file {path}`.
+ =================== 
+The template is `Received block {block} of size {size} from {path}`.
+ =================== 
+Template: `{process} Served block {block} to {path}`.
+ =================== 
+Template: `Received block {block} of size {size} from {path}`.
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+Template: `Receiving block {block} src: {source} dest: {destination}`.
+ =================== 
+The template is: `Received block {block} of size {size} from {path}`.
+ =================== 
+Template: `Receiving block {block} src: {source} dest: {destination}`.
+ =================== 
+Template: `BLOCK* NameSystem.allocateBlock: {path} {block}`.
+ =================== 
+Template: `BLOCK* NameSystem.allocateBlock: {path} {block}`.
+ =================== 
+Template: `Receiving block {block} src: {source} dest: {destination}`.
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+Template: `Receiving block {block} src: {source} dest: {destination}`.
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+Template: `Received block {block} of size {size} from {path}`.
+ =================== 
+Template: `Receiving block {block} src: {source} dest: {destination}`.
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`
+ =================== 
+Template: `Receiving block {block} src: {source} dest: {destination}`.
+ =================== 
+The template is `Received block {block} of size {size} from {path}`.
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`
+ =================== 
+Template: `Receiving block {block} src: {source} dest: {destination}`.
+ =================== 
+Template: `Receiving block {block} src: {source} dest: {destination}`.
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`.
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`
+ =================== 
+Template: `Receiving block {block} src: {source} dest: {destination}`.
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+Template: `Receiving block {block} src: {source} dest: {destination}`.
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+Template: `Receiving block {block} src: {source} dest: {destination}`.
+ =================== 
+Template: `Receiving block {block} src: {source} dest: {destination}`.
+ =================== 
+Template: `Receiving block {block} src: {source} dest: {destination}`.
+ =================== 
+Template: `BLOCK* NameSystem.allocateBlock: {path} {block}`.
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+Template: `Received block {block} of size {size} from {path}`.
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`
+ =================== 
+Template: `Receiving block {block} src: {source} dest: {destination}`.
+ =================== 
+Template: `BLOCK* NameSystem.allocateBlock: {path} {block}`.
+ =================== 
+Template: `Receiving block {block} src: {source} dest: {destination}`.
+ =================== 
+Template: `Received block {block} of size {size} from {path}`.
+ =================== 
+Template: `Receiving block {block} src: {source} dest: {destination}`.
+ =================== 
+Template: `Receiving block {block} src: {source} dest: {destination}`.
+ =================== 
+Template: `Receiving block {block} src: {source} dest: {destination}`.
+ =================== 
+Template: `Receiving block {block} src: {source} dest: {destination}`.
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+Template: `BLOCK* NameSystem.allocateBlock: {path} {block}`.
+ =================== 
+Template: `Received block {block} of size {size} from {path}`.
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+The template is `Received block {block} of size {size} from {path}`.
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`
+ =================== 
+The template is `Received block {block} of size {size} from {path}`.
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`
+ =================== 
+Template: `Received block {block} of size {size} from {path}`.
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+Template: `BLOCK* NameSystem.allocateBlock: {path} {block}`.
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+Template: `BLOCK* NameSystem.allocateBlock: {path} {block}`.
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`
+ =================== 
+Template: `Receiving block {block} src: {source} dest: {destination}`.
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+The template is `Received block {block} of size {size} from {path}`.
+ =================== 
+Template: `Received block {block} of size {size} from {path}`.
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`
+ =================== 
+Template: `Receiving block {block} src: {source} dest: {destination}`.
+ =================== 
+The template is `Received block {block} of size {size} from {path}`.
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`
+ =================== 
+Template: `Receiving block {block} src: {source} dest: {destination}`.
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`
+ =================== 
+Template: `BLOCK* NameSystem.delete: {block} is added to invalidSet of {destination}`.
+ =================== 
+Template: `BLOCK* NameSystem.delete: {block} is added to invalidSet of {destination}`.
+ =================== 
+Template: `BLOCK* NameSystem.delete: {block} is added to invalidSet of {destination}`.
+ =================== 
+Template: `Deleting block {block} file {path}`.
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`
+ =================== 
+The template is `Received block {block} of size {size} from {path}`.
+ =================== 
+Template: `Receiving block {block} src: {source} dest: {destination}`.
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`
+ =================== 
+Template: `BLOCK* NameSystem.allocateBlock: {path} {block}`.
+ =================== 
+Template: `Receiving block {block} src: {source} dest: {destination}`.
+ =================== 
+Template: `Received block {block} of size {size} from {path}`.
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+Template: `Received block {block} of size {size} from {path}`.
+ =================== 
+Template: `Received block {block} of size {size} from {path}`.
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`
+ =================== 
+Template: `Receiving block {block} src: {source} dest: {destination}`.
+ =================== 
+Template: `Receiving block {block} src: {source} dest: {destination}`.
+ =================== 
+Template: `Received block {block} of size {size} from {path}`.
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`
+ =================== 
+Template: `Received block {block} of size {size} from {path}`.
+ =================== 
+Template: `BLOCK* NameSystem.allocateBlock: {path} {block}`.
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`
+ =================== 
+Template: `Receiving block {block} src: {source} dest: {destination}`.
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`
+ =================== 
+Template: `Receiving block {block} src: {source} dest: {destination}`.
+ =================== 
+Template: `Receiving block {block} src: {source} dest: {destination}`.
+ =================== 
+The template is `Received block {block} of size {size} from {path}`.
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+Template: `Received block {block} of size {size} from {path}`.
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+The template is: `Received block {block} of size {size} from {path}`.
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`
+ =================== 
+Template: `Receiving block {block} src: {source} dest: {destination}`.
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`
+ =================== 
+Template: `Received block {block} of size {size} from {path}`.
+ =================== 
+Template: `Receiving block {block} src: {source} dest: {destination}`.
+ =================== 
+Template: `Receiving block {block} src: {source} dest: {destination}`.
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`
+ =================== 
+Template: `Receiving block {block} src: {source} dest: {destination}`.
+ =================== 
+Template: `Receiving block {block} src: {source} dest: {destination}`.
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`
+ =================== 
+Template: `Receiving block {block} src: {source} dest: {destination}`.
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`
+ =================== 
+Template: `Receiving block {block} src: {source} dest: {destination}`.
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+Template: `Receiving block {block} src: {source} dest: {destination}`.
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`
+ =================== 
+Template: `Receiving block {block} src: {source} dest: {destination}`.
+ =================== 
+Template: `Received block {block} of size {size} from {path}`.
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`
+ =================== 
+Template: `Receiving block {block} src: {source} dest: {destination}`.
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+Template: `BLOCK* NameSystem.allocateBlock: {path} {block}`.
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`
+ =================== 
+Template: `Receiving block {block} src: {source} dest: {destination}`.
+ =================== 
+Template: `Receiving block {block} src: {source} dest: {destination}`.
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+The template is: `Received block {block} of size {size} from {path}`.
+ =================== 
+Template: `Received block {block} of size {size} from {path}`.
+ =================== 
+Template: `Receiving block {block} src: {source} dest: {destination}`.
+ =================== 
+Template: `Received block {block} of size {size} from {path}`.
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+Template: `BLOCK* NameSystem.delete: {block} is added to invalidSet of {ip_address}`.
+ =================== 
+Template: `BLOCK* NameSystem.delete: {block} is added to invalidSet of {destination}`.
+ =================== 
+Template: `BLOCK* NameSystem.delete: {block} is added to invalidSet of {destination}`.
+ =================== 
+Template: `BLOCK* NameSystem.delete: {block} is added to invalidSet of {destination}`.
+ =================== 
+Template: `BLOCK* NameSystem.delete: {block} is added to invalidSet of {destination}`.
+ =================== 
+Template: `BLOCK* NameSystem.delete: {block} is added to invalidSet of {destination}`.
+ =================== 
+Template: `BLOCK* NameSystem.delete: {block} is added to invalidSet of {destination}`.
+ =================== 
+Template: `BLOCK* NameSystem.delete: {block} is added to invalidSet of {ip_address}:{port}`.
+ =================== 
+Template: `BLOCK* NameSystem.delete: {block} is added to invalidSet of {destination}`.
+ =================== 
+Template: `BLOCK* NameSystem.delete: {block} is added to invalidSet of {destination}`.
+ =================== 
+Template: `BLOCK* NameSystem.delete: {block} is added to invalidSet of {ip_address}`.
+ =================== 
+Template: `BLOCK* NameSystem.delete: {block} is added to invalidSet of {destination}`.
+ =================== 
+Template: `BLOCK* NameSystem.delete: {block} is added to invalidSet of {destination}`.
+ =================== 
+Template: `BLOCK* NameSystem.delete: {block} is added to invalidSet of {destination}`.
+ =================== 
+Template: `BLOCK* NameSystem.delete: {block} is added to invalidSet of {destination}`.
+ =================== 
+Template: `BLOCK* NameSystem.delete: {block} is added to invalidSet of {destination}`.
+ =================== 
+Template: `BLOCK* NameSystem.delete: {block} is added to invalidSet of {ip_address}`.
+ =================== 
+Template: `Verification succeeded for {block}`.
+ =================== 
+Template: `BLOCK* NameSystem.delete: {block} is added to invalidSet of {destination}`.
+ =================== 
+Template: `BLOCK* NameSystem.delete: {block} is added to invalidSet of {ip_address}:{port}`.
+ =================== 
+Template: `BLOCK* NameSystem.delete: {block} is added to invalidSet of {destination}`.
+ =================== 
+Template: `BLOCK* NameSystem.delete: {block} is added to invalidSet of {destination}`.
+ =================== 
+Template: `BLOCK* NameSystem.delete: {block} is added to invalidSet of {destination}`.
+ =================== 
+Template: `BLOCK* NameSystem.delete: {block} is added to invalidSet of {destination}`.
+ =================== 
+Template: `BLOCK* NameSystem.delete: {block} is added to invalidSet of {ip_address}`.
+ =================== 
+Template: `BLOCK* NameSystem.delete: {block} is added to invalidSet of {destination}`.
+ =================== 
+Template: `Deleting block {block} file {path}`.
+ =================== 
+Template: `Receiving block {block} src: {source} dest: {destination}`.
+ =================== 
+Template: `Deleting block {block} file {path}`.
+ =================== 
+Template: `Deleting block {block} file {path}`.
+ =================== 
+Template: `Deleting block {block} file {path}`.
+ =================== 
+The template is: `Received block {block} of size {size} from {path}`.
+ =================== 
+Template: `Deleting block {block} file {path}`.
+ =================== 
+Template: `Deleting block {block} file {path}`.
+ =================== 
+Template: `Deleting block {block} file {path}`.
+ =================== 
+Template: `Deleting block {block} file {path}`.
+ =================== 
+Template: `Deleting block {block} file {path}`.
+ =================== 
+The template is `Received block {block} of size {size} from {path}`.
+ =================== 
+Template: `Deleting block {block} file {path}`.
+ =================== 
+Template: `Deleting block {block} file {path}`.
+ =================== 
+Template: `Deleting block {block} file {path}`.
+ =================== 
+Template: `Deleting block {block} file {path}`.
+ =================== 
+Template: `Deleting block {block} file {path}`.
+ =================== 
+Template: `Deleting block {block} file {path}`.
+ =================== 
+Template: `Deleting block {block} file {path}`.
+ =================== 
+Template: `Deleting block {block} file {path}`.
+ =================== 
+Template: `Deleting block {block} file {path}`.
+ =================== 
+Template: `Deleting block {block} file {path}`.
+ =================== 
+Template: `Deleting block {block} file {path}`.
+ =================== 
+Template: `Deleting block {block} file {path}`.
+ =================== 
+Template: `Deleting block {block} file {path}`.
+ =================== 
+Template: `Deleting block {block} file {path}`.
+ =================== 
+Template: `Receiving block {block} src: {source} dest: {destination}`.
+ =================== 
+Template: `Deleting block {block} file {path}`.
+ =================== 
+Template: `Deleting block {block} file {path}`.
+ =================== 
+Template: `Deleting block {block} file {path}`.
+ =================== 
+Template: `Deleting block {block} file {path}`.
+ =================== 
+Template: `Deleting block {block} file {path}`.
+ =================== 
+Template: `Deleting block {block} file {path}`.
+ =================== 
+Template: `Deleting block {block} file {path}`.
+ =================== 
+Template: `Deleting block {block} file {path}`.
+ =================== 
+Template: `Receiving block {block} src: {source} dest: {destination}`.
+ =================== 
+Template: `Deleting block {block} file {path}`.
+ =================== 
+Template: `Deleting block {block} file {path}`.
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+Template: `Receiving block {block} src: {source} dest: {destination}`.
+ =================== 
+The template is `Received block {block} of size {size} from {path}`.
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+Template: `Receiving block {block} src: {source} dest: {destination}`.
+ =================== 
+Template: `BLOCK* NameSystem.allocateBlock: {path} {block}`.
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+The template is `Received block {block} of size {size} from {path}`.
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`
+ =================== 
+Template: `Receiving block {block} src: {source} dest: {destination}`.
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+Template: `BLOCK* NameSystem.allocateBlock: {path} {block}`.
+ =================== 
+Template: `Received block {block} of size {size} from {path}`.
+ =================== 
+Template: `Receiving block {block} src: {source} dest: {destination}`.
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+Template: `Received block {block} src: {source} dest: {destination} of size {size}`.
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+Template: `Receiving block {block} src: {source} dest: {destination}`.
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+Template: `Received block {block} of size {size} from {path}`.
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+Template: `Receiving block {block} src: {source} dest: {destination}`.
+ =================== 
+The template is `Received block {block} of size {size} from {path}`.
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+Template: `Received block {block} of size {size} from {path}`.
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+Template: `Receiving block {block} src: {source} dest: {destination}`.
+ =================== 
+Template: `Receiving block {block} src: {source} dest: {destination}`.
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+The template is: `Received block {block} of size {size} from {path}`.
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+The template is: `Received block {block} of size {size} from {path}`.
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`
+ =================== 
+Template: `Received block {block} of size {size} from {path}`.
+ =================== 
+Template: `Receiving block {block} src: {source} dest: {destination}`.
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`
+ =================== 
+Template: `Receiving block {block} src: {source} dest: {destination}`.
+ =================== 
+Template: `Receiving block {block} src: {source} dest: {destination}`.
+ =================== 
+Template: `Receiving block {block} src: {source} dest: {destination}`.
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`
+ =================== 
+The template is `Received block {block} of size {size} from {path}`.
+ =================== 
+Template: `Received block {block} of size {size} from {path}`.
+ =================== 
+The template is `Received block {block} of size {size} from {path}`.
+ =================== 
+Template: `BLOCK* NameSystem.allocateBlock: {path} {block}`.
+ =================== 
+Template: `Receiving block {block} src: {source} dest: {destination}`.
+ =================== 
+Template: `Receiving block {block} src: {source} dest: {destination}`.
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+Template: `Received block {block} of size {size} from {path}`.
+ =================== 
+Template: `BLOCK* NameSystem.allocateBlock: {path} {block}`.
+ =================== 
+Template: `Receiving block {block} src: {source} dest: {destination}`.
+ =================== 
+The template is `Received block {block} of size {size} from {path}`.
+ =================== 
+Template: `Receiving block {block} src: {source} dest: {destination}`.
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`
+ =================== 
+Template: `Receiving block {block} src: {source} dest: {destination}`.
+ =================== 
+Template: `Received block {block} of size {size} from {path}`.
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+Template: `Received block {block} of size {size} from {path}`.
+ =================== 
+Template: `Received block {block} of size {size} from {path}`.
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`
+ =================== 
+Template: `BLOCK* NameSystem.delete: {block} is added to invalidSet of {ip_address}`.
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`
+ =================== 
+Template: `Received block {block} of size {size} from {path}`.
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`
+ =================== 
+Template: `Received block {block} of size {size} from {path}`.
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`
+ =================== 
+Template: `Receiving block {block} src: {source} dest: {destination}`.
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`
+ =================== 
+Template: `Received block {block} of size {size} from {path}`.
+ =================== 
+Template: `Received block {block} of size {size} from {path}`.
+ =================== 
+Template: `Received block {block} of size {size} from {path}`.
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`
+ =================== 
+Template: `Received block {block} of size {size} from {path}`.
+ =================== 
+Template: `BLOCK* NameSystem.allocateBlock: {path} {block}`.
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+Template: `BLOCK* NameSystem.allocateBlock: {path} {block}`.
+ =================== 
+Template: `Received block {block} of size {size} from {path}`.
+ =================== 
+Template: `Received block {block} of size {size} from {path}`.
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`
+ =================== 
+Template: `Received block {block} of size {size} from {path}`.
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`
+ =================== 
+Template: `Receiving block {block} src: {source} dest: {destination}`.
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`
+ =================== 
+Template: `Receiving block {block} src: {source} dest: {destination}`.
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+Template: `Receiving block {block} src: {source} dest: {destination}`.
+ =================== 
+Template: `BLOCK* NameSystem.allocateBlock: {path} {block}`.
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`
+ =================== 
+The template is `Received block {block} of size {size} from {path}`.
+ =================== 
+The template is: `Received block {block} of size {size} from {path}`.
+ =================== 
+Template: `Received block {block} of size {size} from {path}`.
+ =================== 
+Template: `BLOCK* NameSystem.allocateBlock: {path} {block}`.
+ =================== 
+The template is `Received block {block} of size {size} from {path}`.
+ =================== 
+Template: `Receiving block {block} src: {source} dest: {destination}`.
+ =================== 
+Template: `Received block {block} of size {size} from {path}`.
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+Template: `BLOCK* NameSystem.allocateBlock: {path} {block}`.
+ =================== 
+Template: `BLOCK* NameSystem.allocateBlock: {path} {block}`.
+ =================== 
+Template: `Receiving block {block} src: {source} dest: {destination}`.
+ =================== 
+Template: `BLOCK* NameSystem.allocateBlock: {path} {block}`.
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+Template: `Receiving block {block} src: {source} dest: {destination}`.
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`
+ =================== 
+Template: `BLOCK* NameSystem.allocateBlock: {path} {block}`.
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`
+ =================== 
+The template is `Received block {block} of size {size} from {path}`.
+ =================== 
+Template: `BLOCK* NameSystem.allocateBlock: {path} {block}`.
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+Template: `Receiving block {block} src: {source} dest: {destination}`.
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`
+ =================== 
+Template: `Receiving block {block} src: {source} dest: {destination}`.
+ =================== 
+Template: `Receiving block {block} src: {source} dest: {destination}`.
+ =================== 
+Template: `BLOCK* NameSystem.delete: {block} is added to invalidSet of {destination}`.
+ =================== 
+Template: `BLOCK* NameSystem.delete: {block} is added to invalidSet of {ip_address}`.
+ =================== 
+Template: `BLOCK* NameSystem.delete: {block} is added to invalidSet of {ip_address}:{port}`.
+ =================== 
+Template: `BLOCK* NameSystem.delete: {block} is added to invalidSet of {destination}`.
+ =================== 
+Template: `BLOCK* NameSystem.delete: {block} is added to invalidSet of {destination}`.
+ =================== 
+Template: `BLOCK* NameSystem.delete: {block} is added to invalidSet of {destination}`.
+ =================== 
+Template: `BLOCK* NameSystem.delete: {block} is added to invalidSet of {destination}`.
+ =================== 
+Template: `BLOCK* NameSystem.delete: {block} is added to invalidSet of {ip_address}`.
+ =================== 
+Template: `BLOCK* NameSystem.delete: {block} is added to invalidSet of {destination}`.
+ =================== 
+Template: `BLOCK* NameSystem.delete: {block} is added to invalidSet of {ip_address}`.
+ =================== 
+Template: `BLOCK* NameSystem.delete: {block} is added to invalidSet of {ip_address}`.
+ =================== 
+Template: `BLOCK* NameSystem.delete: {block} is added to invalidSet of {destination}`.
+ =================== 
+Template: `BLOCK* NameSystem.delete: {block} is added to invalidSet of {destination}`.
+ =================== 
+Template: `BLOCK* NameSystem.delete: {block} is added to invalidSet of {destination}`.
+ =================== 
+Template: `BLOCK* NameSystem.delete: {block} is added to invalidSet of {destination}`.
+ =================== 
+Template: `BLOCK* NameSystem.delete: {block} is added to invalidSet of {destination}`.
+ =================== 
+Template: `BLOCK* NameSystem.delete: {block} is added to invalidSet of {destination}`.
+ =================== 
+Template: `Deleting block {block} file {path}`.
+ =================== 
+The template is: `BLOCK* ask {source} to delete {blocks}`.
+ =================== 
+Template: `Deleting block {block} file {path}`.
+ =================== 
+The template of `BLOCK* ask 10.250.10.213:50010 to delete  blk_4029139044660806713 blk_-5471189807977280544 blk_6708643067868168687 blk_-500678958150296008 blk_-8597840983621849778 blk_-3610057702150392748 blk_-1709606535283888232 blk_-4154362211643572668 blk_-8892080524136798472 blk_5356427838869009345 blk_-6987238639050161133 blk_-5215128860160823363 blk_7186692462976470823 blk_-6538449588297475521 blk_-2165930080589343952 blk_-5524899010031625427 blk_6384439316405471171 blk_-2965258329365213675 blk_1189509375` is `BLOCK* ask {source} to delete {blocks}`.
+ =================== 
+The template is `Received block {block} of size {size} from {path}`.
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`
+ =================== 
+Template: `Deleting block {block} file {path}`.
+ =================== 
+Template: `Deleting block {block} file {path}`.
+ =================== 
+Template: `Deleting block {block} file {path}`.
+ =================== 
+Template: `Deleting block {block} file {path}`.
+ =================== 
+Template: `Deleting block {block} file {path}`.
+ =================== 
+Template: `Deleting block {block} file {path}`.
+ =================== 
+Template: `Deleting block {block} file {path}`.
+ =================== 
+Template: `Deleting block {block} file {path}`.
+ =================== 
+Template: `Deleting block {block} file {path}`.
+ =================== 
+Template: `Deleting block {block} file {path}`.
+ =================== 
+Template: `Deleting block {block} file {path}`.
+ =================== 
+Template: `Deleting block {block} file {path}`.
+ =================== 
+Template: `Deleting block {block} file {path}`.
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`
+ =================== 
+Template: `Deleting block {block} file {path}`.
+ =================== 
+Template: `Deleting block {block} file {path}`.
+ =================== 
+Template: `Deleting block {block} file {path}`.
+ =================== 
+Template: `Deleting block {block} file {path}`.
+ =================== 
+Template: `Deleting block {block} file {path}`.
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`
+ =================== 
+Template: `Deleting block {block} file {path}`.
+ =================== 
+Template: `Receiving block {block} src: {source} dest: {destination}`.
+ =================== 
+Template: `Receiving block {block} src: {source} dest: {destination}`.
+ =================== 
+Template: `BLOCK* NameSystem.allocateBlock: {path} {block}`.
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+Template: `Deleting block {block} file {path}`.
+ =================== 
+Template: `BLOCK* NameSystem.allocateBlock: {path} {block}`.
+ =================== 
+Template: `Received block {block} of size {size} from {path}`.
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`
+ =================== 
+Template: `Receiving block {block} src: {source} dest: {destination}`.
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+Template: `Verification succeeded for {block}`.
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`
+ =================== 
+Template: `BLOCK* NameSystem.allocateBlock: {path} {block}`.
+ =================== 
+Template: `BLOCK* NameSystem.allocateBlock: {path} {block}`.
+ =================== 
+Template: `Received block {block} of size {size} from {path}`.
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`
+ =================== 
+Template: `BLOCK* NameSystem.allocateBlock: {path} {block}`.
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+The template is: `Received block {block} of size {size} from {path}`.
+ =================== 
+Template: `Received block {block} of size {size} from {path}`.
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`
+ =================== 
+Template: `Received block {block} of size {size} from {path}`.
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+Template: `Receiving block {block} src: {source} dest: {destination}`.
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`
+ =================== 
+Template: `Receiving block {block} src: {source} dest: {destination}`.
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+Template: `BLOCK* NameSystem.allocateBlock: {path} {block}`.
+ =================== 
+Template: `Received block {block} of size {size} from {path}`.
+ =================== 
+Template: `Received block {block} of size {size} from {path}`.
+ =================== 
+Template: `Received block {block} of size {size} from {path}`.
+ =================== 
+Template: `BLOCK* NameSystem.allocateBlock: {path} {block}`.
+ =================== 
+Template: `Received block {block} of size {size} from {path}`.
+ =================== 
+The template is `Received block {block} of size {size} from {path}`.
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+Template: `Receiving block {block} src: {source} dest: {destination}`.
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`
+ =================== 
+Template: `Receiving block {block} src: {source} dest: {destination}`.
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+The template is `Received block {block} of size {size} from {path}`.
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`
+ =================== 
+Template: `Receiving block {block} src: {source} dest: {destination}`.
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`
+ =================== 
+Template: `Receiving block {block} src: {source} dest: {destination}`.
+ =================== 
+Template: `BLOCK* NameSystem.allocateBlock: {path} {block}`.
+ =================== 
+Template: `Received block {block} of size {size} from {path}`.
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`
+ =================== 
+The template is `Received block {block} of size {size} from {path}`.
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+Template: `Received block {block} of size {size} from {path}`.
+ =================== 
+Template: `Receiving block {block} src: {source} dest: {destination}`.
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`
+ =================== 
+The template is `Received block {block} of size {size} from {path}`.
+ =================== 
+Template: `Receiving block {block} src: {source} dest: {destination}`.
+ =================== 
+Template: `Received block {block} of size {size} from {path}`.
+ =================== 
+Template: `Received block {block} of size {size} from {path}`.
+ =================== 
+Template: `Received block {block} of size {size} from {path}`.
+ =================== 
+Template: `Received block {block} of size {size} from {path}`.
+ =================== 
+Template: `Receiving block {block} src: {source} dest: {destination}`.
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`
+ =================== 
+The template is `Received block {block} of size {size} from {path}`.
+ =================== 
+Template: `Receiving block {block} src: {source} dest: {destination}`.
+ =================== 
+Template: `Received block {block} of size {size} from {path}`.
+ =================== 
+Template: `Received block {block} of size {size} from {path}`.
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`
+ =================== 
+Template: `Received block {block} of size {size} from {path}`.
+ =================== 
+Template: `Receiving block {block} src: {source} dest: {destination}`.
+ =================== 
+Template: `Received block {block} of size {size} from {path}`.
+ =================== 
+Template: `Receiving block {block} src: {source} dest: {destination}`.
+ =================== 
+Template: `BLOCK* NameSystem.allocateBlock: {path} {block}`.
+ =================== 
+Template: `BLOCK* NameSystem.allocateBlock: {path} {block}`.
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`
+ =================== 
+Template: `BLOCK* NameSystem.allocateBlock: {path} {block}`.
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`
+ =================== 
+Template: `Receiving block {block} src: {source} dest: {destination}`.
+ =================== 
+Template: `Receiving block {block} src: {source} dest: {destination}`.
+ =================== 
+Template: `BLOCK* NameSystem.allocateBlock: {path} {block}`.
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+Template: `Receiving block {block} src: {source} dest: {destination}`.
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+Template: `Received block {block} of size {size} from {path}`.
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`
+ =================== 
+Template: `BLOCK* NameSystem.delete: {block} is added to invalidSet of {destination}`.
+ =================== 
+Template: `BLOCK* NameSystem.delete: {block} is added to invalidSet of {destination}`.
+ =================== 
+Template: `BLOCK* NameSystem.delete: {block} is added to invalidSet of {destination}`.
+ =================== 
+Template: `BLOCK* NameSystem.delete: {block} is added to invalidSet of {destination}`.
+ =================== 
+Template: `BLOCK* NameSystem.delete: {block} is added to invalidSet of {destination}`.
+ =================== 
+Template: `BLOCK* NameSystem.delete: {block} is added to invalidSet of {destination}`.
+ =================== 
+The template is `BLOCK* NameSystem.delete: {block} is added to invalidSet of {ip_address}:{port}`.
+ =================== 
+Template: `BLOCK* NameSystem.delete: {block} is added to invalidSet of {destination}`.
+ =================== 
+Template: `BLOCK* NameSystem.delete: {block} is added to invalidSet of {destination}`.
+ =================== 
+The template is `BLOCK* NameSystem.delete: {block} is added to invalidSet of {ip_address}`.
+ =================== 
+Template: `BLOCK* NameSystem.delete: {block} is added to invalidSet of {destination}`.
+ =================== 
+Template: `BLOCK* NameSystem.delete: {block} is added to invalidSet of {destination}`.
+ =================== 
+Template: `BLOCK* NameSystem.delete: {block} is added to invalidSet of {ip_address}`.
+ =================== 
+Template: `Receiving block {block} src: {source} dest: {destination}`.
+ =================== 
+Template: `Deleting block {block} file {path}`.
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`
+ =================== 
+Template: `Deleting block {block} file {path}`.
+ =================== 
+Template: `Receiving block {block} src: {source} dest: {destination}`.
+ =================== 
+Template: `Deleting block {block} file {path}`.
+ =================== 
+Template: `Deleting block {block} file {path}`.
+ =================== 
+Template: `Deleting block {block} file {path}`.
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`
+ =================== 
+Template: `Deleting block {block} file {path}`.
+ =================== 
+Template: `Deleting block {block} file {path}`.
+ =================== 
+Template: `Deleting block {block} file {path}`.
+ =================== 
+Template: `Deleting block {block} file {path}`.
+ =================== 
+Template: `Deleting block {block} file {path}`.
+ =================== 
+Template: `Deleting block {block} file {path}`.
+ =================== 
+Template: `Deleting block {block} file {path}`.
+ =================== 
+Template: `Deleting block {block} file {path}`.
+ =================== 
+Template: `Deleting block {block} file {path}`.
+ =================== 
+Template: `Deleting block {block} file {path}`.
+ =================== 
+Template: `Deleting block {block} file {path}`.
+ =================== 
+Template: `Deleting block {block} file {path}`.
+ =================== 
+Template: `Deleting block {block} file {path}`.
+ =================== 
+Template: `Deleting block {block} file {path}`.
+ =================== 
+Template: `Deleting block {block} file {path}`.
+ =================== 
+Template: `Deleting block {block} file {path}`.
+ =================== 
+Template: `Deleting block {block} file {path}`.
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+Template: `Deleting block {block} file {path}`.
+ =================== 
+Template: `Deleting block {block} file {path}`.
+ =================== 
+Template: `Receiving block {block} src: {source} dest: {destination}`.
+ =================== 
+Template: `Receiving block {block} src: {source} dest: {destination}`.
+ =================== 
+Template: `Received block {block} of size {size} from {path}`.
+ =================== 
+Template: `Deleting block {block} file {path}`.
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+Template: `Receiving block {block} src: {source} dest: {destination}`.
+ =================== 
+Template: `Received block {block} of size {size} from {path}`.
+ =================== 
+Template: `Receiving block {block} src: {source} dest: {destination}`.
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+The template is `Received block {block} of size {size} from {path}`.
+ =================== 
+Template: `BLOCK* ask {source} to replicate {block} to datanode(s) {destination}`.
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+Template: `Received block {block} of size {size} from {path}`.
+ =================== 
+Template: `Received block {block} src: {source} dest: {destination} of size {size}`.
+ =================== 
+Template: `Receiving block {block} src: {source} dest: {destination}`.
+ =================== 
+Template: `Deleting block {block} file {path}`.
+ =================== 
+The template is `Received block {block} of size {size} from {path}`.
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+Template: `Receiving block {block} src: {source} dest: {destination}`.
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+The template is `Received block {block} of size {size} from {path}`.
+ =================== 
+The template is `Received block {block} of size {size} from {path}`.
+ =================== 
+Template: `Receiving block {block} src: {source} dest: {destination}`.
+ =================== 
+Template: `Received block {block} of size {size} from {path}`.
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`
+ =================== 
+Template: `Receiving block {block} src: {source} dest: {destination}`.
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+Template: `Receiving block {block} src: {source} dest: {destination}`.
+ =================== 
+Template: `Received block {block} of size {size} from {path}`.
+ =================== 
+Template: `BLOCK* NameSystem.allocateBlock: {path} {block}`.
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+Template: `Received block {block} of size {size} from {path}`.
+ =================== 
+Template: `Receiving block {block} src: {source} dest: {destination}`.
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`
+ =================== 
+Template: `Received block {block} of size {size} from {path}`.
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+Template: `Received block {block} of size {size} from {path}`.
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`
+ =================== 
+Template: `BLOCK* NameSystem.allocateBlock: {path} {block}`.
+ =================== 
+Template: `BLOCK* NameSystem.allocateBlock: {path} {block}`.
+ =================== 
+The template is `Received block {block} of size {size} from {path}`.
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+Template: `Receiving block {block} src: {source} dest: {destination}`.
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`
+ =================== 
+Template: `Receiving block {block} src: {source} dest: {destination}`.
+ =================== 
+Template: `Receiving block {block} src: {source} dest: {destination}`.
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`
+ =================== 
+Template: `Receiving block {block} src: {source} dest: {destination}`.
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+Template: `Received block {block} of size {size} from {path}`.
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+Template: `Receiving block {block} src: {source} dest: {destination}`.
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`
+ =================== 
+Template: `BLOCK* NameSystem.allocateBlock: {path} {block}`.
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`
+ =================== 
+Template: `BLOCK* NameSystem.allocateBlock: {path} {block}`.
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+Template: `BLOCK* NameSystem.allocateBlock: {path} {block}`.
+ =================== 
+Template: `Received block {block} of size {size} from {path}`.
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+Template: `Receiving block {block} src: {source} dest: {destination}`.
+ =================== 
+The template is: `Received block {block} of size {size} from {path}`.
+ =================== 
+Template: `BLOCK* NameSystem.allocateBlock: {path} {block}`.
+ =================== 
+The template is `Received block {block} of size {size} from {path}`.
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+Template: `BLOCK* NameSystem.allocateBlock: {path} {block}`.
+ =================== 
+Template: `Received block {block} of size {size} from {path}`.
+ =================== 
+Template: `Received block {block} of size {size} from {path}`.
+ =================== 
+Template: `Receiving block {block} src: {source} dest: {destination}`.
+ =================== 
+Template: `Received block {block} of size {size} from {path}`.
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+Template: `Receiving block {block} src: {source} dest: {destination}`.
+ =================== 
+Template: `BLOCK* NameSystem.allocateBlock: {path} {block}`.
+ =================== 
+Template: `BLOCK* NameSystem.delete: {block} is added to invalidSet of {ip_address}`.
+ =================== 
+Template: `BLOCK* NameSystem.delete: {block} is added to invalidSet of {destination}`.
+ =================== 
+Template: `BLOCK* NameSystem.delete: {block} is added to invalidSet of {destination}`.
+ =================== 
+Template: `BLOCK* NameSystem.delete: {block} is added to invalidSet of {ip_address}`.
+ =================== 
+Template: `BLOCK* NameSystem.delete: {block} is added to invalidSet of {ip_address}`.
+ =================== 
+Template: `BLOCK* NameSystem.delete: {block} is added to invalidSet of {ip_address}`.
+ =================== 
+Template: `BLOCK* NameSystem.delete: {block} is added to invalidSet of {destination}`.
+ =================== 
+Template: `BLOCK* NameSystem.delete: {block} is added to invalidSet of {destination}`.
+ =================== 
+Template: `BLOCK* NameSystem.delete: {block} is added to invalidSet of {destination}`.
+ =================== 
+The template is `BLOCK* NameSystem.delete: {block} is added to invalidSet of {destination}`.
+ =================== 
+The template is `BLOCK* NameSystem.delete: {block} is added to invalidSet of {ip_address}`.
+ =================== 
+Template: `BLOCK* NameSystem.delete: {block} is added to invalidSet of {destination}`.
+ =================== 
+Template: `BLOCK* NameSystem.delete: {block} is added to invalidSet of {destination}`.
+ =================== 
+Template: `BLOCK* NameSystem.delete: {block} is added to invalidSet of {destination}`.
+ =================== 
+Template: `BLOCK* NameSystem.delete: {block} is added to invalidSet of {destination}`.
+ =================== 
+Template: `BLOCK* NameSystem.delete: {block} is added to invalidSet of {destination}`.
+ =================== 
+Template: `BLOCK* NameSystem.delete: {block} is added to invalidSet of {destination}`.
+ =================== 
+Template: `BLOCK* NameSystem.delete: {block} is added to invalidSet of {destination}`.
+ =================== 
+Template: `BLOCK* NameSystem.delete: {block} is added to invalidSet of {ip_address}`.
+ =================== 
+Template: `BLOCK* NameSystem.delete: {block} is added to invalidSet of {destination}`.
+ =================== 
+Template: `BLOCK* NameSystem.delete: {block} is added to invalidSet of {destination}`.
+ =================== 
+Template: `Deleting block {block} file {path}`.
+ =================== 
+Template: `Deleting block {block} file {path}`.
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`
+ =================== 
+Template: `Deleting block {block} file {path}`.
+ =================== 
+Template: `Deleting block {block} file {path}`.
+ =================== 
+Template: `Deleting block {block} file {path}`.
+ =================== 
+Template: `Deleting block {block} file {path}`.
+ =================== 
+Template: `Deleting block {block} file {path}`.
+ =================== 
+Template: `Deleting block {block} file {path}`.
+ =================== 
+Template: `Deleting block {block} file {path}`.
+ =================== 
+Template: `Deleting block {block} file {path}`.
+ =================== 
+Template: `Deleting block {block} file {path}`.
+ =================== 
+Template: `Deleting block {block} file {path}`.
+ =================== 
+Template: `Deleting block {block} file {path}`.
+ =================== 
+Template: `Deleting block {block} file {path}`.
+ =================== 
+Template: `Deleting block {block} file {path}`.
+ =================== 
+Template: `Deleting block {block} file {path}`.
+ =================== 
+Template: `Deleting block {block} file {path}`.
+ =================== 
+Template: `Deleting block {block} file {path}`.
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+Template: `Deleting block {block} file {path}`.
+ =================== 
+Template: `Deleting block {block} file {path}`.
+ =================== 
+Template: `Deleting block {block} file {path}`.
+ =================== 
+Template: `Deleting block {block} file {path}`.
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+Template: `Receiving block {block} src: {source} dest: {destination}`.
+ =================== 
+Template: `Received block {block} of size {size} from {path}`.
+ =================== 
+Template: `Received block {block} of size {size} from {path}`.
+ =================== 
+Template: `BLOCK* NameSystem.allocateBlock: {path} {block}`.
+ =================== 
+Template: `Receiving block {block} src: {source} dest: {destination}`.
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+Template: `BLOCK* NameSystem.allocateBlock: {path} {block}`.
+ =================== 
+Template: `Receiving block {block} src: {source} dest: {destination}`.
+ =================== 
+Template: `Receiving block {block} src: {source} dest: {destination}`.
+ =================== 
+Template: `Received block {block} of size {size} from {path}`.
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+Template: `BLOCK* ask {source} to delete {blocks}`.
+ =================== 
+Template: `Deleting block {block} file {path}`.
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`
+ =================== 
+Template: `Received block {block} of size {size} from {path}`.
+ =================== 
+Template: `Receiving block {block} src: {source} dest: {destination}`.
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`
+ =================== 
+Template: `BLOCK* NameSystem.allocateBlock: {path} {block}`.
+ =================== 
+Template: `Receiving block {block} src: {source} dest: {destination}`.
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+Template: `Deleting block {block} file {path}`.
+ =================== 
+Template: `BLOCK* NameSystem.allocateBlock: {path} {block}`.
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+Template: `BLOCK* NameSystem.allocateBlock: {path} {block}`.
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`
+ =================== 
+Template: `Receiving block {block} src: {source} dest: {destination}`.
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`
+ =================== 
+Template: `BLOCK* NameSystem.allocateBlock: {path} {block}`.
+ =================== 
+Template: `Receiving block {block} src: {source} dest: {destination}`.
+ =================== 
+Template: `Receiving block {block} src: {source} dest: {destination}`.
+ =================== 
+The template is `Received block {block} of size {size} from {path}`.
+ =================== 
+Template: `Receiving block {block} src: {source} dest: {destination}`.
+ =================== 
+Template: `Receiving block {block} src: {source} dest: {destination}`.
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`
+ =================== 
+Template: `Verification succeeded for {block}`.
+ =================== 
+Template: `Received block {block} of size {size} from {path}`.
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`
+ =================== 
+Template: `Received block {block} of size {size} from {path}`.
+ =================== 
+Template: `Receiving block {block} src: {source} dest: {destination}`.
+ =================== 
+Template: `Receiving block {block} src: {source} dest: {destination}`.
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`
+ =================== 
+Template: `Received block {block} of size {size} from {path}`.
+ =================== 
+The template is `Received block {block} of size {size} from {path}`.
+ =================== 
+Template: `Receiving block {block} src: {source} dest: {destination}`.
+ =================== 
+Template: `BLOCK* NameSystem.allocateBlock: {path} {block}`.
+ =================== 
+Template: `Received block {block} of size {size} from {path}`.
+ =================== 
+Template: `BLOCK* NameSystem.allocateBlock: {path} {block}`.
+ =================== 
+Template: `BLOCK* NameSystem.allocateBlock: {path} {block}`.
+ =================== 
+Template: `Received block {block} of size {size} from {path}`.
+ =================== 
+Template: `Received block {block} of size {size} from {path}`.
+ =================== 
+Template: `Receiving block {block} src: {source} dest: {destination}`.
+ =================== 
+Template: `Received block {block} of size {size} from {path}`.
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+Template: `Receiving block {block} src: {source} dest: {destination}`.
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+Template: `BLOCK* NameSystem.allocateBlock: {path} {block}`.
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`
+ =================== 
+Template: `Received block {block} of size {size} from {path}`.
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`
+ =================== 
+Template: `Receiving block {block} src: {source} dest: {destination}`.
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+The template is: `Received block {block} of size {size} from {path}`.
+ =================== 
+Template: `Received block {block} of size {size} from {path}`.
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+Template: `Deleting block {block} file {path}`.
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`
+ =================== 
+Template: `Receiving block {block} src: {source} dest: {destination}`.
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`
+ =================== 
+Template: `Received block {block} of size {size} from {path}`.
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+Template: `Receiving block {block} src: {source} dest: {destination}`.
+ =================== 
+Template: `Received block {block} of size {size} from {path}`.
+ =================== 
+Template: `Receiving block {block} src: {source} dest: {destination}`.
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`
+ =================== 
+Template: `Receiving block {block} src: {source} dest: {destination}`.
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`
+ =================== 
+Template: `Received block {block} of size {size} from {path}`.
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`
+ =================== 
+Template: `BLOCK* NameSystem.allocateBlock: {path} {block}`.
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+Template: `Receiving block {block} src: {source} dest: {destination}`.
+ =================== 
+Template: `Received block {block} of size {size} from {path}`.
+ =================== 
+Template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: {source} is added to {block} size {size}`.
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`
+ =================== 
+Template: `Received block {block} of size {size} from {path}`.
+ =================== 
+Template: `Receiving block {block} src: {source} dest: {destination}`.
+ =================== 
+Template: `Receiving block {block} src: {source} dest: {destination}`.
+ =================== 
+The template is `Received block {block} of size {size} from {path}`.
+ =================== 
+Template: `Receiving block {block} src: {source} dest: {destination}`.
+ =================== 
+Template: `PacketResponder {PacketResponder} for block {block} terminating`
+ =================== 
+Template: `Receiving block {block} src: {source} dest: {destination}`.
+ =================== 

@@ -1,0 +1,4000 @@
+Template: `session closed for user {user}`.
+ =================== 
+Template: `session opened for user {user} by (uid={uid})`
+ =================== 
+The template is `({user}) CMD (run-parts {path})`.
+ =================== 
+Template: `session closed for user {user}`.
+ =================== 
+Template: `session opened for user {user} by (uid={uid})`
+ =================== 
+The template is `({user}) CMD (run-parts {path})`.
+ =================== 
+Template: `session closed for user {user}`.
+ =================== 
+Template: `session opened for user {user} by (uid={uid})`
+ =================== 
+The template is `({user}) CMD (run-parts {path})`.
+ =================== 
+Template: `session closed for user {user}`.
+ =================== 
+Template: `session opened for user {user} by (uid={uid})`
+ =================== 
+The template is `({user}) CMD (run-parts {path})`.
+ =================== 
+Template: `session closed for user {user}`.
+ =================== 
+Template: `session opened for user {user} by (uid={uid})`
+ =================== 
+The template is `({user}) CMD (run-parts {path})`.
+ =================== 
+Template: `session closed for user {user}`.
+ =================== 
+Template: `session opened for user {user} by (uid={uid})`
+ =================== 
+The template is `({user}) CMD (run-parts {path})`.
+ =================== 
+Template: `session closed for user {user}`.
+ =================== 
+Template: `session opened for user {user} by (uid={uid})`
+ =================== 
+The template is `({user}) CMD (run-parts {path})`.
+ =================== 
+Template: `session closed for user {user}`.
+ =================== 
+Template: `session opened for user {user} by (uid={uid})`
+ =================== 
+The template is `({user}) CMD (run-parts {path})`.
+ =================== 
+Template: `session closed for user {user}`.
+ =================== 
+Template: `session opened for user {user} by (uid={uid})`
+ =================== 
+The template is `({user}) CMD (run-parts {path})`.
+ =================== 
+Template: `session closed for user {user}`.
+ =================== 
+Template: `session opened for user {user} by (uid={uid})`
+ =================== 
+The template is `({user}) CMD (run-parts {path})`.
+ =================== 
+Template: `session closed for user {user}`.
+ =================== 
+Template: `session opened for user {user} by (uid={uid})`
+ =================== 
+The template is `({user}) CMD (run-parts {path})`.
+ =================== 
+Template: `session closed for user {user}`.
+ =================== 
+Template: `session opened for user {user} by (uid={uid})`
+ =================== 
+The template is `({user}) CMD (run-parts {path})`.
+ =================== 
+Template: `session closed for user {user}`.
+ =================== 
+Template: `session opened for user {user} by (uid={uid})`
+ =================== 
+The template is `({user}) CMD (run-parts {path})`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `session closed for user {user}`.
+ =================== 
+Template: `session opened for user {user} by (uid={uid})`
+ =================== 
+The template is `({user}) CMD (run-parts {path})`.
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `[ib_sm_sweep.c:{process_id}]: ********************** NEW SWEEP ********************`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `[ib_sm_sweep.c:{process_id}]: No topology change`
+ =================== 
+Template: `[ib_sm_sweep.c:{process_id}]: No configuration change required`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `Local disconnected: {reason}.`
+ =================== 
+The template is `connection lost: '{reason}'.`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `[ib_sm_sweep.c:{process_id}]: ********************** NEW SWEEP ********************`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `[ib_sm_sweep.c:{process_id}]: No topology change`
+ =================== 
+Template: `[ib_sm_sweep.c:{process_id}]: No configuration change required`
+ =================== 
+The template is `unable to qualify my own domain name ({hostname}) -- using short name`.
+ =================== 
+Template: `session closed for user {user}`.
+ =================== 
+Template: `{id}: from={user}, size={size}, class={class}, nrcpts={nrcpts}, msgid={msgid}, relay={relay}@localhost`
+ =================== 
+The template is: `{id}: to={user}, ctladdr={user} ({ctladdr}), delay={delay}, xdelay={xdelay}, mailer={mailer}, pri={pri}, relay=[{relay_ip}] [{relay_hostname}], dsn={dsn}, stat={stat}`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+The template is `unable to qualify my own domain name ({hostname}) -- using short name`.
+ =================== 
+The template is `unable to qualify my own domain name ({hostname}) -- using short name`.
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+The template is: `unable to qualify my own domain name ({hostname}) -- using short name`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `session closed for user {user}`.
+ =================== 
+Template: `{id}: from={user}, size={size}, class={class}, nrcpts={nrcpts}, msgid={msgid}, relay={relay}@localhost`
+ =================== 
+The template is: `{id}: to={user}, ctladdr={user} ({ctladdr}), delay={delay}, xdelay={xdelay}, mailer={mailer}, pri={pri}, relay=[{relay_ip}] [{relay_hostname}], dsn={dsn}, stat={stat}`.
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `session closed for user {user}`.
+ =================== 
+Template: `{id}: from={user}, size={size}, class={class}, nrcpts={nrcpts}, msgid={msgid}, relay={relay}@localhost`
+ =================== 
+Template: `{id}: to={user}, ctladdr={user} ({ctladdr}), delay={delay}, xdelay={xdelay}, mailer={mailer}, pri={pri}, relay=[{relay}] [{relay}], dsn={dsn}, stat={stat}`.
+ =================== 
+Template: `session closed for user {user}`.
+ =================== 
+Template: `{id}: from={user}, size={size}, class={class}, nrcpts={nrcpts}, msgid={msgid}, relay={relay}@localhost`
+ =================== 
+The template is: `{id}: to={user}, ctladdr={user} ({ctladdr}), delay={delay}, xdelay={xdelay}, mailer={mailer}, pri={pri}, relay=[{relay}] [{relay}], dsn={dsn}, stat={stat}`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `[ib_sm_sweep.c:{process_id}]: ********************** NEW SWEEP ********************`
+ =================== 
+The template of `unable to qualify my own domain name (aadmin1) -- using short name` is `unable to qualify my own domain name ({hostname}) -- using short name`.
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `session closed for user {user}`.
+ =================== 
+The template is `DHCPDISCOVER from {mac} via {interface}`.
+ =================== 
+The template is `DHCPOFFER on {ip} to {mac} via {interface}`.
+ =================== 
+Template: `{id}: from={user}, size={size}, class={class}, nrcpts={nrcpts}, msgid={msgid}, relay={relay}@localhost`
+ =================== 
+The template is: `{id}: to={user}, ctladdr={user} ({ctladdr}), delay={delay}, xdelay={xdelay}, mailer={mailer}, pri={pri}, relay=[{relay_ip}] [{relay_hostname}], dsn={dsn}, stat={stat}`.
+ =================== 
+The template is `DHCPDISCOVER from {mac} via eth1: network {network}: no free leases`.
+ =================== 
+The template is `DHCPDISCOVER from {mac} via eth1: network {network}: no free leases`.
+ =================== 
+The template is `DHCPDISCOVER from {mac} via eth1: network {network}: no free leases`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `[ib_sm_sweep.c:{process_id}]: No topology change`
+ =================== 
+Template: `[ib_sm_sweep.c:{process_id}]: No configuration change required`
+ =================== 
+The template is `DHCPACK on {ip} to {mac} via {interface}`.
+ =================== 
+The template is `DHCPREQUEST for {ip} ({ip}) from {mac} via {interface}`.
+ =================== 
+The template is: `START: tftp pid={pid} from={ip}`.
+ =================== 
+Template: `DHCPREQUEST for {ip} ({ip}) from {mac} via {interface}: {message}`.
+ =================== 
+Template: `DHCPREQUEST for {ip} ({ip}) from {mac} via {interface}: {message}`.
+ =================== 
+Template: `DHCPREQUEST for {ip} ({ip}) from {mac} via {interface}: {message}`.
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`.
+ =================== 
+Template: `[ib_sm_sweep.c:{process_id}]: ********************** NEW SWEEP ********************`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `[ib_sm_sweep.c:{process_id}]: No topology change`
+ =================== 
+Template: `[ib_sm_sweep.c:{process_id}]: No configuration change required`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+The template is `DHCPACK on {ip} to {mac} via {interface}`.
+ =================== 
+The template is `DHCPDISCOVER from {mac} via {interface}`.
+ =================== 
+The template is `DHCPDISCOVER from {mac} via {interface}`.
+ =================== 
+The template is `DHCPOFFER on {ip} to {mac} via {interface}`.
+ =================== 
+The template is `DHCPOFFER on {ip} to {mac} via {interface}`.
+ =================== 
+The template is `DHCPREQUEST for {ip} ({ip}) from {mac} via {interface}`.
+ =================== 
+The template is `DHCPDISCOVER from {mac} via eth1: network {network}: no free leases`.
+ =================== 
+The template is `DHCPDISCOVER from {mac} via eth1: network {network}: no free leases`.
+ =================== 
+Template: `DHCPREQUEST for {ip} ({ip}) from {mac} via {interface}: {message}`.
+ =================== 
+The template is `DHCPDISCOVER from {mac} via eth1: network {network}: no free leases`.
+ =================== 
+The template is `DHCPDISCOVER from {mac} via eth1: network {network}: no free leases`.
+ =================== 
+Template: `DHCPREQUEST for {ip} ({ip}) from {mac} via {interface}: {message}`.
+ =================== 
+The template is `DHCPDISCOVER from {mac} via eth1: network {network}: no free leases`.
+ =================== 
+The template is `DHCPDISCOVER from {mac} via eth1: network {network}: no free leases`.
+ =================== 
+Template: `DHCPREQUEST for {ip} ({ip}) from {mac} via {interface}: {message}`.
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `[ib_sm_sweep.c:{process_id}]: ********************** NEW SWEEP ********************`
+ =================== 
+The template is `DHCPACK on {ip} to {mac} via {interface}`.
+ =================== 
+The template is `DHCPDISCOVER from {mac} via {interface}`.
+ =================== 
+The template is `DHCPDISCOVER from {mac} via {interface}`.
+ =================== 
+The template is `DHCPOFFER on {ip} to {mac} via {interface}`.
+ =================== 
+The template is `DHCPOFFER on {ip} to {mac} via {interface}`.
+ =================== 
+The template is `DHCPREQUEST for {ip} ({ip}) from {mac} via {interface}`.
+ =================== 
+The template is `DHCPDISCOVER from {mac} via eth1: network {network}: no free leases`.
+ =================== 
+The template is `DHCPDISCOVER from {mac} via eth1: network {network}: no free leases`.
+ =================== 
+Template: `DHCPREQUEST for {ip} ({ip}) from {mac} via {interface}: {message}`.
+ =================== 
+The template is `DHCPDISCOVER from {mac} via eth1: network {network}: no free leases`.
+ =================== 
+The template is `DHCPDISCOVER from {mac} via eth1: network {network}: no free leases`.
+ =================== 
+Template: `DHCPREQUEST for {ip} ({ip}) from {mac} via {interface}: {message}`.
+ =================== 
+The template is `DHCPDISCOVER from {mac} via eth1: network {network}: no free leases`.
+ =================== 
+The template is `DHCPDISCOVER from {mac} via eth1: network {network}: no free leases`.
+ =================== 
+Template: `DHCPREQUEST for {ip} ({ip}) from {mac} via {interface}: {message}`.
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `[ib_sm_sweep.c:{process_id}]: No topology change`
+ =================== 
+Template: `[ib_sm_sweep.c:{process_id}]: No configuration change required`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `[ib_sm_sweep.c:{process_id}]: ********************** NEW SWEEP ********************`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `[ib_sm_sweep.c:{process_id}]: No topology change`
+ =================== 
+Template: `[ib_sm_sweep.c:{process_id}]: No configuration change required`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`.
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `[ib_sm_sweep.c:{process_id}]: ********************** NEW SWEEP ********************`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `[ib_sm_sweep.c:{process_id}]: No topology change`
+ =================== 
+Template: `[ib_sm_sweep.c:{process_id}]: No configuration change required`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `[ib_sm_sweep.c:{process_id}]: ********************** NEW SWEEP ********************`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`.
+ =================== 
+Template: `[ib_sm_sweep.c:{process_id}]: No topology change`
+ =================== 
+Template: `[ib_sm_sweep.c:{process_id}]: No configuration change required`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `[ib_sm_sweep.c:{process_id}]: ********************** NEW SWEEP ********************`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `[ib_sm_sweep.c:{process_id}]: No topology change`
+ =================== 
+Template: `[ib_sm_sweep.c:{process_id}]: No configuration change required`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `[ib_sm_sweep.c:{process_id}]: ********************** NEW SWEEP ********************`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `[ib_sm_sweep.c:{process_id}]: No topology change`
+ =================== 
+Template: `[ib_sm_sweep.c:{process_id}]: No configuration change required`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `[ib_sm_sweep.c:{process_id}]: ********************** NEW SWEEP ********************`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `[ib_sm_sweep.c:{process_id}]: No topology change`
+ =================== 
+Template: `[ib_sm_sweep.c:{process_id}]: No configuration change required`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`.
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`.
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `[ib_sm_sweep.c:{process_id}]: ********************** NEW SWEEP ********************`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `[ib_sm_sweep.c:{process_id}]: No topology change`
+ =================== 
+Template: `[ib_sm_sweep.c:{process_id}]: No configuration change required`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `RRD_update ({path}): illegal attempt to update using time {timestamp} when last update time is {timestamp} (minimum one second step)`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `[ib_sm_sweep.c:{process_id}]: ********************** NEW SWEEP ********************`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `[ib_sm_sweep.c:{process_id}]: No topology change`
+ =================== 
+Template: `[ib_sm_sweep.c:{process_id}]: No configuration change required`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`.
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `[ib_sm_sweep.c:{process_id}]: ********************** NEW SWEEP ********************`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `[ib_sm_sweep.c:{process_id}]: No topology change`
+ =================== 
+Template: `[ib_sm_sweep.c:{process_id}]: No configuration change required`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `kernel time sync disabled {code}`.
+ =================== 
+Template: `time reset {offset} s`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `[ib_sm_sweep.c:{process_id}]: ********************** NEW SWEEP ********************`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `[ib_sm_sweep.c:{process_id}]: No topology change`
+ =================== 
+Template: `[ib_sm_sweep.c:{process_id}]: No configuration change required`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`.
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`.
+ =================== 
+Template: `[ib_sm_sweep.c:{process_id}]: ********************** NEW SWEEP ********************`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `[ib_sm_sweep.c:{process_id}]: No topology change`
+ =================== 
+Template: `[ib_sm_sweep.c:{process_id}]: No configuration change required`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `RRD_update ({path}): illegal attempt to update using time {timestamp} when last update time is {timestamp} (minimum one second step)`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `[ib_sm_sweep.c:{process_id}]: ********************** NEW SWEEP ********************`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `[ib_sm_sweep.c:{process_id}]: No topology change`
+ =================== 
+Template: `[ib_sm_sweep.c:{process_id}]: No configuration change required`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`.
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `[ib_sm_sweep.c:{process_id}]: ********************** NEW SWEEP ********************`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+The template is: `Received SNMP packet(s) from {source}`.
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `[ib_sm_sweep.c:{process_id}]: No topology change`
+ =================== 
+Template: `[ib_sm_sweep.c:{process_id}]: No configuration change required`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `RRD_update ({path}): illegal attempt to update using time {timestamp} when last update time is {timestamp} (minimum one second step)`.
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `[ib_sm_sweep.c:{process_id}]: ********************** NEW SWEEP ********************`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `[ib_sm_sweep.c:{process_id}]: No topology change`
+ =================== 
+Template: `[ib_sm_sweep.c:{process_id}]: No configuration change required`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `[ib_sm_sweep.c:{process_id}]: ********************** NEW SWEEP ********************`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `[ib_sm_sweep.c:{process_id}]: No topology change`
+ =================== 
+Template: `[ib_sm_sweep.c:{process_id}]: No configuration change required`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `RRD_update ({path}): illegal attempt to update using time {timestamp} when last update time is {timestamp} (minimum one second step)`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `[ib_sm_sweep.c:{process_id}]: ********************** NEW SWEEP ********************`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `[ib_sm_sweep.c:{process_id}]: No topology change`
+ =================== 
+Template: `[ib_sm_sweep.c:{process_id}]: No configuration change required`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `[ib_sm_sweep.c:{process_id}]: ********************** NEW SWEEP ********************`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `[ib_sm_sweep.c:{process_id}]: No topology change`
+ =================== 
+Template: `[ib_sm_sweep.c:{process_id}]: No configuration change required`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `[ib_sm_sweep.c:{process_id}]: ********************** NEW SWEEP ********************`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `[ib_sm_sweep.c:{process_id}]: No topology change`
+ =================== 
+Template: `[ib_sm_sweep.c:{process_id}]: No configuration change required`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `[ib_sm_sweep.c:{process_id}]: ********************** NEW SWEEP ********************`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `[ib_sm_sweep.c:{process_id}]: No topology change`
+ =================== 
+Template: `[ib_sm_sweep.c:{process_id}]: No configuration change required`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `[ib_sm_sweep.c:{process_id}]: ********************** NEW SWEEP ********************`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `[ib_sm_sweep.c:{process_id}]: No topology change`
+ =================== 
+Template: `[ib_sm_sweep.c:{process_id}]: No configuration change required`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `[ib_sm_sweep.c:{process_id}]: ********************** NEW SWEEP ********************`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `[ib_sm_sweep.c:{process_id}]: No topology change`
+ =================== 
+Template: `[ib_sm_sweep.c:{process_id}]: No configuration change required`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `[ib_sm_sweep.c:{process_id}]: ********************** NEW SWEEP ********************`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `[ib_sm_sweep.c:{process_id}]: No topology change`
+ =================== 
+Template: `[ib_sm_sweep.c:{process_id}]: No configuration change required`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `[ib_sm_sweep.c:{process_id}]: ********************** NEW SWEEP ********************`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `[ib_sm_sweep.c:{process_id}]: No topology change`
+ =================== 
+Template: `[ib_sm_sweep.c:{process_id}]: No configuration change required`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `[ib_sm_sweep.c:{process_id}]: ********************** NEW SWEEP ********************`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `[ib_sm_sweep.c:{process_id}]: No topology change`
+ =================== 
+Template: `[ib_sm_sweep.c:{process_id}]: No configuration change required`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `[ib_sm_sweep.c:{process_id}]: ********************** NEW SWEEP ********************`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `[ib_sm_sweep.c:{process_id}]: No topology change`
+ =================== 
+Template: `[ib_sm_sweep.c:{process_id}]: No configuration change required`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`.
+ =================== 
+Template: `[ib_sm_sweep.c:{process_id}]: ********************** NEW SWEEP ********************`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `[ib_sm_sweep.c:{process_id}]: No topology change`
+ =================== 
+Template: `[ib_sm_sweep.c:{process_id}]: No configuration change required`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `[ib_sm_sweep.c:{process_id}]: ********************** NEW SWEEP ********************`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `[ib_sm_sweep.c:{process_id}]: No topology change`
+ =================== 
+Template: `[ib_sm_sweep.c:{process_id}]: No configuration change required`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`.
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `[ib_sm_sweep.c:{process_id}]: ********************** NEW SWEEP ********************`
+ =================== 
+Template: `RRD_update ({path}): illegal attempt to update using time {timestamp} when last update time is {timestamp} (minimum one second step)`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `[ib_sm_sweep.c:{process_id}]: No topology change`
+ =================== 
+Template: `[ib_sm_sweep.c:{process_id}]: No configuration change required`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `kernel time sync enabled {status}`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `[ib_sm_sweep.c:{process_id}]: ********************** NEW SWEEP ********************`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `[ib_sm_sweep.c:{process_id}]: No topology change`
+ =================== 
+Template: `[ib_sm_sweep.c:{process_id}]: No configuration change required`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `[ib_sm_sweep.c:{process_id}]: ********************** NEW SWEEP ********************`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `RRD_update ({path}): illegal attempt to update using time {timestamp} when last update time is {timestamp} (minimum one second step)`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`.
+ =================== 
+Template: `[ib_sm_sweep.c:{process_id}]: No topology change`
+ =================== 
+Template: `[ib_sm_sweep.c:{process_id}]: No configuration change required`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `[ib_sm_sweep.c:{process_id}]: ********************** NEW SWEEP ********************`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `[ib_sm_sweep.c:{process_id}]: No topology change`
+ =================== 
+Template: `[ib_sm_sweep.c:{process_id}]: No configuration change required`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `[ib_sm_sweep.c:{process_id}]: ********************** NEW SWEEP ********************`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`.
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `[ib_sm_sweep.c:{process_id}]: No topology change`
+ =================== 
+Template: `[ib_sm_sweep.c:{process_id}]: No configuration change required`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `[ib_sm_sweep.c:{process_id}]: ********************** NEW SWEEP ********************`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `[ib_sm_sweep.c:{process_id}]: No topology change`
+ =================== 
+Template: `[ib_sm_sweep.c:{process_id}]: No configuration change required`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `session opened for user {user} by (uid={uid})`
+ =================== 
+The template is `({user}) CMD ({path} {arg})`.
+ =================== 
+Template: `session opened for user {user} by (uid={uid})`
+ =================== 
+The template is `({user}) CMD ({path} {arg})`.
+ =================== 
+Template: `session opened for user {user} by (uid={uid})`
+ =================== 
+The template is `({user}) CMD ({command})`.
+ =================== 
+Template: `session opened for user {user} by (uid={uid})`
+ =================== 
+The template is `({user}) CMD ({path} {arg})`.
+ =================== 
+Template: `session opened for user {user} by (uid={uid})`
+ =================== 
+The template is `({user}) CMD ({command} {argument})`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `[ib_sm_sweep.c:{process_id}]: ********************** NEW SWEEP ********************`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`.
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `[ib_sm_sweep.c:{process_id}]: No topology change`
+ =================== 
+Template: `[ib_sm_sweep.c:{process_id}]: No configuration change required`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `RRD_update ({path}): illegal attempt to update using time {timestamp} when last update time is {timestamp} (minimum one second step)`.
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `[ib_sm_sweep.c:{process_id}]: ********************** NEW SWEEP ********************`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `[ib_sm_sweep.c:{process_id}]: No topology change`
+ =================== 
+Template: `[ib_sm_sweep.c:{process_id}]: No configuration change required`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `[ib_sm_sweep.c:{process_id}]: ********************** NEW SWEEP ********************`
+ =================== 
+The template is: `My unqualified host name ({hostname}) unknown; sleeping for retry`.
+ =================== 
+Template: `My unqualified host name ({hostname}) unknown; sleeping for retry`
+ =================== 
+Template: `My unqualified host name ({hostname}) unknown; sleeping for retry`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `My unqualified host name ({hostname}) unknown; sleeping for retry`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `My unqualified host name ({hostname}) unknown; sleeping for retry`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `[ib_sm_sweep.c:{process_id}]: No topology change`
+ =================== 
+Template: `[ib_sm_sweep.c:{process_id}]: No configuration change required`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`.
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`.
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `{os_name}-{os_version} (Kernel Module {module_name} key)`
+ =================== 
+Template: `({options})`
+ =================== 
+The template is `DSDT (v001 {manufacturer} {product} 0x{version} {oem} 0x{checksum}) @ {address}`.
+ =================== 
+Template: `FADT (v001 {manufacturer} {product} 0x{revision} {oem_id} 0x{creator_id}) @ {address}`
+ =================== 
+The template is `HPET (v001 {manufacturer} {product} {revision} {oem_id} {oem_table_id}) @ {address}`.
+ =================== 
+Template: `HPET id: {id} base: {base}`.
+ =================== 
+Template: `INT_SRC_OVR (bus {bus} bus_irq {bus_irq} global_irq {global_irq} dfl {dfl} dfl {dfl})`
+ =================== 
+Template: `INT_SRC_OVR (bus {bus} bus_irq {bus_irq} global_irq {global_irq} {level})`
+ =================== 
+Template: `IOAPIC (id[{id}] address[{address}] gsi_base[{gsi_base}])`
+ =================== 
+Template: `IOAPIC (id[{id}] address[{address}] gsi_base[{gsi_base}])`
+ =================== 
+Template: `IOAPIC (id[{id}] address[{address}] gsi_base[{gsi_base}])`
+ =================== 
+Template: `{message}`
+ =================== 
+Template: `{message}`
+ =================== 
+Template: `{message}`
+ =================== 
+Template: `{message}`
+ =================== 
+Template: `LAPIC (acpi_id[{acpi_id}] lapic_id[{lapic_id}] enabled)`
+ =================== 
+Template: `LAPIC (acpi_id[0x{acpi_id}] lapic_id[0x{lapic_id}] enabled)`
+ =================== 
+Template: `LAPIC (acpi_id[{acpi_id}] lapic_id[{lapic_id}] enabled)`
+ =================== 
+Template: `LAPIC (acpi_id[0x{acpi_id}] lapic_id[0x{lapic_id}] enabled)`
+ =================== 
+Template: `LAPIC_NMI (acpi_id[{acpi_id}] high edge lint[{lint}])`
+ =================== 
+Template: `LAPIC_NMI (acpi_id[{acpi_id}] high edge lint[{lint}])`
+ =================== 
+Template: `LAPIC_NMI (acpi_id[{acpi_id}] high edge lint[{lint}])`
+ =================== 
+Template: `LAPIC_NMI (acpi_id[{acpi_id}] high edge lint[{lint}])`
+ =================== 
+Template: `Local APIC address {address}`
+ =================== 
+The template is `MADT (v001 {manufacturer} {product} 0x{revision} {oem_id} 0x{oem_table_id}) @ {address}`.
+ =================== 
+The template is `MCFG (v001 {manufacturer} {product} 0x{revision} {oem_id} 0x{oem_table_id}) @ {address}`.
+ =================== 
+The template is: `PCI Interrupt Link [LNKA] (IRQs {irqs}) *{number}`.
+ =================== 
+Template: `PCI Interrupt Link [{link}] (IRQs {irqs})`
+ =================== 
+The template is: `PCI Interrupt Link [LNKC] (IRQs {irqs}) *{number}`.
+ =================== 
+Template: `PCI Interrupt Link [{link}] (IRQs {irqs}) *{status}, {action}.`
+ =================== 
+Template: `PCI Interrupt Link [LNKE] (IRQs {irqs}) *{status}, disabled.`
+ =================== 
+Template: `PCI Interrupt Link [{link}] (IRQs {irqs}) *{status}, {action}.`
+ =================== 
+Template: `PCI Interrupt Link [LNKG] (IRQs {irqs}) *{status}, {action}.`
+ =================== 
+Template: `PCI Interrupt Link [{link}] (IRQs {irqs}) *{status}, {action}.`
+ =================== 
+The template is: `PCI Interrupt Routing Table [\{path}]`.
+ =================== 
+The template is: `PCI Interrupt Routing Table [\{path}]`.
+ =================== 
+Template: `PCI Interrupt Routing Table [{path}]`
+ =================== 
+Template: `{message}`
+ =================== 
+Template: `{message}`
+ =================== 
+Template: `PCI Interrupt Routing Table [{path}]`
+ =================== 
+Template: `PCI Interrupt Routing Table [{path}]`
+ =================== 
+Template: `PCI Interrupt Routing Table [{path}]`
+ =================== 
+Template: `PCI Interrupt Routing Table [{path}]`
+ =================== 
+Template: `PCI Interrupt Routing Table [{path}]`
+ =================== 
+The template is `PCI Root Bridge [{bridge}] ({address})`.
+ =================== 
+The template is `PCI interrupt {device}[{type}] -> GSI {gsi} ({trigger}, {polarity}) -> IRQ {irq}`.
+ =================== 
+The template is `PCI interrupt {device}[{type}] -> GSI {gsi} ({trigger}, {polarity}) -> IRQ {irq}`.
+ =================== 
+The template is `PCI interrupt {device}[{type}] -> GSI {gsi} ({trigger}, {polarity}) -> IRQ {irq}`.
+ =================== 
+The template is `PCI interrupt {device}[{subdevice}] -> GSI {gsi} ({trigger}, {polarity}) -> IRQ {irq}`.
+ =================== 
+The template is `PCI interrupt {device}[{type}] -> GSI {gsi} ({trigger}, {polarity}) -> IRQ {irq}`.
+ =================== 
+The template is `PCI interrupt {device}[{type}] -> GSI {gsi} ({trigger}, {polarity}) -> IRQ {irq}`.
+ =================== 
+The template is `PCI interrupt {device}[{type}] -> GSI {gsi} ({trigger}, {polarity}) -> IRQ {irq}`.
+ =================== 
+The template is `PCI interrupt {device}[{type}] -> GSI {gsi} ({trigger}, {polarity}) -> IRQ {irq}`.
+ =================== 
+The template is `PCI interrupt {device}[{type}] -> GSI {gsi} ({trigger}, {polarity}) -> IRQ {irq}`.
+ =================== 
+The template is `PCI interrupt {device}[{type}] -> GSI {gsi} ({trigger}, {polarity}) -> IRQ {irq}`.
+ =================== 
+The template is `PCI interrupt {device}[{type}] -> GSI {gsi} ({trigger}, {polarity}) -> IRQ {irq}`.
+ =================== 
+Template: `Power Button ({button}) [{action}]`
+ =================== 
+The template is `Processor [CPU{cpu_number}] (supports {support_level})`.
+ =================== 
+The template is `Processor [CPU{number}] (supports {state})`.
+ =================== 
+The template is `Processor [CPU{cpu_number}] (supports {support})`.
+ =================== 
+The template is `Processor [CPU{cpu_number}] (supports {state})`.
+ =================== 
+Template: `RSDP (v000 {manufacturer} ) @ {address}`
+ =================== 
+The template is `RSDT (v001 {manufacturer} {product} 0x{revision} {oem_id} 0x{oem_table_id}) @ {address}`.
+ =================== 
+The template is `SPCR (v001 {manufacturer} {product_name} {revision} {signature} {oem_id} {oem_table_id}) @ {address}`.
+ =================== 
+Template: `Subsystem revision {revision}`
+ =================== 
+Template: `Using IOAPIC for interrupt routing`
+ =================== 
+Template: `{processor} stepping {step}`
+ =================== 
+Template: `L2 cache: {size}`
+ =================== 
+Template: `L2 cache: {size}`
+ =================== 
+Template: `L2 cache: {size}`
+ =================== 
+Template: `L2 cache: {size}`
+ =================== 
+Template: `L2 cache: {size}`
+ =================== 
+Template: `Physical Processor ID: {id}`.
+ =================== 
+Template: `Physical Processor ID: {id}`.
+ =================== 
+Template: `Physical Processor ID: {id}`.
+ =================== 
+The template is: `Physical Processor ID: {id}`.
+ =================== 
+The template is: `Physical Processor ID: {id}`.
+ =================== 
+Template: `Trace cache: {trace_uops} uops, L1 D cache: {l1_cache}`
+ =================== 
+Template: `Trace cache: {trace_uops} uops, L1 D cache: {l1_cache}`
+ =================== 
+Template: `Trace cache: {trace_uops} uops, L1 D cache: {l1_cache}`
+ =================== 
+Template: `Trace cache: {trace_uops} uops, L1 D cache: {l1_cache}`
+ =================== 
+Template: `Trace cache: {trace_uops} uops, L1 D cache: {l1_cache}`
+ =================== 
+Template: `colour {mode}`
+ =================== 
+Template: `mounted filesystem with ordered data mode.`
+ =================== 
+The template is: `mounted filesystem with ordered data mode.`
+ =================== 
+Template: `mounted filesystem with ordered data mode.`
+ =================== 
+Template: `{filename},v {version} {date} {time} {user} {action} {comment}`.
+ =================== 
+The template is `apic_id {id}, version {version}, address {address}, GSI {gsi}`.
+ =================== 
+The template is `apic_id {id}, version {version}, address {address}, GSI {gsi1}-{gsi2}`.
+ =================== 
+The template is `apic_id {id}, version {version}, address {address}, GSI {gsi1}-{gsi2}`.
+ =================== 
+Template: `routing cache hash table of {buckets} buckets, {memory}`
+ =================== 
+Template: `PCI Hot Plug PCI Core version: {version}`.
+ =================== 
+The template is `root={root} initrd={initrd} console={console} console={console},19200 fastboot BOOT_IMAGE={boot_image}`.
+ =================== 
+Template: `Registered protocol family {family}`.
+ =================== 
+Template: `Registered protocol family {family}`.
+ =================== 
+Template: `Registered protocol family 17`
+ =================== 
+Template: `Registered protocol family {family}`
+ =================== 
+The template is `Using software bounce buffering for IO (SWIOTLB)`.
+ =================== 
+The template is `Probing PCI hardware (bus {bus})`.
+ =================== 
+The template is `Transparent bridge - {device}`.
+ =================== 
+Template: `Using ACPI for IRQ routing`
+ =================== 
+Template: `Using MMCONFIG at {address}`
+ =================== 
+The template is `Using configuration type {type}`.
+ =================== 
+The template is `Compressed image found at block {block_number}`.
+ =================== 
+Template: `{message}`
+ =================== 
+Template: `Initializing.`
+ =================== 
+The template of `Registering netfilter hooks` is `Registering netfilter hooks`.
+ =================== 
+Template: `Starting in {mode} mode`
+ =================== 
+Template: `Unregistering netfilter hooks`
+ =================== 
+The template is: `{message}`.
+ =================== 
+The template is `Direct-Access ANSI SCSI revision: 02`.
+ =================== 
+Template: `Processor ANSI SCSI revision: {revision}`.
+ =================== 
+Template: `Disk quotas {module}`.
+ =================== 
+Template: `Mounted root ({filesystem} filesystem).`
+ =================== 
+The template is `MegaRAID Model: {model} RAID{level} {capacity} Rev: {revision}`.
+ =================== 
+The template is: `{model} Model: {interface} SCSI BP Rev: {revision}`.
+ =================== 
+Template: `initialized`
+ =================== 
+Template: `initializing netlink socket ({status})`
+ =================== 
+Template: `{message}`
+ =================== 
+The template is `{version} (2003-12-10) initialised: #{number}#@#{number}`.
+ =================== 
+The template is `allocating {divert_blk} for {interface}`.
+ =================== 
+Template: `allocating {divert_blk} for {interface}`.
+ =================== 
+The template of `not allocating divert_blk for non-ethernet device lo` is `not allocating divert_blk for non-ethernet device {device}`.
+ =================== 
+Template: `v{version}:USB HID core driver`
+ =================== 
+The template is `eth0: {function}: {message}`.
+ =================== 
+The template is `eth0: e1000_watchdog: NIC Link is Up {speed} Mbps {duplex}`.
+ =================== 
+The template is `eth1: {function}: {description}`.
+ =================== 
+Template: `no {device} controllers found`
+ =================== 
+Template: `{message}`
+ =================== 
+The template of `Wait for ready failed before probe !` is `Wait for ready failed before probe !`.
+ =================== 
+The template of `Wait for ready failed before probe !` is `Wait for ready failed before probe !`.
+ =================== 
+The template of `Wait for ready failed before probe !` is `Wait for ready failed before probe !`.
+ =================== 
+The template of `Wait for ready failed before probe !` is `Wait for ready failed before probe !`.
+ =================== 
+The template of `Wait for ready failed before probe !` is `Wait for ready failed before probe !`.
+ =================== 
+The template of `Wait for ready failed before probe !` is `Wait for ready failed before probe !`.
+ =================== 
+The template is `Assuming {speed} system bus speed for PIO modes; override with idebus={xx}`.
+ =================== 
+The template is `Unknown cmd fd({fd}) cmd({cmd}){arg1} arg({arg2}) on {device}`.
+ =================== 
+Template: `({info}) {year}-{year} {team}`
+ =================== 
+Template: `({info}) {year}-{year} {team}`
+ =================== 
+Template: `({info}) {year}-{year} {team}`
+ =================== 
+Template: `({info}) {year}-{year} {team}`
+ =================== 
+The template of `Installing public key data` is `Installing public key data`.
+ =================== 
+Template: `... autorun DONE.`
+ =================== 
+Template: `... autorun DONE.`
+ =================== 
+Template: `Autodetecting RAID arrays.`
+ =================== 
+Template: `Autodetecting RAID arrays.`
+ =================== 
+Template: `autorun ...`
+ =================== 
+Template: `autorun ...`
+ =================== 
+The template is `md driver {version} MAX_MD_DEVS={max_devs}, MD_SB_DISKS={sb_disks}`.
+ =================== 
+The template is `#{number}#-{name} (Release Date: {date})`.
+ =================== 
+The template is `#{version}# (Release Date: {date})`.
+ =================== 
+Template: `fw version:[{fw_version}] bios version:[{bios_version}]`
+ =================== 
+Template: `probe new device {vendor_id}:{product_id}:{subsystem_vendor_id}:{subsystem_id}: bus {bus}:slot {slot}:func {func}`.
+ =================== 
+Template: `{device_type} device common for all {device_plural}`
+ =================== 
+Template: `v2.0 ({date})`
+ =================== 
+Template: `{process} startup succeeded`
+ =================== 
+Template: `{service} startup succeeded`
+ =================== 
+Template: `Starting {process}: {status}`
+ =================== 
+Template: `Version {version} Starting`
+ =================== 
+Template: `{message}`
+ =================== 
+The template is `scanning scsi channel {channel} [Phy {phy}] for non-raid devices`.
+ =================== 
+The template is `scanning scsi channel {channel} [{type}] for logical drives`.
+ =================== 
+Template: `asking for cache data failed`
+ =================== 
+Template: `assuming drive cache: {cache}`
+ =================== 
+Template: `{disk} {disk} {disk} {disk}`
+ =================== 
+The template of `Registering secondary module capability` is `Registering secondary module capability`.
+ =================== 
+Template: `{device} port at {port_address} irq {irq_number}`.
+ =================== 
+Template: `i8042 KBD port at {port_address} irq {irq_number}`.
+ =================== 
+Template: `{process} startup succeeded`
+ =================== 
+Template: `{application} version {version} starting`
+ =================== 
+Template: `Detected {frequency} MHz processor.`
+ =================== 
+Template: `Using {frequency} MHz HPET timer.`
+ =================== 
+Template: `Using HPET based timekeeping.`
+ =================== 
+The template is `Creating Topspin /dev entries:`.
+ =================== 
+Template: `registered new driver {driver}`
+ =================== 
+Template: `registered new driver {driver}`.
+ =================== 
+The template of `registered new driver usbfs` is `registered new driver usbfs`.
+ =================== 
+The template is `registered new driver {driver}`.
+ =================== 
+Template: `probe of {device} failed with error {error_code}`.
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `[ib_sm_sweep.c:{process_id}]: ********************** NEW SWEEP ********************`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `[ib_sm_sweep.c:{process_id}]: No topology change`
+ =================== 
+Template: `[ib_sm_sweep.c:{process_id}]: No configuration change required`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+The template of `connection from "#28#"` is `connection from "{source}"`.
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `User {user_id}, coming from {source}, authenticated.`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+The template is `Now running on #{id}#'s privileges.`.
+ =================== 
+Template: `Local disconnected: {reason}.`
+ =================== 
+The template is `connection lost: '{reason}'.`
+ =================== 
+Template: `Mounting NFS filesystems: {status}`
+ =================== 
+Template: `Mounting other filesystems: {status}`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+The template is: `Warning: we failed to resolve data source name {data_sources}`.
+ =================== 
+Template: `Warning: we failed to resolve data source name {data_sources}`.
+ =================== 
+The template is: `Warning: we failed to resolve data source name {data_sources}`.
+ =================== 
+The template is: `Warning: we failed to resolve data source name {datasources}`.
+ =================== 
+The template is: `Warning: we failed to resolve data source name {datasources}`.
+ =================== 
+Template: `Warning: we failed to resolve data source name {datasources}`.
+ =================== 
+The template is `Warning: we failed to resolve data source name {datasources}`.
+ =================== 
+The template is: `Warning: we failed to resolve data source name {datasources}`.
+ =================== 
+The template is `Warning: we failed to resolve data source name {datasources}`.
+ =================== 
+The template of the log message is `Warning: we failed to resolve data source name {data_sources}`.
+ =================== 
+Template: `Warning: we failed to resolve data source name {data_sources}`.
+ =================== 
+The template of the given log message is `Warning: we failed to resolve data source name {data_sources}`.
+ =================== 
+The template of the log message is `Warning: we failed to resolve data source name {data_sources}`.
+ =================== 
+The template is: `Warning: we failed to resolve data source name {datasources}`.
+ =================== 
+The template is: `Warning: we failed to resolve data source name {datasources}`.
+ =================== 
+The template is: `Warning: we failed to resolve data source name {datasource}`.
+ =================== 
+The template of `connection from "#28#"` is `connection from "{source}"`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `RRD_update ({path}): illegal attempt to update using time {timestamp} when last update time is {timestamp} (minimum one second step)`.
+ =================== 
+Template: `RRD_update ({path}): illegal attempt to update using time {timestamp} when last update time is {timestamp} (minimum one second step)`.
+ =================== 
+Template: `RRD_update ({path}): illegal attempt to update using time {timestamp} when last update time is {timestamp} (minimum one second step)`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+The template is: `Warning: we failed to resolve data source name {data_sources}`.
+ =================== 
+The template of the given log message is `Warning: we failed to resolve data source name {data_sources}`.
+ =================== 
+The template is: `Warning: we failed to resolve data source name {data_sources}`.
+ =================== 
+The template is: `Warning: we failed to resolve data source name {data_sources}`.
+ =================== 
+`Warning: we failed to resolve data source name {data_sources}`.
+ =================== 
+The template is: `Warning: we failed to resolve data source name {data_sources}`.
+ =================== 
+The template is: `Warning: we failed to resolve data source name {data_sources}`.
+ =================== 
+The template is: `Warning: we failed to resolve data source name {data_sources}`.
+ =================== 
+The template is: `Warning: we failed to resolve data source name {data_sources}`.
+ =================== 
+The template is: `Warning: we failed to resolve data source name {data_sources}`.
+ =================== 
+The template is: `Warning: we failed to resolve data source name {data_sources}`.
+ =================== 
+Template: `Warning: we failed to resolve data source name {data_sources}`.
+ =================== 
+The template is: `Warning: we failed to resolve data source name {datasources}`.
+ =================== 
+The template is `Warning: we failed to resolve data source name {datasources}`.
+ =================== 
+The template is: `Warning: we failed to resolve data source name {datasources}`.
+ =================== 
+The template is: `Warning: we failed to resolve data source name {datasources}`.
+ =================== 
+The template is `Warning: we failed to resolve data source name {datasources}`.
+ =================== 
+The template of the log message is `Warning: we failed to resolve data source name {datasources}`.
+ =================== 
+The template is: `Warning: we failed to resolve trusted host name {hostname}`.
+ =================== 
+Template: `{process} startup succeeded`
+ =================== 
+The template is `Now running on #{id}#'s privileges.`.
+ =================== 
+Template: `User {user_id}, coming from {source}, authenticated.`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `Registered protocol family 10`
+ =================== 
+The template of `not allocating divert_blk for non-ethernet device sit0` is `not allocating divert_blk for non-ethernet device {device}`.
+ =================== 
+Template: `{status}`
+ =================== 
+Template: `Server listening on :: port {port}.`
+ =================== 
+The template of `error: Bind to port 22 on 0.0.0.0 failed: Address already in use.` is `error: Bind to port {port} on {ip} failed: {reason}.`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `Cannot open file {file_path} for writing ({error_message})`
+ =================== 
+The template is `Changing permissions on special file {file_path}`.
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `[ib_sm_sweep.c:{process_id}]: ********************** NEW SWEEP ********************`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `{status}`
+ =================== 
+Template: `{service} startup succeeded`
+ =================== 
+Template: `Reading included configuration file: {path} [file={file}] [line={line}]`
+ =================== 
+Template: `Reading included configuration file: {path} [file={file}] [line={line}]`
+ =================== 
+The template is `Reading included configuration file: {path} [file={file}] [line={line}]`.
+ =================== 
+Template: `Reading included configuration file: {path} [file={file}] [line={line}]`
+ =================== 
+Template: `Reading included configuration file: {path} [file={file}] [line={line}]`
+ =================== 
+Template: `Reading included configuration file: {path} [file={file}] [line={line}]`
+ =================== 
+Template: `Reading included configuration file: {path} [file={file}] [line={line}]`
+ =================== 
+Template: `Reading included configuration file: {path} [file={file}] [line={line}]`
+ =================== 
+Template: `Reading included configuration file: {path} [file={file}] [line={line}]`
+ =================== 
+The template is `Reading included configuration file: {path} [file={file}] [line={line}]`.
+ =================== 
+Template: `Reading included configuration file: {path} [file={file}] [line={line}]`
+ =================== 
+Template: `Reading included configuration file: {path} [file={file}] [line={line}]`
+ =================== 
+Template: `Reading included configuration file: {path} [file={file}] [line={line}]`
+ =================== 
+Template: `Reading included configuration file: {path} [file={file}] [line={line}]`
+ =================== 
+Template: `Reading included configuration file: {path} [file={file}] [line={line}]`
+ =================== 
+Template: `Reading included configuration file: {path} [file={file}] [line={line}]`
+ =================== 
+The template is `Reading included configuration file: {path} [file={file}] [line={line}]`.
+ =================== 
+The template is `Started working: {count} available service`.
+ =================== 
+Template: `removing {service}`.
+ =================== 
+Template: `removing {service}`
+ =================== 
+Template: `removing {service}`
+ =================== 
+Template: `removing {service}`
+ =================== 
+Template: `removing {service}`.
+ =================== 
+Template: `removing {service}`.
+ =================== 
+Template: `removing {service}`
+ =================== 
+Template: `removing {service}`
+ =================== 
+Template: `removing {service}`
+ =================== 
+Template: `removing {service}`.
+ =================== 
+Template: `removing {service}`
+ =================== 
+Template: `removing {printer}`
+ =================== 
+Template: `removing {service}`
+ =================== 
+Template: `removing {service}`
+ =================== 
+Template: `removing {variable}`
+ =================== 
+Template: `removing {variable}`
+ =================== 
+The template is: `{service} Version {version} started with {options} options compiled in.`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `[ib_sm_sweep.c:{process_id}]: No topology change`
+ =================== 
+Template: `[ib_sm_sweep.c:{process_id}]: No configuration change required`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `[ib_sm_sweep.c:{process_id}]: ********************** NEW SWEEP ********************`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `RRD_update ({path}): illegal attempt to update using time {timestamp} when last update time is {timestamp} (minimum one second step)`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `[ib_sm_sweep.c:{process_id}]: No topology change`
+ =================== 
+Template: `[ib_sm_sweep.c:{process_id}]: No configuration change required`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `[ib_sm_sweep.c:{process_id}]: ********************** NEW SWEEP ********************`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `[ib_sm_sweep.c:{process_id}]: No topology change`
+ =================== 
+Template: `[ib_sm_sweep.c:{process_id}]: No configuration change required`
+ =================== 
+Template: `session closed for user {user}`.
+ =================== 
+The template is: `{id}: from={user}, size={size}, class={class}, nrcpts={nrcpts}, msgid={msgid}, relay={relay}@localhost`.
+ =================== 
+The template is: `{id}: to={user}, ctladdr={user} ({int}/{int}), delay={delay}, xdelay={xdelay}, mailer={mailer}, pri={pri}, relay=[{relay}] [{relay}], dsn={dsn}, stat={stat}`.
+ =================== 
+The template is `unable to qualify my own domain name ({hostname}) -- using short name`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+The template of `unable to qualify my own domain name (aadmin1) -- using short name` is `unable to qualify my own domain name ({hostname}) -- using short name`.
+ =================== 
+The template is: `unable to qualify my own domain name ({hostname}) -- using short name`.
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+The template is `unable to qualify my own domain name ({hostname}) -- using short name`.
+ =================== 
+The template is: `unable to qualify my own domain name ({hostname}) -- using short name`.
+ =================== 
+Template: `session closed for user {user}`.
+ =================== 
+Template: `{id}: from={user}, size={size}, class={class}, nrcpts={nrcpts}, msgid={msgid}, relay={relay}@localhost`
+ =================== 
+The template is: `{id}: to={user}, ctladdr={user} ({ctladdr}), delay={delay}, xdelay={xdelay}, mailer={mailer}, pri={pri}, relay=[{relay_ip}] [{relay_hostname}], dsn={dsn}, stat={stat}`.
+ =================== 
+Template: `session closed for user {user}`.
+ =================== 
+Template: `{id}: from={user}, size={size}, class={class}, nrcpts={nrcpts}, msgid={msgid}, relay={relay}@localhost`
+ =================== 
+The template is `{id}: to={user}, ctladdr={user} ({ctladdr}), delay={delay}, xdelay={xdelay}, mailer={mailer}, pri={pri}, relay=[{relay}] [{relay}], dsn={dsn}, stat={stat}`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `session closed for user {user}`.
+ =================== 
+Template: `{id}: from={user}, size={size}, class={class}, nrcpts={nrcpts}, msgid={msgid}, relay={relay}@localhost`
+ =================== 
+The template is `{id}: to={user}, ctladdr={user} ({ctladdr}), delay={delay}, xdelay={xdelay}, mailer={mailer}, pri={pri}, relay=[{relay}] [{relay}], dsn={dsn}, stat={stat}`.
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `session closed for user {user}`.
+ =================== 
+Template: `{id}: from={user}, size={size}, class={class}, nrcpts={nrcpts}, msgid={msgid}, relay={relay}@localhost`
+ =================== 
+The template is: `{id}: to={user}, ctladdr={user} ({int}/{int}), delay={delay}, xdelay={xdelay}, mailer={mailer}, pri={pri}, relay=[{relay}] [{relay}], dsn={dsn}, stat={stat}`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`.
+ =================== 
+Template: `[ib_sm_sweep.c:{process_id}]: ********************** NEW SWEEP ********************`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `[ib_sm_sweep.c:{process_id}]: No topology change`
+ =================== 
+Template: `[ib_sm_sweep.c:{process_id}]: No configuration change required`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `[ib_sm_sweep.c:{process_id}]: ********************** NEW SWEEP ********************`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `[ib_sm_sweep.c:{process_id}]: No topology change`
+ =================== 
+Template: `[ib_sm_sweep.c:{process_id}]: No configuration change required`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`.
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `[ib_sm_sweep.c:{process_id}]: ********************** NEW SWEEP ********************`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`.
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `[ib_sm_sweep.c:{process_id}]: No topology change`
+ =================== 
+Template: `[ib_sm_sweep.c:{process_id}]: No configuration change required`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `[ib_sm_sweep.c:{process_id}]: ********************** NEW SWEEP ********************`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `[ib_sm_sweep.c:{process_id}]: No topology change`
+ =================== 
+Template: `[ib_sm_sweep.c:{process_id}]: No configuration change required`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `[ib_sm_sweep.c:{process_id}]: ********************** NEW SWEEP ********************`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`.
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `[ib_sm_sweep.c:{process_id}]: No topology change`
+ =================== 
+Template: `[ib_sm_sweep.c:{process_id}]: No configuration change required`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`.
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `[ib_sm_sweep.c:{process_id}]: ********************** NEW SWEEP ********************`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `[ib_sm_sweep.c:{process_id}]: No topology change`
+ =================== 
+Template: `[ib_sm_sweep.c:{process_id}]: No configuration change required`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `[ib_sm_sweep.c:{process_id}]: ********************** NEW SWEEP ********************`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `[ib_sm_sweep.c:{process_id}]: No topology change`
+ =================== 
+Template: `[ib_sm_sweep.c:{process_id}]: No configuration change required`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `[ib_sm_sweep.c:{process_id}]: ********************** NEW SWEEP ********************`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `[ib_sm_sweep.c:{process_id}]: No topology change`
+ =================== 
+Template: `[ib_sm_sweep.c:{process_id}]: No configuration change required`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `[ib_sm_sweep.c:{process_id}]: ********************** NEW SWEEP ********************`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`.
+ =================== 
+Template: `[ib_sm_sweep.c:{process_id}]: No topology change`
+ =================== 
+Template: `[ib_sm_sweep.c:{process_id}]: No configuration change required`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `[ib_sm_sweep.c:{process_id}]: ********************** NEW SWEEP ********************`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `[ib_sm_sweep.c:{process_id}]: No topology change`
+ =================== 
+Template: `[ib_sm_sweep.c:{process_id}]: No configuration change required`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `Local disconnected: {reason}.`
+ =================== 
+Template: `connection lost: '{reason}'`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `[ib_sm_sweep.c:{process_id}]: ********************** NEW SWEEP ********************`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`.
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `[ib_sm_sweep.c:{process_id}]: No topology change`
+ =================== 
+Template: `[ib_sm_sweep.c:{process_id}]: No configuration change required`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `[ib_sm_sweep.c:{process_id}]: ********************** NEW SWEEP ********************`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `[ib_sm_sweep.c:{process_id}]: No topology change`
+ =================== 
+Template: `[ib_sm_sweep.c:{process_id}]: No configuration change required`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `[ib_sm_sweep.c:{process_id}]: ********************** NEW SWEEP ********************`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `[ib_sm_sweep.c:{process_id}]: No topology change`
+ =================== 
+Template: `[ib_sm_sweep.c:{process_id}]: No configuration change required`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `[ib_sm_sweep.c:{process_id}]: ********************** NEW SWEEP ********************`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `[ib_sm_sweep.c:{process_id}]: No topology change`
+ =================== 
+Template: `[ib_sm_sweep.c:{process_id}]: No configuration change required`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`.
+ =================== 
+Template: `[ib_sm_sweep.c:{process_id}]: ********************** NEW SWEEP ********************`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `[ib_sm_sweep.c:{process_id}]: No topology change`
+ =================== 
+Template: `[ib_sm_sweep.c:{process_id}]: No configuration change required`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+The template is `Device: {device}, Temperature changed {old_temp} Celsius to {new_temp} Celsius since last report`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `[ib_sm_sweep.c:{process_id}]: ********************** NEW SWEEP ********************`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `[ib_sm_sweep.c:{process_id}]: No topology change`
+ =================== 
+Template: `[ib_sm_sweep.c:{process_id}]: No configuration change required`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `[ib_sm_sweep.c:{process_id}]: ********************** NEW SWEEP ********************`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `[ib_sm_sweep.c:{process_id}]: No topology change`
+ =================== 
+Template: `[ib_sm_sweep.c:{process_id}]: No configuration change required`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `data_thread() got not answer from any [{datasource}] datasource`
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 
+Template: `synchronized to {ip}, stratum {stratum}`.
+ =================== 

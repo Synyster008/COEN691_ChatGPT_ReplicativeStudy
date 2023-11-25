@@ -1,0 +1,55 @@
+,EventTemplate,Occurrences
+0,Component State Change: Component \042{string}\042 is in the unavailable state (HWID={int}),10
+1,Component State Change: Component {string} is in the unavailable state (HWID={int}),2
+2,clusterAddMember  (command {int}),2
+3,risBoot  (command {command}),1
+4,bootGenvmunix  (command {int}),2
+5,boot  (command {int}),67
+6,wait (command {int}),1
+7,halt  (command {int}),3
+8,wait  (command {int}),65
+9,Command has completed successfully,10
+10,Targeting domains:node-{string} and nodes:node-[{int}-{int}] child of command {int},2
+11,Targeting domains:node-{str} and nodes:node-[{int}-{int}] child of command {int},3
+12,Targeting domains:node-{alpha} and nodes:node-[{int}\ {int}\ {int}],1
+13,Targeting domains:{domain} and nodes:{node},2
+14,Targeting domains:node-D[{int}\ {int}] and nodes:node-[{int}\ {int}],1
+15,psu failure\ ambient={int},5
+16,Temperature ({int}C) exceeds warning threshold,2
+17,ClusterFileSystem: There is no server for ServerFileSystem domain {name},32
+18,NIFF: node node-{int} detected a failed network connection on network {address} via interface alt0,2
+19,ServerFileSystem: An ServerFileSystem domain panic has occurred on {storage},1
+20,Fan speeds ( {int} {int} {int} **** {int} {int} ),79
+21,Fan speeds ( {int} {int} {int} {int} {int} {int} ),11
+22,Command has been aborted,1
+23,power/control problem,1
+24,Link error,13
+25,Link in reset,9
+26,Link ok,13
+27,Link error on broadcast tree {name},4
+28,ServerFileSystem: ServerFileSystem domain {name} is full,12
+29,ClusterFileSystem: ServerFileSystem domain {name} is no longer served by node node-{int},36
+30,running,162
+31,blocked,15
+32,not responding,60
+33,configured out,91
+34,inconsistent nodesets node-{int} {hex} <ok> node-{int} {hex} <ok> node-{int} {hex} <ok> node-{int} {hex} <ok>,1
+35,active,5
+36,inconsistent nodesets {node} {hex} <ok> {node} {hex} <ok> {node} {hex} <ok> {node} {hex} <ok>,1
+37,not-responding,1
+38,inconsistent nodesets node-{int} {hex} <ok> node-{int} {hex} <ok> node-{int} {hex} <ok> node-{int} {hex} <ok> node-{int} {hex} <ok> node-{int} {hex} <ok> node-{int} {hex} <ok> node-{int} {hex} <ok> node-{int} {hex} <ok> node-{int} {hex} <ok> node-{int} {hex} <ok> node-{int} {hex} <ok> node-{int} {hex} <ok>,1
+39,starting,1
+40,closing,1
+41,inconsistent nodesets {node} {hex} <ok> {node} {hex} <ok> {node} {hex} <ok> {node} {hex} <ok> {node} {hex} <ok>,1
+42,normal,206
+43,warning,205
+44,ambient={int},292
+45,critical,20
+46,Linkerror event interval expired,394
+47,risBoot (command {command}) Error: Timed out while waiting for SRM prompt: <ABORT code completed>,1
+48,boot (command {command}) Error: HALT asserted\  cannot continue,1
+49,Failed subcommands {int},1
+50,link errors remain current,56
+51,NIFF: node node-{int} has detected an available network connection on network {address} via interface ee0,45
+52,NIFF: node node-{int} has detected an available network connection on network {address} via interface alt0,44
+53,NIFF: node node-{int} has detected an available network connection on network {address} via interface scip0,2

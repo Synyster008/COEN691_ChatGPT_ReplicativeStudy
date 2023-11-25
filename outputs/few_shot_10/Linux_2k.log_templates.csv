@@ -1,0 +1,120 @@
+,EventTemplate,Occurrences
+0,authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address},97
+1,check pass; user unknown,117
+2,authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={address}  user={username},362
+3,session opened for user {username} by (uid={uid}),122
+4,session closed for user {username},123
+5,ALERT exited abnormally with [{code}],43
+6,connection from {address} ({web_address}) at {time},292
+7,authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={web_address},20
+8,User unknown timed out after {timeout} seconds at {time},1
+9,cupsd shutdown succeeded,6
+10,cupsd startup succeeded,6
+11,restart.,7
+12,connection from {address} () at {time},617
+13,Received SNMP packet(s) from {address},1
+14,Authentication failed from {address} ({address}): Permission denied in replay cache code,8
+15,Kerberos authentication failed,23
+16,Authentication failed from {address} ({address}): {reason},15
+17,*** info [{filename}({line_number})]:,1
+18,imps2: Auto-detected intellimouse PS/2,1
+19,session opened for user {username} by LOGIN(uid={uid}),1
+20,ROOT LOGIN ON {tty},1
+21,removing device node '{path}',4
+22,creating device node '{path}',4
+23,authentication failure; logname= uid={id} euid={id} tty={tty} ruser= rhost=,1
+24,Couldn't authenticate user,1
+25,authentication failure; logname= uid={id} euid={id} tty=NODEVssh ruser= rhost={web_address}  user={username},10
+26,"ANONYMOUS FTP LOGIN FROM {address},  ({username})",2
+27,notify question section contains no SOA,16
+28,getpeername ({process}): {message},4
+29,warning: can't get client address: {reason},2
+30,syslogd startup succeeded,1
+31,"klogd {version}, log source = {source} started.",1
+32,Linux version {version} ({user}@{host}) (gcc version {gcc_version}) #{number} {time},1
+33,BIOS-provided physical RAM map:,1
+34,BIOS-e820: {start_address} - {end_address} (usable),2
+35,BIOS-e820: {start_address} - {end_address} (reserved),3
+36,{size} HIGHMEM available.,1
+37,{size} LOWMEM available.,1
+38,zapping low mappings.,1
+39,klogd startup succeeded,1
+40,On node {node} totalpages: {totalpages},1
+41,"DMA zone: {pages} pages, LIFO batch:{batch}",1
+42,"Normal zone: {pages} pages, LIFO batch:{batch}",1
+43,irqbalance startup succeeded,1
+44,"HighMem zone: {pages} pages, LIFO batch:{batch}",1
+45,DMI {version} present.,1
+46,ACPI disabled because your bios is from {year} and too old,1
+47,You can enable it with acpi=force,1
+48,Built {number} zonelists,1
+49,Kernel command line: {options},1
+50,mapped {size}/{total_size} trampoline to {address}.,1
+51,Initializing CPU#{cpu},1
+52,"CPU {cpu} irqstacks, hard={address} soft={address}",1
+53,portmap startup succeeded,1
+54,PID hash table entries: {entries} (order {order}: {bytes} bytes),1
+55,Detected {frequency} MHz processor.,1
+56,Version 1.0.6 Starting,1
+57,Using {source} for high-res timesource,1
+58,rpc.statd startup succeeded,1
+59,Console: colour {type} {resolution},1
+60,"Memory: {used_memory}k/{total_memory}k available ({kernel_code}k kernel code, {reserved_memory}k reserved, {data_memory}k data, {init_memory}k init, {high_memory}k highmem)",1
+61,Calibrating delay loop... {value} BogoMIPS,1
+62,Security Scaffold v{version} initialized,1
+63,SELinux: Initializing.,1
+64,SELinux: Starting in permissive mode,1
+65,"There is already a security framework initialized, register_security failed.",1
+66,Failure registering capabilities with the kernel,1
+67,selinux_register_security:  Registering secondary module capability,1
+68,Capability LSM initialized,1
+69,rpc.idmapd startup succeeded,1
+70,"Dentry cache hash table entries: {entries} (order: {order}, {bytes} bytes)",1
+71,"Inode-cache hash table entries: {entries} (order: {order}, {bytes} bytes)",1
+72,"Mount-cache hash table entries: {entries} (order: {order}, {bytes} bytes)",1
+73,"CPU: L1 I cache: {size}, L1 D cache: {size}",1
+74,CPU: L2 cache: {size},1
+75,Intel machine check architecture supported.,1
+76,Intel machine check reporting enabled on CPU#{cpu}.,1
+77,CPU: {brand} {model} (stepping {step}),1
+78,Enabling fast FPU save and restore... done.,1
+79,Enabling unmasked SIMD FPU exception support... done.,1
+80,Checking '{instruction}' instruction... {status}.,1
+81,Initializing random number generator:  succeeded,1
+82,POSIX conformance testing by UNIFIX,1
+83,NET: Registered protocol family {number},1
+84,"PCI: PCI BIOS revision {revision} entry at {address}, last bus={bus}",1
+85,PCI: Using configuration type {type},1
+86,mtrr: v2.0 ({version_date}),1
+87,ACPI: Subsystem revision {revision},1
+88,ACPI: Interpreter disabled.,1
+89,Linux Plug and Play Support v0.97 (c) Adam Belay,1
+90,Starting pcmcia:  succeeded,1
+91,usbcore: registered new driver usbfs,1
+92,usbcore: registered new driver hub,1
+93,ACPI: ACPI tables contain no PCI IRQ routing entries,1
+94,PCI: Invalid ACPI-PCI IRQ routing table,1
+95,PCI: Probing PCI hardware,1
+96,PCI: Probing PCI hardware (bus {bus}),1
+97,Transparent bridge - {address},1
+98,PCI: Using IRQ router {router} [{vendor}/{device}] at {address},1
+99,apm: BIOS version {version} Flags {flags} (Driver version {driver_version}),1
+100,audit: initializing netlink socket ({status}),1
+101,kernel.core_uses_pid = {value},1
+102,HCI daemon ver {version} started,1
+103,hcid startup succeeded,1
+104,audit({timestamp}:{value}): initialized,1
+105,Setting network parameters:  succeeded,1
+106,sdpd startup succeeded,1
+107,sdpd v1.5 started,1
+108,"Total HugeTLB memory allocated, {value}",1
+109,Bringing up loopback interface:  {result},1
+110,VFS: Disk quotas {module_version},1
+111,"Dquot-cache hash table entries: {entries} (order {order}, {bytes} bytes)",1
+112,SELinux:  Registering netfilter hooks,1
+113,Initializing Cryptographic API,1
+114,pci_hotplug: PCI Hot Plug PCI Core version: {version},1
+115,isapnp: Scanning for PnP cards...,1
+116,isapnp: No Plug & Play device found,1
+117,Real Time Clock Driver v1.12,1
+118,Linux agpgart interface v0.100 (c) Dave Jones,1

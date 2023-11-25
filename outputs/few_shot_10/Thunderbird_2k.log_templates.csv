@@ -1,0 +1,168 @@
+,EventTemplate,Occurrences
+0,session closed for user {user},24
+1,session opened for user {user} by (uid={uid}),19
+2,({user}) CMD (run-parts {path}),14
+3,data_thread() got not answer from any [{datasource}] datasource,819
+4,"synchronized to {ip}, stratum {stratum}",568
+5,[ib_sm_sweep.c:{process_id}]: ********************** NEW SWEEP ********************,62
+6,[ib_sm_sweep.c:{process_id}]: No topology change,62
+7,[ib_sm_sweep.c:{process_id}]: No configuration change required,62
+8,Local disconnected: {reason}.,3
+9,connection lost: '{reason}'.,2
+10,unable to qualify my own domain name ({hostname}) -- using short name,10
+11,"{id}: from={user}, size={size}, class={class}, nrcpts={nrcpts}, msgid={msgid}, relay={relay}@localhost",10
+12,"{id}: to={user}, ctladdr={user} ({ctladdr}), delay={delay}, xdelay={xdelay}, mailer={mailer}, pri={pri}, relay=[{relay_ip}] [{relay_hostname}], dsn={dsn}, stat={stat}",4
+13,"{id}: to={user}, ctladdr={user} ({ctladdr}), delay={delay}, xdelay={xdelay}, mailer={mailer}, pri={pri}, relay=[{relay}] [{relay}], dsn={dsn}, stat={stat}",4
+14,DHCPDISCOVER from {mac} via {interface},5
+15,DHCPOFFER on {ip} to {mac} via {interface},5
+16,DHCPDISCOVER from {mac} via eth1: network {network}: no free leases,15
+17,DHCPACK on {ip} to {mac} via {interface},3
+18,DHCPREQUEST for {ip} ({ip}) from {mac} via {interface},3
+19,START: tftp pid={pid} from={ip},1
+20,DHCPREQUEST for {ip} ({ip}) from {mac} via {interface}: {message},9
+21,RRD_update ({path}): illegal attempt to update using time {timestamp} when last update time is {timestamp} (minimum one second step),11
+22,kernel time sync disabled {code},1
+23,time reset {offset} s,1
+24,Received SNMP packet(s) from {source},1
+25,kernel time sync enabled {status},1
+26,({user}) CMD ({path} {arg}),3
+27,({user}) CMD ({command}),1
+28,({user}) CMD ({command} {argument}),1
+29,My unqualified host name ({hostname}) unknown; sleeping for retry,5
+30,{os_name}-{os_version} (Kernel Module {module_name} key),1
+31,({options}),1
+32,DSDT (v001 {manufacturer} {product} 0x{version} {oem} 0x{checksum}) @ {address},1
+33,FADT (v001 {manufacturer} {product} 0x{revision} {oem_id} 0x{creator_id}) @ {address},1
+34,HPET (v001 {manufacturer} {product} {revision} {oem_id} {oem_table_id}) @ {address},1
+35,HPET id: {id} base: {base},1
+36,INT_SRC_OVR (bus {bus} bus_irq {bus_irq} global_irq {global_irq} dfl {dfl} dfl {dfl}),1
+37,INT_SRC_OVR (bus {bus} bus_irq {bus_irq} global_irq {global_irq} {level}),1
+38,IOAPIC (id[{id}] address[{address}] gsi_base[{gsi_base}]),3
+39,{message},11
+40,LAPIC (acpi_id[{acpi_id}] lapic_id[{lapic_id}] enabled),2
+41,LAPIC (acpi_id[0x{acpi_id}] lapic_id[0x{lapic_id}] enabled),2
+42,LAPIC_NMI (acpi_id[{acpi_id}] high edge lint[{lint}]),4
+43,Local APIC address {address},1
+44,MADT (v001 {manufacturer} {product} 0x{revision} {oem_id} 0x{oem_table_id}) @ {address},1
+45,MCFG (v001 {manufacturer} {product} 0x{revision} {oem_id} 0x{oem_table_id}) @ {address},1
+46,PCI Interrupt Link [LNKA] (IRQs {irqs}) *{number},1
+47,PCI Interrupt Link [{link}] (IRQs {irqs}),1
+48,PCI Interrupt Link [LNKC] (IRQs {irqs}) *{number},1
+49,"PCI Interrupt Link [{link}] (IRQs {irqs}) *{status}, {action}.",3
+50,"PCI Interrupt Link [LNKE] (IRQs {irqs}) *{status}, disabled.",1
+51,"PCI Interrupt Link [LNKG] (IRQs {irqs}) *{status}, {action}.",1
+52,PCI Interrupt Routing Table [\{path}],2
+53,PCI Interrupt Routing Table [{path}],6
+54,PCI Root Bridge [{bridge}] ({address}),1
+55,"PCI interrupt {device}[{type}] -> GSI {gsi} ({trigger}, {polarity}) -> IRQ {irq}",10
+56,"PCI interrupt {device}[{subdevice}] -> GSI {gsi} ({trigger}, {polarity}) -> IRQ {irq}",1
+57,Power Button ({button}) [{action}],1
+58,Processor [CPU{cpu_number}] (supports {support_level}),1
+59,Processor [CPU{number}] (supports {state}),1
+60,Processor [CPU{cpu_number}] (supports {support}),1
+61,Processor [CPU{cpu_number}] (supports {state}),1
+62,RSDP (v000 {manufacturer} ) @ {address},1
+63,RSDT (v001 {manufacturer} {product} 0x{revision} {oem_id} 0x{oem_table_id}) @ {address},1
+64,SPCR (v001 {manufacturer} {product_name} {revision} {signature} {oem_id} {oem_table_id}) @ {address},1
+65,Subsystem revision {revision},1
+66,Using IOAPIC for interrupt routing,1
+67,{processor} stepping {step},1
+68,L2 cache: {size},5
+69,Physical Processor ID: {id},5
+70,"Trace cache: {trace_uops} uops, L1 D cache: {l1_cache}",5
+71,colour {mode},1
+72,mounted filesystem with ordered data mode.,3
+73,"{filename},v {version} {date} {time} {user} {action} {comment}",1
+74,"apic_id {id}, version {version}, address {address}, GSI {gsi}",1
+75,"apic_id {id}, version {version}, address {address}, GSI {gsi1}-{gsi2}",2
+76,"routing cache hash table of {buckets} buckets, {memory}",1
+77,PCI Hot Plug PCI Core version: {version},1
+78,"root={root} initrd={initrd} console={console} console={console},19200 fastboot BOOT_IMAGE={boot_image}",1
+79,Registered protocol family {family},3
+80,Registered protocol family 17,1
+81,Using software bounce buffering for IO (SWIOTLB),1
+82,Probing PCI hardware (bus {bus}),1
+83,Transparent bridge - {device},1
+84,Using ACPI for IRQ routing,1
+85,Using MMCONFIG at {address},1
+86,Using configuration type {type},1
+87,Compressed image found at block {block_number},1
+88,Initializing.,1
+89,Registering netfilter hooks,1
+90,Starting in {mode} mode,1
+91,Unregistering netfilter hooks,1
+92,Direct-Access ANSI SCSI revision: 02,1
+93,Processor ANSI SCSI revision: {revision},1
+94,Disk quotas {module},1
+95,Mounted root ({filesystem} filesystem).,1
+96,MegaRAID Model: {model} RAID{level} {capacity} Rev: {revision},1
+97,{model} Model: {interface} SCSI BP Rev: {revision},1
+98,initialized,1
+99,initializing netlink socket ({status}),1
+100,{version} (2003-12-10) initialised: #{number}#@#{number},1
+101,allocating {divert_blk} for {interface},2
+102,not allocating divert_blk for non-ethernet device {device},2
+103,v{version}:USB HID core driver,1
+104,eth0: {function}: {message},1
+105,eth0: e1000_watchdog: NIC Link is Up {speed} Mbps {duplex},1
+106,eth1: {function}: {description},1
+107,no {device} controllers found,1
+108,Wait for ready failed before probe !,6
+109,Assuming {speed} system bus speed for PIO modes; override with idebus={xx},1
+110,Unknown cmd fd({fd}) cmd({cmd}){arg1} arg({arg2}) on {device},1
+111,({info}) {year}-{year} {team},4
+112,Installing public key data,1
+113,... autorun DONE.,2
+114,Autodetecting RAID arrays.,2
+115,autorun ...,2
+116,"md driver {version} MAX_MD_DEVS={max_devs}, MD_SB_DISKS={sb_disks}",1
+117,#{number}#-{name} (Release Date: {date}),1
+118,#{version}# (Release Date: {date}),1
+119,fw version:[{fw_version}] bios version:[{bios_version}],1
+120,probe new device {vendor_id}:{product_id}:{subsystem_vendor_id}:{subsystem_id}: bus {bus}:slot {slot}:func {func},1
+121,{device_type} device common for all {device_plural},1
+122,v2.0 ({date}),1
+123,{process} startup succeeded,3
+124,{service} startup succeeded,2
+125,Starting {process}: {status},1
+126,Version {version} Starting,1
+127,scanning scsi channel {channel} [Phy {phy}] for non-raid devices,1
+128,scanning scsi channel {channel} [{type}] for logical drives,1
+129,asking for cache data failed,1
+130,assuming drive cache: {cache},1
+131,{disk} {disk} {disk} {disk},1
+132,Registering secondary module capability,1
+133,{device} port at {port_address} irq {irq_number},1
+134,i8042 KBD port at {port_address} irq {irq_number},1
+135,{application} version {version} starting,1
+136,Detected {frequency} MHz processor.,1
+137,Using {frequency} MHz HPET timer.,1
+138,Using HPET based timekeeping.,1
+139,Creating Topspin /dev entries:,1
+140,registered new driver {driver},3
+141,registered new driver usbfs,1
+142,probe of {device} failed with error {error_code},1
+143,"connection from ""{source}""",2
+144,"User {user_id}, coming from {source}, authenticated.",2
+145,Now running on #{id}#'s privileges.,2
+146,Mounting NFS filesystems: {status},1
+147,Mounting other filesystems: {status},1
+148,Warning: we failed to resolve data source name {data_sources},19
+149,Warning: we failed to resolve data source name {datasources},14
+150,Warning: we failed to resolve data source name {datasource},1
+151,Warning: we failed to resolve trusted host name {hostname},1
+152,Registered protocol family 10,1
+153,{status},2
+154,Server listening on :: port {port}.,1
+155,error: Bind to port {port} on {ip} failed: {reason}.,1
+156,Cannot open file {file_path} for writing ({error_message}),1
+157,Changing permissions on special file {file_path},1
+158,Reading included configuration file: {path} [file={file}] [line={line}],17
+159,Started working: {count} available service,1
+160,removing {service},13
+161,removing {printer},1
+162,removing {variable},2
+163,{service} Version {version} started with {options} options compiled in.,1
+164,"{id}: to={user}, ctladdr={user} ({int}/{int}), delay={delay}, xdelay={xdelay}, mailer={mailer}, pri={pri}, relay=[{relay}] [{relay}], dsn={dsn}, stat={stat}",2
+165,connection lost: '{reason}',1
+166,"Device: {device}, Temperature changed {old_temp} Celsius to {new_temp} Celsius since last report",1
